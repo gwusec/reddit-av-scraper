@@ -1,0 +1,2958 @@
+{
+    "db": [
+        {
+            "id": 157,
+            "name": "Tuta",
+            "rating": "A",
+            "url": "tutanota.com,tuta.com"
+        },
+        {
+            "id": 158,
+            "name": "Apple Services",
+            "rating": "D",
+            "url": "apple.com,shazam.com,webkit.org,cdn-apple.com,apple.news"
+        },
+        {
+            "id": 164,
+            "name": "Vimeo",
+            "rating": "E",
+            "url": "vimeo.com,vimeocdn.com,livestream.com"
+        },
+        {
+            "id": 165,
+            "name": "Goodreads",
+            "rating": "E",
+            "url": "goodreads.com"
+        },
+        {
+            "id": 173,
+            "name": "WordPress.org",
+            "rating": "B",
+            "url": "wordpress.org,wordpress.net,wordcamp.org,buddypress.org,bbpress.org"
+        },
+        {
+            "id": 175,
+            "name": "Pinterest",
+            "rating": "E",
+            "url": "pinterest.com,pinterestinc.com,pinimg.com"
+        },
+        {
+            "id": 177,
+            "name": "Wikimedia",
+            "rating": "B",
+            "url": "wikimedia.org,wikimediafoundation.org,wikiquote.org,wikiversity.org,wikidata.org,wikivoyage.org,wikibooks.org,wikinews.org,wiktionary.org,wikisource.org"
+        },
+        {
+            "id": 180,
+            "name": "Steam",
+            "rating": "D",
+            "url": "steampowered.com,steamcommunity.com,steamdeck.com,s.team,steamgames.com"
+        },
+        {
+            "id": 182,
+            "name": "Facebook",
+            "rating": "E",
+            "url": "facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion,facebookcorewwwi.onion,messenger.com,fb.com,fbcdn.net,facebook.net,atdmt.com,lrcdn.net,atdmt.com,atlassolutions.com,accountkit.com"
+        },
+        {
+            "id": 183,
+            "name": "CouchSurfing",
+            "rating": "E",
+            "url": "couchsurfing.org,couchsurfing.com"
+        },
+        {
+            "id": 185,
+            "name": "Netflix",
+            "rating": "D",
+            "url": "netflix.com"
+        },
+        {
+            "id": 186,
+            "name": "Flickr",
+            "rating": "E",
+            "url": "flickr.com"
+        },
+        {
+            "id": 187,
+            "name": "Meredith",
+            "rating": "E",
+            "url": "meredith.com,meredithdirectmedia.com,people.com,peopleenespanol.com,allrecipes.com,shapehealthhalf.com,eatingwell.com,shape.com,health.com"
+        },
+        {
+            "id": 188,
+            "name": "Firefox Cloud Services",
+            "rating": "B",
+            "url": "accounts.firefox.com,lockwise.firefox.com,screenshots.firefox.com"
+        },
+        {
+            "id": 190,
+            "name": "Amazon",
+            "rating": "E",
+            "url": "amazon.com,amazon.com.au,amazon.de,amazon.co.uk,amazon.nl,amazon.pl,amazon.sa,amazon.sg,amazon.se,amazon.com.tr,amazon.ae,amazon.co.jp,amazon.es,amazon.in,amazon.ca,amazon.fr,amazon.it,amazon.com.br,amazon.cn,amazon.com.mx,amzn.to,amazontrust.com,amazongames.com"
+        },
+        {
+            "id": 192,
+            "name": "DeviantArt",
+            "rating": "D",
+            "url": "deviantart.com"
+        },
+        {
+            "id": 193,
+            "name": "LinkedIn",
+            "rating": "E",
+            "url": "linkedin.com,lynda.com,licdn.com,snap.licdn.com"
+        },
+        {
+            "id": 194,
+            "name": "Reddit",
+            "rating": "E",
+            "url": "reddit.com,reddithelp.com,redditinc.com,redditgifts.com,redditblog.com,redditforbusiness.com"
+        },
+        {
+            "id": 195,
+            "name": "X",
+            "rating": "E",
+            "url": "twitter.com,blog.twitter.com,analytics.twitter.com,tweetdeck.twitter.com,ads-twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com"
+        },
+        {
+            "id": 198,
+            "name": "WhatsApp",
+            "rating": "D",
+            "url": "whatsapp.com,wa.me"
+        },
+        {
+            "id": 200,
+            "name": "Twitch",
+            "rating": "E",
+            "url": "twitch.tv,twitch.com,twitchadvertising.tv,igdb.com"
+        },
+        {
+            "id": 206,
+            "name": "Slack",
+            "rating": "B",
+            "url": "slack.com,slack.shop,slackhq.com,slackcertified.com,api.slack.com"
+        },
+        {
+            "id": 208,
+            "name": "Pure Dating",
+            "rating": "D",
+            "url": "pure.dating"
+        },
+        {
+            "id": 214,
+            "name": "WeTransfer",
+            "rating": "D",
+            "url": "wetransfer.com"
+        },
+        {
+            "id": 217,
+            "name": "Google",
+            "rating": "E",
+            "url": "google.com,google.co.in,google.co.jp,google.de,google.co.uk,google.com.br,google.fr,google.ru,google.it,google.com.hk,google.es,google.ca,google.com.mx,google.com.tr,google.com.au,google.com.tw,google.pl,google.co.id,google.com.ar,google.com.ua,google.com.pk,google.co.th,google.com.sa,google.com.eg,google.nl,google.co.ve,google.co.za,google.gr,google.com.ph,google.se,google.com.sg,google.be,google.az,google.co.ao,google.com.co,google.co.kr,google.at,google.com.vn,google.cn,google.com.ng,google.cz,google.ch,google.no,google.ro,google.com.pe,google.pt,google.cl,google.ae,google.ie,google.dk,google.dz,google.hu,google.fi,google.co.il,google.sk,google.kz,google.com.kw,google.co.nz,google.lk,google.bg,google.by,google.com.do,google.com.ly,google.rs,google.com.mm,google.hr,google.com.ec,google.tn,google.com.my,google.lt,google.tm,google.iq,google.si,google.com.af,google.com.gt,google.lv,google.com.pr,google.com.gh,google.com.bd,google.com.cu,google.jo,google.com.lb,google.com.sv,google.ee,google.com.bh,google.ba,google.com.uy,google.co.ma,google.cm,google.tt,google.com.kh,google.com.py,google.com.np,google.com.cy,google.com.ni,google.com.et,google.cd,google.hn,google.ge,google.am,google.lu,google.com.qa,google.co.mz,google.co.bw,google.mg,google.sn,google.com.pg,google.cg,google.com.bn,google.com.tj,google.ht,google.co.zm,google.co.ke,google.al,google.bf,google.mu,google.co.cr,google.la,google.mn,google.com.bo,google.org,google.com.jm,google.co.tz,google.com.na,google.ml,google.com.mt,google.is,google.bj,google.co.ug,google.rw,google.com.om,google.ci,google.bs,google.td,google.ps,google.com.gi,google.com.pa,google.com.sl,google.co.uz,google.md,google.bi,google.sr,google.cat,google.so,google.bt,google.je,google.gy,google.me,google.co.zw,google.gp,google.tg,google.co.ls,google.as,google.com.bz,google.cf,google.mv,google.ad,google.li,google.cv,google.mk,google.com.vc,google.com.ag,google.gl,google.ne,google.mw,google.ws,google.kg,google.gm,google.to,google.com.sb,google.com.tn,google.ga,google.tl,google.im,google.com.fj,google.dj,google.ac,google.com.iq,google.vg,google.dm,google.sc,google.com.pt,google.com.cn,google.st,google.ng,google.com.ai,google.ki,google.vu,google.sm,google.jp,google.om,google.co.vi,google.gg,google.fm,google.hk,google.co.ck,google.tk,google.co,google.in,google.co.je,google.com.ve,google.tw,google.us,google.ua,google.de.com,google.ms,google.com.by,google.nr,google.br.com,google.sh,google.hk.com,google.kr,maps.google.com,gmail.google.com,pki.goog,alooma.com,thinkwithgoogle.com,blogger.com,x.company,crashlytics.com,translate.goog,opensource.google,nest.com,home.nest.com,googlesource.com,teachfromanywhere.google,about.google,googleusercontent.com,withgoogle.com,csfirst.withgoogle.com,chrome.com,developer.chrome.com,mail.google.com"
+        },
+        {
+            "id": 219,
+            "name": "Instagram",
+            "rating": "E",
+            "url": "instagram.com,help.instagram.com,about.instagram.com,threads.net"
+        },
+        {
+            "id": 221,
+            "name": "Waze",
+            "rating": "C",
+            "url": "waze.com"
+        },
+        {
+            "id": 222,
+            "name": "DuckDuckGo",
+            "rating": "B",
+            "url": "duckduckgo.com,3g2upl4pq6kufc4m.onion,spreadprivacy.com,duckduckhack.com,donttrack.us,duck.co,duck.com"
+        },
+        {
+            "id": 224,
+            "name": "Bitly",
+            "rating": "D",
+            "url": "bitly.com,getbitly.today,getbitly.pro"
+        },
+        {
+            "id": 225,
+            "name": "Spotify",
+            "rating": "E",
+            "url": "spotify.com,spotifyforvendors.com,spotifyjobs.com"
+        },
+        {
+            "id": 226,
+            "name": "eBay",
+            "rating": "E",
+            "url": "ebay.com,ebay.co.uk,ebay.ca,ebay.fr,ebay.nl,ebay.co.jp,ebay.com.au,ebay.it,ebay.ie,ebay.de,ebay.ch"
+        },
+        {
+            "id": 230,
+            "name": "PayPal",
+            "rating": "E",
+            "url": "paypal.com,paypal-corp.com,paypal.me,paypalobjects.com,paypal-gifts.com,paypal-communication.com,epl.paypal-communication.com"
+        },
+        {
+            "id": 232,
+            "name": "OpenStreetMap",
+            "rating": "C",
+            "url": "openstreetmap.org,osmfoundation.org,stateofthemap.org,stateofthemap.com,openstreetmap.net,openstreetmaps.org,openmaps.org,osm.org"
+        },
+        {
+            "id": 239,
+            "name": "Disqus",
+            "rating": "E",
+            "url": "disqus.com"
+        },
+        {
+            "id": 244,
+            "name": "Microsoft Services",
+            "rating": "E",
+            "url": "powerapps.com,microsoft.com,xbox.com,microsoft.org,microsoft.net,microsoft.co.uk,live.com,microsoftedgeinsider.com,msdn.com,office.com,office365.com,msn.com,typescriptlang.org,microsoft.com,groupme.com,skype.com,microsoft.nl,microsoft.co,microsoft.dk,outlook.dk,skype.dk,outlook.com.au,yammer.com,azure.com,userpxt.io,azureedge.net,onedrive.com,microsoftnewskids.com,makecode.com,microbit.org,makecode.microbit.org,microsoftonline.com,hololens.com,sysinternals.com,1drv.ms,dreamspark.com,redirect.microsoft,clarity.ms,vscode.dev,visualstudio.com,github.dev,teams.com,customsearch.ai,windows.com,aka.ms,customsearch.ai"
+        },
+        {
+            "id": 251,
+            "name": "Foursquare",
+            "rating": "D",
+            "url": "foursquare.com"
+        },
+        {
+            "id": 252,
+            "name": "Uber",
+            "rating": "E",
+            "url": "uber.com,postmates.com,ubereats.com"
+        },
+        {
+            "id": 262,
+            "name": "Symbaloo",
+            "rating": "D",
+            "url": "symbaloo.com"
+        },
+        {
+            "id": 264,
+            "name": "VKontakte",
+            "rating": "E",
+            "url": "vk.com"
+        },
+        {
+            "id": 265,
+            "name": "Wikipedia",
+            "rating": "B",
+            "url": "wikipedia.org"
+        },
+        {
+            "id": 267,
+            "name": "SpiderOak",
+            "rating": "C",
+            "url": "spideroak.com"
+        },
+        {
+            "id": 270,
+            "name": "Dropbox",
+            "rating": "D",
+            "url": "dropbox.com,dropboxforum.com"
+        },
+        {
+            "id": 274,
+            "name": "YouTube",
+            "rating": "E",
+            "url": "youtube.com"
+        },
+        {
+            "id": 275,
+            "name": "Minecraft",
+            "rating": "E",
+            "url": "minecraft.net"
+        },
+        {
+            "id": 280,
+            "name": "Tumblr",
+            "rating": "B",
+            "url": "tumblr.com"
+        },
+        {
+            "id": 291,
+            "name": "iCloud",
+            "rating": "D",
+            "url": "icloud.com"
+        },
+        {
+            "id": 297,
+            "name": "GitHub",
+            "rating": "B",
+            "url": "github.com,github.blog,github.community,githubstatus.com,github.io,globalprivacycontrol.org"
+        },
+        {
+            "id": 305,
+            "name": "eBuddy",
+            "rating": "D",
+            "url": "ebuddy.com"
+        },
+        {
+            "id": 306,
+            "name": "Mega",
+            "rating": "C",
+            "url": "mega.nz,mega.io,g.api.mega.co.nz,mega.co.nz"
+        },
+        {
+            "id": 309,
+            "name": "Yahoo!",
+            "rating": "E",
+            "url": "yahoo.com,autoblog.com,yahooinc.com,adtech.com,nexage.com,aol.com,millennialmedia.com,flurry.com,aws.oath.cloud,oath.cloud,advertising.com,adtech.de"
+        },
+        {
+            "id": 311,
+            "name": "Snapchat",
+            "rating": "E",
+            "url": "snapchat.com,sc-cdn.net,sc-corp.net,sc-gw.com,sc-jpl.com,sc-prod.net,sc-static.net,snapads.com,snap-dev.net,snapkit.com"
+        },
+        {
+            "id": 312,
+            "name": "Stack Overflow",
+            "rating": "D",
+            "url": "stackoverflow.com,stackexchange.com,stackapps.com,mathoverflow.net,superuser.com,askubuntu.com,serverfault.com"
+        },
+        {
+            "id": 313,
+            "name": "IMDb",
+            "rating": "E",
+            "url": "imdb.com"
+        },
+        {
+            "id": 314,
+            "name": "Quora",
+            "rating": "D",
+            "url": "quora.com"
+        },
+        {
+            "id": 315,
+            "name": "WikiHow",
+            "rating": "E",
+            "url": "wikihow.com"
+        },
+        {
+            "id": 317,
+            "name": "Fox News",
+            "rating": "E",
+            "url": "foxnews.com,foxnewsrundown.com"
+        },
+        {
+            "id": 318,
+            "name": "CNN",
+            "rating": "E",
+            "url": "cnn.com"
+        },
+        {
+            "id": 319,
+            "name": "W3Schools",
+            "rating": "D",
+            "url": "w3schools.com,w3schools.in"
+        },
+        {
+            "id": 322,
+            "name": "BBC",
+            "rating": "D",
+            "url": "bbc.com"
+        },
+        {
+            "id": 324,
+            "name": "Urban Dictionary",
+            "rating": "D",
+            "url": "urbandictionary.com,urbandictionary.blog,urbandictionary.store"
+        },
+        {
+            "id": 327,
+            "name": "RiseUp.net",
+            "rating": "B",
+            "url": "riseup.net,nzh3fv6jc6jskki3.onion,vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion"
+        },
+        {
+            "id": 331,
+            "name": "Bing",
+            "rating": "E",
+            "url": "bing.com"
+        },
+        {
+            "id": 347,
+            "name": "GoDaddy",
+            "rating": "D",
+            "url": "godaddy.com,godaddy.net"
+        },
+        {
+            "id": 348,
+            "name": "Hulu",
+            "rating": "E",
+            "url": "hulu.com"
+        },
+        {
+            "id": 356,
+            "name": "SourceForge",
+            "rating": "D",
+            "url": "sourceforge.net"
+        },
+        {
+            "id": 358,
+            "name": "kik-messenger",
+            "rating": "E",
+            "url": "kik.com"
+        },
+        {
+            "id": 369,
+            "name": "Riot Games (League of Legends)",
+            "rating": "D",
+            "url": "leagueoflegends.com,lolesports.com,riotgames.com,playruneterra.com,playvalorant.com,riotforgegames.com,valorantesports.com,arcane.com,themageseeker.com,ruinedking.com,hextechmayhem.com,convrgencegame.com,songofnunu.com"
+        },
+        {
+            "id": 370,
+            "name": "ASKfm",
+            "rating": "D",
+            "url": "https://ask.fm/"
+        },
+        {
+            "id": 382,
+            "name": "Tripadvisor",
+            "rating": "E",
+            "url": "tripadvisor.com,tripadvisor.ca,tripadvisor.com.br,tripadvisor.com.mx,tripadvisor.com.ar,tripadvisor.cl,tripadvisor.co,tripadvisor.com.pe,tripadvisor.com.ve,tripadvisor.co.uk,tripadvisor.it,tripadvisor.es,tripadvisor.de,tripadvisor.fr,tripadvisor.se,tripadvisor.nl,tripadvisor.com.tr,tripadvisor.dk,tripadvisor.ie,tripadvisor.at,tripadvisor.com.gr,no.tripadvisor.com,tripadvisor.pt,tripadvisor.ru,tripadvisor.ch,tripadvisor.be,tripadvisor.jp,tripadvisor.cn,tripadvisor.in,tripadvisor.com.au,tripadvisor.com.my,tripadvisor.co.nz,tripadvisor.com.ph,tripadvisor.com.sg,tripadvisor.co.id,tripadvisor.co.kr,th.tripadvisor.com,tripadvisor.com.vn,tripadvisor.com.tw,tripadvisor.com.hk,ar.tripadvisor.com,tripadvisor.com.eg,tripadvisor.co.za,tripadvisor.co.il"
+        },
+        {
+            "id": 384,
+            "name": "Pocket",
+            "rating": "D",
+            "url": "getpocket.com"
+        },
+        {
+            "id": 390,
+            "name": "F-List",
+            "rating": "D",
+            "url": "f-list.net"
+        },
+        {
+            "id": 403,
+            "name": "Fur Affinity",
+            "rating": "E",
+            "url": "furaffinity.net"
+        },
+        {
+            "id": 406,
+            "name": "Xiaomi",
+            "rating": "B",
+            "url": "mi.com"
+        },
+        {
+            "id": 417,
+            "name": "Adobe Services",
+            "rating": "E",
+            "url": "adobe.com,photoshop.com,omniture.com,omtrdc.net,auditude.com,marketo.com,marketo.net,mktoedge.com,mktossl.com,mktorest.com,macromedia.com,adobetag.com,behance.net"
+        },
+        {
+            "id": 418,
+            "name": "Startpage",
+            "rating": "A",
+            "url": "startpage.com"
+        },
+        {
+            "id": 443,
+            "name": "Kongregate",
+            "rating": "C",
+            "url": "kongregate.com"
+        },
+        {
+            "id": 444,
+            "name": "Heaven HR",
+            "rating": "C",
+            "url": "heavenhr.com,heavenhr.de"
+        },
+        {
+            "id": 445,
+            "name": "Walmart",
+            "rating": "E",
+            "url": "walmart.com,walmart.ca,massmart.co.za,walmartchile.cl,wal-martchina.com,walmartmexico.com.mx,walmartplus.com,drive4spark.com"
+        },
+        {
+            "id": 460,
+            "name": "Credit Karma",
+            "rating": "E",
+            "url": "creditkarma.com"
+        },
+        {
+            "id": 462,
+            "name": "Tinder",
+            "rating": "E",
+            "url": "tinder.com,etl.tindersparks.com,tindersparks.com,gotinder.com"
+        },
+        {
+            "id": 489,
+            "name": "Xfinity",
+            "rating": "D",
+            "url": "xfinity.com,xfinityoncampus.com,internetessentials.com"
+        },
+        {
+            "id": 490,
+            "name": "HuffPost",
+            "rating": "D",
+            "url": "huffpost.com,huffingtonpost.com"
+        },
+        {
+            "id": 491,
+            "name": "Proton AG",
+            "rating": "A",
+            "url": "protonmail.com,protonmail.ch,getproton.me,pm.me,protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,proton.me,protonapps.com"
+        },
+        {
+            "id": 505,
+            "name": "Canva",
+            "rating": "D",
+            "url": "canva.com"
+        },
+        {
+            "id": 506,
+            "name": "YNAB. (You Need a Budget)",
+            "rating": "C",
+            "url": "youneedabudget.com"
+        },
+        {
+            "id": 509,
+            "name": "Free Code Camp",
+            "rating": "B",
+            "url": "freecodecamp.org"
+        },
+        {
+            "id": 511,
+            "name": "MyAnimeList",
+            "rating": "D",
+            "url": "myanimelist.net"
+        },
+        {
+            "id": 513,
+            "name": "BitChute",
+            "rating": "C",
+            "url": "bitchute.com"
+        },
+        {
+            "id": 523,
+            "name": "Search Encrypt",
+            "rating": "C",
+            "url": "searchencrypt.com"
+        },
+        {
+            "id": 525,
+            "name": "Fedora",
+            "rating": "B",
+            "url": "getfedora.org,fedoraproject.org"
+        },
+        {
+            "id": 527,
+            "name": "Qwant",
+            "rating": "B",
+            "url": "qwant.com,qwantjunior.com"
+        },
+        {
+            "id": 528,
+            "name": "Signal",
+            "rating": "B",
+            "url": "signal.org,whispersystems.org"
+        },
+        {
+            "id": 530,
+            "name": "Mozilla.org",
+            "rating": "C",
+            "url": "mozilla.org,extensionworkshop.com,firefox.com"
+        },
+        {
+            "id": 534,
+            "name": "Kahoot!",
+            "rating": "C",
+            "url": "kahoot.com,kahoot.it"
+        },
+        {
+            "id": 536,
+            "name": "Discord",
+            "rating": "E",
+            "url": "discord.com,discord.gg,discord.co,discordapp.io,discord.dev,discord.new,discord.media,discord.design,discordapp.com,discordapp.net,dis.gd,discord.gift,discordstatus.com,discordcdn.com,airhorn.solutions,airhornbot.com,bigbeans.solutions,watchanimeattheoffice.com"
+        },
+        {
+            "id": 539,
+            "name": "Blizzard",
+            "rating": "E",
+            "url": "blizzard.com,support.blizzard.com,careers.blizzard.com,us.blizzard.com,account.blizzard.com,communitytournaments.blizzardesports.com,news.blizzard.com,shop.blizzard.com,us.forums.blizzard.com,battle.net,shop.battle.net,us.shop.battle.net,us.battle.net,eu.shop.battle.net,kr.shop.battle.net,tw.shop.battle.net,shop.battlenet.com.cn,develop.battle.net,blizzard.gamespress.com,eu.battle.net,kr.battle.net,tw.battle.net,support.blizzardgames.cn,playoverwatch.com,overwatch2.playoverwatch.com,ow.blizzard.cn,blizzcon.playoverwatch.com,diablo.blizzard.com,diablo3.blizzard.com,eu.forums.blizzard.com,tw.forums.blizzard.com,kr.forums.blizzard.com,starcraft2.com,starcraft.com,gold.blizzard.cn,sc2.blizzard.cn,diabloimmortal.com,di.blizzard.cn,worldofwarcraft.com,wowchina.com,playheartstone.com,firesidegatherings.com,hs.blizzard.cn,heroesofthestorm.com,heroes.blizzard.cn,playwarcraft3.com,war3.blizzard.cn"
+        },
+        {
+            "id": 576,
+            "name": "Atlassian",
+            "rating": "D",
+            "url": "atlassian.com,trello.com,bitbucket.org,atlassian.net,statuspage.io,stspg-customer.com"
+        },
+        {
+            "id": 580,
+            "name": "Liberapay",
+            "rating": "B",
+            "url": "liberapay.com"
+        },
+        {
+            "id": 591,
+            "name": "Ecosia",
+            "rating": "C",
+            "url": "ecosia.org"
+        },
+        {
+            "id": 592,
+            "name": "Campus Innovations Kultur",
+            "rating": "C",
+            "url": "cik.cool"
+        },
+        {
+            "id": 596,
+            "name": "ToS;DR",
+            "rating": "B",
+            "url": "tosdr.org,tosdr.community,ybf3byfbutzozmau4elus7zm5feo3cqvy74er4qnxkgicbatzfq3qhqd.onion,cphdgvjdcet6ctztiqxabspxqojhafygqtfcjztxxn5jfngizzsp7tqd.onion,xkp3bueakhnea3hw4t4izybudyysnoc4jt746z7555mpv2w4p73ihhyd.onion,6tc72lnilgt4dn2u6qk44vfns2qca552smajbilfcl6zs7ezf7emhbad.onion,5qicbosngbkejsqpkywunvechlmcivsnhy2u5pbhtxd2laq5p7ufohid.onion"
+        },
+        {
+            "id": 603,
+            "name": "Discogs",
+            "rating": "D",
+            "url": "discogs.com,comicogs.com,filmo.gs,gearogs.com,vinylhub.com,bookogs.com,posterogs.com"
+        },
+        {
+            "id": 609,
+            "name": "Bandcamp",
+            "rating": "C",
+            "url": "bandcamp.com"
+        },
+        {
+            "id": 613,
+            "name": "Doodle",
+            "rating": "C",
+            "url": "doodle.com"
+        },
+        {
+            "id": 614,
+            "name": "Amnesty International Limited (UK)",
+            "rating": "B",
+            "url": "amnesty.org"
+        },
+        {
+            "id": 616,
+            "name": "Pornhub",
+            "rating": "E",
+            "url": "pornhub.com, modelhub.com"
+        },
+        {
+            "id": 618,
+            "name": "Genius",
+            "rating": "D",
+            "url": "genius.com"
+        },
+        {
+            "id": 628,
+            "name": "SpigotMC",
+            "rating": "B",
+            "url": "spigotmc.org"
+        },
+        {
+            "id": 630,
+            "name": "RESEARCHCHEMAIAL SWITZERLAND",
+            "rating": "N/A",
+            "url": "get-rc.to"
+        },
+        {
+            "id": 632,
+            "name": "edX",
+            "rating": "D",
+            "url": "edx.org"
+        },
+        {
+            "id": 634,
+            "name": "Bumble",
+            "rating": "D",
+            "url": "bumble.com"
+        },
+        {
+            "id": 635,
+            "name": "OsmAnd",
+            "rating": "D",
+            "url": "osmand.net"
+        },
+        {
+            "id": 639,
+            "name": "mastodon.social",
+            "rating": "C",
+            "url": "mastodon.social,joinmastodon.org,mastodon.online"
+        },
+        {
+            "id": 687,
+            "name": "FastMail",
+            "rating": "B",
+            "url": "fastmail.com"
+        },
+        {
+            "id": 693,
+            "name": "Viagogo",
+            "rating": "D",
+            "url": "viagogo.at, viagogo.be, viagogo.ca, viagogo.ch, viagogo.com, viagogo.com.tr, viagogo.co.uk, viagogo.co.za, viagogo.de, viagogo.dk, viagogo.es, viagogo.fr, viagogo.gr, viagogo.ie, viagogo.it, viagogo.jp, viagogo.lu, viagogo.com.mx, viagogo.nl, viagogo.pl, viagogo.pt, viagogo.se"
+        },
+        {
+            "id": 697,
+            "name": "NordVPN",
+            "rating": "D",
+            "url": "nordvpn.com"
+        },
+        {
+            "id": 698,
+            "name": "Sync",
+            "rating": "A",
+            "url": "sync.com"
+        },
+        {
+            "id": 705,
+            "name": "Nvidia",
+            "rating": "D",
+            "url": "nvidia.com,nvidia.de,geforce.com,nvidia.cn"
+        },
+        {
+            "id": 707,
+            "name": "Nextcloud",
+            "rating": "B",
+            "url": "nextcloud.com"
+        },
+        {
+            "id": 715,
+            "name": "BlaBlaCar",
+            "rating": "E",
+            "url": "blablacar.be,blablacar.co.uk,blablacar.com,blablacar.com.br,blablacar.com.tr,blablacar.com.ua,blablacar.cz,blablacar.de,blablacar.es,blablacar.fr,blablacar.gg,blablacar.hr,blablacar.hu,blablacar.in,blablacar.it,blablacar.mx,blablacar.nl,blablacar.pl,blablacar.pt,blablacar.ro,blablacar.ru"
+        },
+        {
+            "id": 721,
+            "name": "Bilibili",
+            "rating": "E",
+            "url": "bilibili.com,www.bilibili.com,live.bilibili.com"
+        },
+        {
+            "id": 727,
+            "name": "New York Times",
+            "rating": "D",
+            "url": "nytimes.com,nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion"
+        },
+        {
+            "id": 743,
+            "name": "Kink.com",
+            "rating": "N/A",
+            "url": "kink.com"
+        },
+        {
+            "id": 744,
+            "name": "Duolingo",
+            "rating": "C",
+            "url": "duolingo.com"
+        },
+        {
+            "id": 794,
+            "name": "Heroku",
+            "rating": "B",
+            "url": "heroku.com,herokuapp.com,herokudns.com,herokucdn.com"
+        },
+        {
+            "id": 798,
+            "name": "Patook",
+            "rating": "D",
+            "url": "patook.com"
+        },
+        {
+            "id": 805,
+            "name": "xda-developers",
+            "rating": "D",
+            "url": "xda-developers.com"
+        },
+        {
+            "id": 806,
+            "name": "Lichess",
+            "rating": "C",
+            "url": "lichess.org"
+        },
+        {
+            "id": 813,
+            "name": "Quizlet",
+            "rating": "D",
+            "url": "quizlet.com"
+        },
+        {
+            "id": 823,
+            "name": "Wishlist",
+            "rating": "D",
+            "url": "wishlist.com"
+        },
+        {
+            "id": 825,
+            "name": "Samsung",
+            "rating": "D",
+            "url": "samsung.com,samsungsupport.com,samsungrs.samsungapps.com,samsungosp.com,samsungcloud.com"
+        },
+        {
+            "id": 826,
+            "name": "FileFactory",
+            "rating": "E",
+            "url": "filefactory.com"
+        },
+        {
+            "id": 831,
+            "name": "Clockify",
+            "rating": "C",
+            "url": "clockify.me"
+        },
+        {
+            "id": 836,
+            "name": "Scratch",
+            "rating": "C",
+            "url": "scratch.mit.edu"
+        },
+        {
+            "id": 837,
+            "name": "Netsyms Technologies",
+            "rating": "A",
+            "url": "netsyms.com,netsyms.biz,netsyms.org,netsyms.net,netsyms.dev,terranquest.net,ntsm.co,helpinghelena.org"
+        },
+        {
+            "id": 838,
+            "name": "10minutemail",
+            "rating": "D",
+            "url": "10minutemail.com"
+        },
+        {
+            "id": 846,
+            "name": "Crunchyroll",
+            "rating": "E",
+            "url": "crunchyroll.com,crunchyrollexpo.com"
+        },
+        {
+            "id": 856,
+            "name": "Zoho",
+            "rating": "A",
+            "url": "zoho.com,zoho.eu,zoho.in,zohopublic.com,zohosites.com,zohodeveloper.com,zoho.com.au,zoho.com.cn,zoho.jp,zohopublic.eu,zohopublic.in,zohopublic.com.cn,zohopublic.com.au,zohopublic.jp,zohocorp.com,zohowebstatic.com,zohocdn.com,zohosalesiq.com,ulaabrowser.com"
+        },
+        {
+            "id": 860,
+            "name": "Yandex",
+            "rating": "E",
+            "url": "yandex.com,yandex.ru,yandex.ua,yandex.by,yandex.kz,yandex.uz,yandex.com.tr,alice.yandex.ru,"
+        },
+        {
+            "id": 866,
+            "name": "Dailymotion",
+            "rating": "E",
+            "url": "dailymotion.com"
+        },
+        {
+            "id": 894,
+            "name": "Cloudflare",
+            "rating": "D",
+            "url": "cloudflare.com,cloudflare.tv,cloudflarestatus.com,cloudflare.net,cloudflareinsights.com,cloudflareaccess.com,pages.dev"
+        },
+        {
+            "id": 912,
+            "name": "Malwarebytes",
+            "rating": "C",
+            "url": "malwarebytes.com"
+        },
+        {
+            "id": 969,
+            "name": "ToS;DR Phoenix",
+            "rating": "A",
+            "url": "edit.tosdr.org"
+        },
+        {
+            "id": 989,
+            "name": "Washington Post",
+            "rating": "E",
+            "url": "washingtonpost.com"
+        },
+        {
+            "id": 1003,
+            "name": "Medium",
+            "rating": "D",
+            "url": "medium.com,gopensource.com,towardsdatascience.com,lftechnology.com"
+        },
+        {
+            "id": 1007,
+            "name": "Brainly",
+            "rating": "D",
+            "url": "brainly.co,brainly.com.br,brainly.lat,brainly.com,znanija.com,nosdevoirs.fr,brainly.in,brainly.co.id,eodev.com,brainly.ph,brainly.pl,brainly.ro"
+        },
+        {
+            "id": 1010,
+            "name": "Patreon",
+            "rating": "C",
+            "url": "patreon.com,patreonusercontent.com"
+        },
+        {
+            "id": 1012,
+            "name": "BetterHelp",
+            "rating": "D",
+            "url": "betterhelp.com"
+        },
+        {
+            "id": 1013,
+            "name": "Fiverr",
+            "rating": "E",
+            "url": "fiverr.com"
+        },
+        {
+            "id": 1209,
+            "name": "Ryver",
+            "rating": "C",
+            "url": "ryver.com"
+        },
+        {
+            "id": 1336,
+            "name": "Roblox",
+            "rating": "C",
+            "url": "roblox.com"
+        },
+        {
+            "id": 1339,
+            "name": "Amazon AWS",
+            "rating": "E",
+            "url": "aws.amazon.com,skillbuilder.aws"
+        },
+        {
+            "id": 1348,
+            "name": "Bitwarden",
+            "rating": "C",
+            "url": "bitwarden.com,bitwarden.eu,passwordless.dev"
+        },
+        {
+            "id": 1352,
+            "name": "MySudo",
+            "rating": "B",
+            "url": "mysudo.com,anonyome.com"
+        },
+        {
+            "id": 1357,
+            "name": "Minds",
+            "rating": "C",
+            "url": "minds.com,minds.org"
+        },
+        {
+            "id": 1362,
+            "name": "Wattpad",
+            "rating": "C",
+            "url": "wattpad.com"
+        },
+        {
+            "id": 1364,
+            "name": "Brilliant",
+            "rating": "C",
+            "url": "brilliant.org"
+        },
+        {
+            "id": 1372,
+            "name": "Presearch",
+            "rating": "D",
+            "url": "presearch.io,presearch.org"
+        },
+        {
+            "id": 1377,
+            "name": "Upcloud",
+            "rating": "B",
+            "url": "upcloud.com"
+        },
+        {
+            "id": 1447,
+            "name": "Observable",
+            "rating": "C",
+            "url": "observablehq.com"
+        },
+        {
+            "id": 1448,
+            "name": "TikTok",
+            "rating": "E",
+            "url": "tiktok.com"
+        },
+        {
+            "id": 1452,
+            "name": "Pragmatic Blog (DEPRECATED)",
+            "rating": "A",
+            "url": "pragmader.me"
+        },
+        {
+            "id": 1468,
+            "name": "Ziff Davis",
+            "rating": "D",
+            "url": "ziffdavis.com,ign.com,pcmag.com,zdbb.net,askmen.com,extremetech.com,techbargains.com,mashable.com,offers.com,couponcodes.com"
+        },
+        {
+            "id": 1487,
+            "name": "Brave",
+            "rating": "B",
+            "url": "brave.com,brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion,basicattentiontoken.org,"
+        },
+        {
+            "id": 1488,
+            "name": "Cover your Tracks",
+            "rating": "A",
+            "url": "panopticlick.eff.org,coveryourtracks.eff.org"
+        },
+        {
+            "id": 1511,
+            "name": "Shopify",
+            "rating": "E",
+            "url": "shopify.be,shopify.cn,shopify.co.id,shopify.co.kr,shopify.co.nz,shopify.co.uk,shopify.co.za,shopify.com.au,shopify.com.br,shopify.com.co,shopify.com.mx,shopify.com.ng,shopify.com.ph,shopify.hk,shopify.no,shopify.com,shopify.de,shopify.dk,shopify.es,shopify.fr,shopify.ie,shopify.in,shopify.jp,shopify.my,shopify.net.vn,shopify.nl,shopify.se,shopify.tw,shopifycompass.com,shopify.com.sg,shopify.ca,shopify.com.nz,shopify.dev,shopifysvc.com,myshopify.com,shopifycdn.com,fonts.shopifycdn.com,shopifynetwork.com"
+        },
+        {
+            "id": 1519,
+            "name": "Open Humans",
+            "rating": "B",
+            "url": "openhumans.org,exploratory.openhumans.org,discourse.openhumans.org"
+        },
+        {
+            "id": 1522,
+            "name": "ShortcutWorld.com",
+            "rating": "D",
+            "url": "shortcutworld.com"
+        },
+        {
+            "id": 1537,
+            "name": "Pexgle",
+            "rating": "D",
+            "url": "pexgle.com"
+        },
+        {
+            "id": 1545,
+            "name": "DiscourseHosting",
+            "rating": "B",
+            "url": "discoursehosting.com,communiteq.com"
+        },
+        {
+            "id": 1553,
+            "name": "Speedtest by Ookla",
+            "rating": "E",
+            "url": "speedtest.net"
+        },
+        {
+            "id": 1554,
+            "name": "Ting Inc.",
+            "rating": "D",
+            "url": "ting.com"
+        },
+        {
+            "id": 1557,
+            "name": "23andMe",
+            "rating": "D",
+            "url": "23andme.com"
+        },
+        {
+            "id": 1563,
+            "name": "IKEA",
+            "rating": "E",
+            "url": "ikea.com,ikea-schweiz.ch,ikea.fr,ikea.de,ikea.it,ikea.at"
+        },
+        {
+            "id": 1564,
+            "name": "MeWe",
+            "rating": "B",
+            "url": "mewe.com"
+        },
+        {
+            "id": 1570,
+            "name": "AliExpress",
+            "rating": "D",
+            "url": "aliexpress.com"
+        },
+        {
+            "id": 1575,
+            "name": "Enpass",
+            "rating": "D",
+            "url": "enpass.io"
+        },
+        {
+            "id": 1577,
+            "name": "Forbes",
+            "rating": "E",
+            "url": "forbes.com"
+        },
+        {
+            "id": 1581,
+            "name": "HideMyAss!",
+            "rating": "B",
+            "url": "hidemyass.com.hmavpn.com"
+        },
+        {
+            "id": 1588,
+            "name": "Coinbase",
+            "rating": "D",
+            "url": "coinbase.com"
+        },
+        {
+            "id": 1592,
+            "name": "Crowdmark",
+            "rating": "E",
+            "url": "crowdmark.com"
+        },
+        {
+            "id": 1593,
+            "name": "ISODME",
+            "rating": "D",
+            "url": "isodme.com"
+        },
+        {
+            "id": 1597,
+            "name": "Huawei",
+            "rating": "E",
+            "url": "huawei.com,huaweimobileservices.com"
+        },
+        {
+            "id": 1607,
+            "name": "SourceHut",
+            "rating": "B",
+            "url": "sourcehut.org,sr.ht"
+        },
+        {
+            "id": 1636,
+            "name": "Internet Archive",
+            "rating": "C",
+            "url": "archive.org"
+        },
+        {
+            "id": 1638,
+            "name": "Redbubble",
+            "rating": "C",
+            "url": "redbubble.com"
+        },
+        {
+            "id": 1694,
+            "name": "Mailfence",
+            "rating": "A",
+            "url": "mailfence.com"
+        },
+        {
+            "id": 1696,
+            "name": "Tresorit",
+            "rating": "B",
+            "url": "tresorit.com"
+        },
+        {
+            "id": 1713,
+            "name": "FaceApp",
+            "rating": "D",
+            "url": "faceapp.com"
+        },
+        {
+            "id": 1731,
+            "name": "Follow My Health",
+            "rating": "C",
+            "url": "followmyhealth.com"
+        },
+        {
+            "id": 1735,
+            "name": "The Movie Database (TMDb)",
+            "rating": "D",
+            "url": "www.themoviedb.org,themoviedb.org"
+        },
+        {
+            "id": 1741,
+            "name": "Discovery",
+            "rating": "E",
+            "url": "discovery.com,foodnetwork.com,asianfoodnetwork.com,foodnetwork.com.br,foodnetwork.ca,foodnetworktv.com,foodnetwork.co.uk,foodnetworklatam.com,animalplanet.com,destinationamerica.com,diynetwork.com,greatamericancountry.com,hgtv.com,hgtv.pl,tlc.com,ahctv.com,tudiscovery.com,investigationdiscovery.com,discoveryplus.co.uk,discoveryplus.com,discoveryplus.fi,discoveryplus.no,"
+        },
+        {
+            "id": 1742,
+            "name": "National Geographic",
+            "rating": "D",
+            "url": "nationalgeographic.org"
+        },
+        {
+            "id": 1745,
+            "name": "ProtonVPN",
+            "rating": "B",
+            "url": "protonvpn.com"
+        },
+        {
+            "id": 1748,
+            "name": "McDonald's",
+            "rating": "E",
+            "url": "mcdonalds.com,mcdonaldsapps.com"
+        },
+        {
+            "id": 1788,
+            "name": "Condé Nast",
+            "rating": "E",
+            "url": "wired.com,wired.co.uk,condenast.com,condenast.de,condenast.co.uk,newyorker.com,architecturaldigest.com,them.us,tatler.com,self.com,pitchfork.com,allure.com,arstechnica.com,bonappetit.com,epicurious.com,glamourmagazine.co.uk,gq-magazine.co.uk,gq.com,houseandgarden.co.uk,vanityfair.com,vogue.co.uk,worldofinteriors.com,teenvogue.com,lacucinaitaliana.com"
+        },
+        {
+            "id": 1812,
+            "name": "Healthline",
+            "rating": "E",
+            "url": "healthline.com"
+        },
+        {
+            "id": 1815,
+            "name": "Khan Academy",
+            "rating": "D",
+            "url": "khanacademy.org,khanacaydemyannualreport.org"
+        },
+        {
+            "id": 1817,
+            "name": "Notion",
+            "rating": "C",
+            "url": "notion.so,notion.site"
+        },
+        {
+            "id": 1826,
+            "name": "Disroot",
+            "rating": "A",
+            "url": "disroot.org"
+        },
+        {
+            "id": 1830,
+            "name": "Strava",
+            "rating": "E",
+            "url": "strava.com"
+        },
+        {
+            "id": 1869,
+            "name": "zmudzinski.me Personal Blog (DEPRECATED)",
+            "rating": "A",
+            "url": "zmudzinski.me"
+        },
+        {
+            "id": 1892,
+            "name": "Artspace",
+            "rating": "E",
+            "url": "artspace.com"
+        },
+        {
+            "id": 1936,
+            "name": "Metacafe",
+            "rating": "D",
+            "url": "metacafe.com"
+        },
+        {
+            "id": 1946,
+            "name": "Telegram",
+            "rating": "B",
+            "url": "telegram.org,telegram.dog,t.me"
+        },
+        {
+            "id": 1954,
+            "name": "How-To Geek",
+            "rating": "D",
+            "url": "howtogeek.com"
+        },
+        {
+            "id": 1959,
+            "name": "NextDNS",
+            "rating": "A",
+            "url": "nextdns.io"
+        },
+        {
+            "id": 2002,
+            "name": "Hacker Wars",
+            "rating": "D",
+            "url": "hackerwars.io"
+        },
+        {
+            "id": 2031,
+            "name": "Creative Commons",
+            "rating": "E",
+            "url": "creativecommons.org"
+        },
+        {
+            "id": 2036,
+            "name": "Orchid VPN",
+            "rating": "C",
+            "url": "orchid.com"
+        },
+        {
+            "id": 2039,
+            "name": "Virtual World Computing Cocoon MyData Rewards",
+            "rating": "E",
+            "url": "trycocoon.com,vworldc.com"
+        },
+        {
+            "id": 2045,
+            "name": "Dendreo",
+            "rating": "B",
+            "url": "dendreo.com"
+        },
+        {
+            "id": 2057,
+            "name": "SparkNotes",
+            "rating": "E",
+            "url": "sparknotes.com"
+        },
+        {
+            "id": 2059,
+            "name": "The Session",
+            "rating": "A",
+            "url": "thesession.org"
+        },
+        {
+            "id": 2062,
+            "name": "Calendly",
+            "rating": "D",
+            "url": "calendly.com"
+        },
+        {
+            "id": 2068,
+            "name": "Surfshark",
+            "rating": "D",
+            "url": "surfshark.com"
+        },
+        {
+            "id": 2073,
+            "name": "DeepL",
+            "rating": "B",
+            "url": "deepl.com"
+        },
+        {
+            "id": 2074,
+            "name": "Letterboxd",
+            "rating": "C",
+            "url": "letterboxd.com"
+        },
+        {
+            "id": 2077,
+            "name": "LibreOffice",
+            "rating": "C",
+            "url": "libreoffice.org"
+        },
+        {
+            "id": 2116,
+            "name": "Standard Notes",
+            "rating": "A",
+            "url": "standardnotes.com"
+        },
+        {
+            "id": 2120,
+            "name": "Alibaba",
+            "rating": "E",
+            "url": "alibaba.com,aliexpress.com,aliexpress.ru,tmall.ru"
+        },
+        {
+            "id": 2136,
+            "name": "Le Soir",
+            "rating": "D",
+            "url": "lesoir.be,rossel.be"
+        },
+        {
+            "id": 2140,
+            "name": "LauraKalbag",
+            "rating": "C",
+            "url": "laurakalbag.com"
+        },
+        {
+            "id": 2141,
+            "name": "Avast",
+            "rating": "D",
+            "url": "avast.com,avcdn.net,avastbrowser.com"
+        },
+        {
+            "id": 2182,
+            "name": "F-Droid",
+            "rating": "A",
+            "url": "f-droid.org,forum.f-droid.org"
+        },
+        {
+            "id": 2195,
+            "name": "Wolt",
+            "rating": "C",
+            "url": "wolt.com"
+        },
+        {
+            "id": 2196,
+            "name": "Houseparty",
+            "rating": "D",
+            "url": "houseparty.com,app.houseparty.com"
+        },
+        {
+            "id": 2198,
+            "name": "Zoom Video Communications",
+            "rating": "D",
+            "url": "zoom.us"
+        },
+        {
+            "id": 2201,
+            "name": "Jitsi",
+            "rating": "B",
+            "url": "jitsi.org,meet.jit.si"
+        },
+        {
+            "id": 2202,
+            "name": "Turnitin",
+            "rating": "C",
+            "url": "turnitin.com"
+        },
+        {
+            "id": 2205,
+            "name": "Adventurer's Codex",
+            "rating": "D",
+            "url": "adventurerscodex.com"
+        },
+        {
+            "id": 2207,
+            "name": "hCaptcha",
+            "rating": "D",
+            "url": "hcaptcha.com"
+        },
+        {
+            "id": 2212,
+            "name": "Anonfiles",
+            "rating": "C",
+            "url": "anonfiles.com"
+        },
+        {
+            "id": 2220,
+            "name": "AnonAddy",
+            "rating": "B",
+            "url": "anonaddy.com"
+        },
+        {
+            "id": 2224,
+            "name": "Smartmessages",
+            "rating": "B",
+            "url": "smartmessages.net,smm.im"
+        },
+        {
+            "id": 2228,
+            "name": "MuseScore",
+            "rating": "E",
+            "url": "musescore.org,musescore.com"
+        },
+        {
+            "id": 2254,
+            "name": "Ubisoft",
+            "rating": "D",
+            "url": "ubisoft.com,account.ubisoft.com,store.ubi.com,ubi.com,ubisoftconnect.com,ubisoft.co.jp,ubisoft.com.tw,brawlhalla.com,mightandmagic.com"
+        },
+        {
+            "id": 2256,
+            "name": "Fandom",
+            "rating": "E",
+            "url": "fandom.com,fandom.co.uk,wikia.com,gamepedia.com,dndbeyond.com,muthead.com,futhead.com,playbook.gg,strawpoll.me"
+        },
+        {
+            "id": 2262,
+            "name": "Listudy",
+            "rating": "B",
+            "url": "listudy.org"
+        },
+        {
+            "id": 2266,
+            "name": "Hacking with Swift",
+            "rating": "B",
+            "url": "hackingwithswift.com"
+        },
+        {
+            "id": 2312,
+            "name": "Archive of Our Own",
+            "rating": "B",
+            "url": "archiveofourown.org"
+        },
+        {
+            "id": 2315,
+            "name": "Fandango",
+            "rating": "E",
+            "url": "fandango.com,fandangonow.com,vudu.com,rottentomatoes.com,flixster.com,movieclips.com,movies.com,activaterewards.com,movietickets.com"
+        },
+        {
+            "id": 2354,
+            "name": "WeMod",
+            "rating": "E",
+            "url": "wemod.com,support.wemod.com"
+        },
+        {
+            "id": 2356,
+            "name": "YTMP3.CC",
+            "rating": "D",
+            "url": "ytmp3.cc"
+        },
+        {
+            "id": 2359,
+            "name": "Hinterland Games",
+            "rating": "D",
+            "url": "hinterlandforums.com,thelongdark.com,hinterlandgames.com"
+        },
+        {
+            "id": 2361,
+            "name": "Attendify",
+            "rating": "E",
+            "url": "attendify.co,attendify.com"
+        },
+        {
+            "id": 2371,
+            "name": "Vivaldi",
+            "rating": "B",
+            "url": "vivaldi.com"
+        },
+        {
+            "id": 2381,
+            "name": "Neurohr Bytes Software",
+            "rating": "A",
+            "url": "neurohr.bytes.software,bytes.software"
+        },
+        {
+            "id": 2391,
+            "name": "LBRY",
+            "rating": "D",
+            "url": "lbry.com,lbry.tv"
+        },
+        {
+            "id": 2392,
+            "name": "Instructure",
+            "rating": "E",
+            "url": "instructure.com,canvas-user-content.com,canvaslms.com"
+        },
+        {
+            "id": 2399,
+            "name": "Fivestars",
+            "rating": "D",
+            "url": "fivestars.com"
+        },
+        {
+            "id": 2409,
+            "name": "Kaspersky",
+            "rating": "C",
+            "url": "kaspersky.com,latam.kaspersky.com,kaspersky.co.uk,kaspersky.com.br,usa.kaspersky.com,kaspersky.ca,africa.kaspersky.com,afrique.kaspersky.com,algerie.kaspersky.com,kaspersky.ma,kaspersky.co.za,kaspersky.tn,me-en.kaspersky.com,me.kaspersky.com,kaspersky.be,kaspersky.dk,kaspersky.de,kaspersky.es,kaspersky.fr,kaspersky.it,kaspersky.nt,kaspersky.no,kaspersky.pt,kaspersky.se,kaspersky.fi,kaspersky.cz,kaspersky.hu,kaspersky.pl,kaspersky.ro,kaspersky.rs,kaspersky.gr,kaspersky.bg,kaspersky.ru,kaspersky.ua,kaspersky.com.au,kaspersky.co.in,kaspersky.com.vn,kaspersky.co.th,kaspersky.co.kr,kaspersky.com.cn,kaspersky.com.hk,kaspersky..com.tw,kaspersky.co.jp,support.kaspersky.com"
+        },
+        {
+            "id": 2412,
+            "name": "Pixel8Earth",
+            "rating": "C",
+            "url": "pixel8.earth"
+        },
+        {
+            "id": 2416,
+            "name": "BitDefender",
+            "rating": "B",
+            "url": "bitdefender.com,bitdefender.co.uk,bitdefender.fr,bitdefender.es,bitdefender.ru,bitdefender.de,bitdefender.it,bitdefender.pt,bitdefender.nl,bitdefender.co.jp,bitdefender.com.au,bitdefender.be,bitdefender.com.br,bitdefender.ro,bitdefender.in,bitdefender.pl,bitdefender.com.tw,bitdefender.my,bitdefender.co.th,bitdefender.vn,bitdefender.cz,bitdefender.com.ua,bitdefender.gr,bitdefender.com.hr,bitdefender.com.tr,"
+        },
+        {
+            "id": 2426,
+            "name": "The MOD Archive",
+            "rating": "C",
+            "url": "modarchive.org"
+        },
+        {
+            "id": 2428,
+            "name": "Prezi",
+            "rating": "E",
+            "url": "prezi.com,blog.prezi.com"
+        },
+        {
+            "id": 2429,
+            "name": "pCloud",
+            "rating": "C",
+            "url": "pcloud.com"
+        },
+        {
+            "id": 2436,
+            "name": "V.H. Hess",
+            "rating": "C",
+            "url": "vhhess.com"
+        },
+        {
+            "id": 2444,
+            "name": "Amazon Prime Video",
+            "rating": "D",
+            "url": "primevideo.com"
+        },
+        {
+            "id": 2447,
+            "name": "likee",
+            "rating": "E",
+            "url": "likee.video"
+        },
+        {
+            "id": 2453,
+            "name": "iFunny",
+            "rating": "E",
+            "url": "ifunny.co"
+        },
+        {
+            "id": 2454,
+            "name": "The Walt Disney Company",
+            "rating": "E",
+            "url": "thewaltdisneycompany.com,disneytermsofuse.com,disneyprivacycenter.com,go.com,freeform.com,marvel.com,lucasfilm.com,disney.com,pixar.com,espn.com,espn.com.mx,oddsbyespn.com,espn.com.ar,espn.com.au,espncricinfo.com,espn.com.br,espn.com.cl,espn.com.co,espn.in,espn.com.ve,starwars.com,abc7chicago.com"
+        },
+        {
+            "id": 2455,
+            "name": "matrix.org",
+            "rating": "B",
+            "url": "matrix.org"
+        },
+        {
+            "id": 2458,
+            "name": "BBVA",
+            "rating": "D",
+            "url": "bbva.com,bbvausa.com,bbva.com.ar,bbva.fr,bbva.pt,bbva.com.uy,bbva.be,bancomer.com,bbva.es,provincial.com,bbva.com.co,bbva.com.py,bbva.ch,bbvacontinental.pe,bbvauk.com,bbva.mx,bbva.pe,bbvaciv.com,coleccionbbva.com,fundacionmicrofinanzasbbva.com,fbbva.es,bbvanetcash.co.uk,bbvanetcash.mx,bbvanetcash.es,tiendaligabbva.mx,fundacionbbvabancomer.org,bbvaresearch.com,bbva.info,bbvafrances.com.ar,bbvafinanzia.it,mfbbva.org,bbvaopenmind.com,bbvadata.com,segurosprovincial.com,fundacionbbvaprovincial.com"
+        },
+        {
+            "id": 2461,
+            "name": "Merriam-Webster",
+            "rating": "E",
+            "url": "merriam-webster.com"
+        },
+        {
+            "id": 2481,
+            "name": "Instabridge",
+            "rating": "D",
+            "url": "instabridge.com"
+        },
+        {
+            "id": 2491,
+            "name": "Gfycat",
+            "rating": "E",
+            "url": "gfycat.com"
+        },
+        {
+            "id": 2498,
+            "name": "Element",
+            "rating": "B",
+            "url": "element.io"
+        },
+        {
+            "id": 2505,
+            "name": "Iziram",
+            "rating": "A",
+            "url": "iziram.fr,en.iziram.fr"
+        },
+        {
+            "id": 2506,
+            "name": "SmartNews",
+            "rating": "D",
+            "url": "smartnews.com"
+        },
+        {
+            "id": 2518,
+            "name": "FamilyTreeDNA",
+            "rating": "D",
+            "url": "familytreedna.com"
+        },
+        {
+            "id": 2529,
+            "name": "Encyclopedia Britannica",
+            "rating": "E",
+            "url": "britannica.com,eb.com"
+        },
+        {
+            "id": 2530,
+            "name": "United States Postal Service",
+            "rating": "C",
+            "url": "usps.com"
+        },
+        {
+            "id": 2531,
+            "name": "NBC News",
+            "rating": "E",
+            "url": "nbcuniversal.com,nbcnews.com,nbcsports.com,nbc.com,syfy.com,eonline.com,bravotv.com"
+        },
+        {
+            "id": 2532,
+            "name": "Authy (Twilio)",
+            "rating": "B",
+            "url": "twilio.com,authy.com"
+        },
+        {
+            "id": 2535,
+            "name": "Однокла́ссники (Ok.ru)",
+            "rating": "D",
+            "url": "ok.ru"
+        },
+        {
+            "id": 2536,
+            "name": "WordReference",
+            "rating": "D",
+            "url": "wordreference.com"
+        },
+        {
+            "id": 2538,
+            "name": "Eltiempo.es",
+            "rating": "C",
+            "url": "eltiempo.es,eltiempo.net"
+        },
+        {
+            "id": 2539,
+            "name": "Marca",
+            "rating": "C",
+            "url": "marca.com"
+        },
+        {
+            "id": 2540,
+            "name": "El Mundo (Spain)",
+            "rating": "D",
+            "url": "elmundo.es"
+        },
+        {
+            "id": 2541,
+            "name": "El Mundo (El Salvador)",
+            "rating": "C",
+            "url": "elmundo.sv"
+        },
+        {
+            "id": 2542,
+            "name": "Le Monde",
+            "rating": "D",
+            "url": "lemonde.fr"
+        },
+        {
+            "id": 2543,
+            "name": "Le Parisien",
+            "rating": "E",
+            "url": "leparisien.fr,aujourdhuienfrance.fr"
+        },
+        {
+            "id": 2544,
+            "name": "El País",
+            "rating": "D",
+            "url": "elpais.com"
+        },
+        {
+            "id": 2555,
+            "name": "FanFiction",
+            "rating": "D",
+            "url": "fanfiction.net"
+        },
+        {
+            "id": 2557,
+            "name": "TourOfCalifornia.org",
+            "rating": "C",
+            "url": "tourofcalifornia.org"
+        },
+        {
+            "id": 2559,
+            "name": "Briar",
+            "rating": "A",
+            "url": "briarproject.org"
+        },
+        {
+            "id": 2568,
+            "name": "NewPipe",
+            "rating": "A",
+            "url": "newpipe.net"
+        },
+        {
+            "id": 2572,
+            "name": "HP | Hewlett-Packard",
+            "rating": "E",
+            "url": "hp.com,hpsmart.com,hpeprint.com"
+        },
+        {
+            "id": 2579,
+            "name": "Pearltrees",
+            "rating": "D",
+            "url": "pearltrees.com"
+        },
+        {
+            "id": 2580,
+            "name": "Future PLC",
+            "rating": "E",
+            "url": "futureplc.com,techradar.com,musicradar.com,gamesradar.com,pcgamer.com,mixonline.com,homesandgardens.com"
+        },
+        {
+            "id": 2581,
+            "name": "Cisco",
+            "rating": "D",
+            "url": "cisco.com,webex.com"
+        },
+        {
+            "id": 2582,
+            "name": "Linksys",
+            "rating": "D",
+            "url": "linksys.com"
+        },
+        {
+            "id": 2617,
+            "name": "Open Collective",
+            "rating": "D",
+            "url": "opencollective.com"
+        },
+        {
+            "id": 2618,
+            "name": "Schoology",
+            "rating": "D",
+            "url": "schoology.com"
+        },
+        {
+            "id": 2622,
+            "name": "Crain's Chicago Business",
+            "rating": "E",
+            "url": "chicagobusiness.com"
+        },
+        {
+            "id": 2629,
+            "name": "STiBaRC",
+            "rating": "C",
+            "url": "stibarc.com"
+        },
+        {
+            "id": 2645,
+            "name": "Rumble",
+            "rating": "D",
+            "url": "rumble.com"
+        },
+        {
+            "id": 2646,
+            "name": "Guilded",
+            "rating": "C",
+            "url": "guilded.gg"
+        },
+        {
+            "id": 2658,
+            "name": "Metager",
+            "rating": "B",
+            "url": "metager.org,metagerv65pwclop2rsfzg4jwowpavpwd6grhhlvdgsswvo6ii4akgyd.onion,metager.de"
+        },
+        {
+            "id": 2659,
+            "name": "Alan Thomson Simulation",
+            "rating": "C",
+            "url": "alanthomsonsim.com"
+        },
+        {
+            "id": 2669,
+            "name": "AirVPN",
+            "rating": "B",
+            "url": "airvpn.org,airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion"
+        },
+        {
+            "id": 2674,
+            "name": "PureVPN",
+            "rating": "D",
+            "url": "purevpn.com"
+        },
+        {
+            "id": 2685,
+            "name": "ADT",
+            "rating": "E",
+            "url": "adt.com,myadtdigitalsecurity.com,adtpuertoricollc.com,myadt.com,adt-optout.com,adt-unsub.com,homeprotectioncenter.com"
+        },
+        {
+            "id": 2690,
+            "name": "Selfie2Anime",
+            "rating": "E",
+            "url": "selfie2anime.com"
+        },
+        {
+            "id": 2695,
+            "name": "Vox Media",
+            "rating": "E",
+            "url": "voxmedia.com,voxmediaevents.com,coralproject.net,concert.io,sbnation.com,thedodo.com"
+        },
+        {
+            "id": 2697,
+            "name": "Burger King",
+            "rating": "E",
+            "url": "bk.com"
+        },
+        {
+            "id": 2701,
+            "name": "ExpressVPN",
+            "rating": "D",
+            "url": "expressvpn.com,vpnforstreamingvideo.com"
+        },
+        {
+            "id": 2702,
+            "name": "Douban",
+            "rating": "D",
+            "url": "douban.com"
+        },
+        {
+            "id": 2705,
+            "name": "Weatheralex1 Hub",
+            "rating": "D",
+            "url": "weatheralex1.com"
+        },
+        {
+            "id": 2716,
+            "name": "CyberGhost",
+            "rating": "B",
+            "url": "cyberghostvpn.com"
+        },
+        {
+            "id": 2718,
+            "name": "Medscape",
+            "rating": "D",
+            "url": "medscape.com"
+        },
+        {
+            "id": 2736,
+            "name": "WikiTree",
+            "rating": "C",
+            "url": "wikitree.com"
+        },
+        {
+            "id": 2738,
+            "name": "EthanMcBloxxer",
+            "rating": "C",
+            "url": "ethanmcbloxxer.github.io"
+        },
+        {
+            "id": 2745,
+            "name": "Disney+",
+            "rating": "E",
+            "url": "disneyplus.com"
+        },
+        {
+            "id": 2746,
+            "name": "Arch Linux",
+            "rating": "B",
+            "url": "archlinux.org"
+        },
+        {
+            "id": 2747,
+            "name": "ToSBack",
+            "rating": "A",
+            "url": "tosback.com,tosback.org,tosback.net,tossback.org,xkp3bueakhnea3hw4t4izybudyysnoc4jt746z7555mpv2w4p73ihhyd.onion"
+        },
+        {
+            "id": 2748,
+            "name": "IVPN",
+            "rating": "C",
+            "url": "ivpn.net"
+        },
+        {
+            "id": 2756,
+            "name": "Alzforum",
+            "rating": "C",
+            "url": "alzforum.org"
+        },
+        {
+            "id": 2758,
+            "name": "XE.com",
+            "rating": "D",
+            "url": "xe.com"
+        },
+        {
+            "id": 2768,
+            "name": "Unity",
+            "rating": "D",
+            "url": "unity.com,unity3d.com"
+        },
+        {
+            "id": 2795,
+            "name": "Veepn",
+            "rating": "D",
+            "url": "veepn.com"
+        },
+        {
+            "id": 2804,
+            "name": "LightyearVPN",
+            "rating": "D",
+            "url": "lightyearvpn.com"
+        },
+        {
+            "id": 2808,
+            "name": "Consumer News & Business Channel",
+            "rating": "E",
+            "url": "cnbc.com"
+        },
+        {
+            "id": 2809,
+            "name": "Wallapop",
+            "rating": "D",
+            "url": "wallapop.com"
+        },
+        {
+            "id": 2811,
+            "name": "Swiss Government",
+            "rating": "C",
+            "url": "admin.ch"
+        },
+        {
+            "id": 2844,
+            "name": "Google Chrome",
+            "rating": "D",
+            "url": "google.com/chrome"
+        },
+        {
+            "id": 2845,
+            "name": "Tor Browser",
+            "rating": "C",
+            "url": "torproject.org,dgvdmophvhunawds.onion,expyuzz4wqqyqhjn.onion,3gldbgtv5e4god56.onion"
+        },
+        {
+            "id": 2846,
+            "name": "Orange",
+            "rating": "E",
+            "url": "orange.com,orange-business.com,orangeadvertising.fr,orange.fr,orange.es,orange.eg,orangemali.com,orange.tn,orange.sn,orange.mu,orange.bf,orange.ci,orange.cm,orange.mg,orange.co.bw,orange-guinee.com,orange.com.lr,orange.cd,orange.jo,orange.pl,orange.sk,orange.ro,orange.md,orange.be,orange.lu,orange.ma,"
+        },
+        {
+            "id": 2847,
+            "name": "Le Bon Coin",
+            "rating": "E",
+            "url": "leboncoin.fr,leboncoingroupe.com"
+        },
+        {
+            "id": 2848,
+            "name": "BlueMail",
+            "rating": "C",
+            "url": "bluemail.me"
+        },
+        {
+            "id": 2853,
+            "name": "Profilic",
+            "rating": "C",
+            "url": "profilic.co"
+        },
+        {
+            "id": 2856,
+            "name": "Microspot",
+            "rating": "D",
+            "url": "microspot.ch"
+        },
+        {
+            "id": 2865,
+            "name": "DrugBank",
+            "rating": "D",
+            "url": "drugbank.com"
+        },
+        {
+            "id": 2866,
+            "name": "VPN.AC",
+            "rating": "A",
+            "url": "vpn.ac"
+        },
+        {
+            "id": 2870,
+            "name": "USSeek",
+            "rating": "D",
+            "url": "usseek.com"
+        },
+        {
+            "id": 2878,
+            "name": "Yewtu.be",
+            "rating": "A",
+            "url": "yewtu.be"
+        },
+        {
+            "id": 2895,
+            "name": "Line Corporation",
+            "rating": "E",
+            "url": "linecorp.com,line.me"
+        },
+        {
+            "id": 2909,
+            "name": "Replika",
+            "rating": "D",
+            "url": "replika.ai"
+        },
+        {
+            "id": 2911,
+            "name": "Free Software Foundation",
+            "rating": "B",
+            "url": "fsf.org,libreplanet.org,gnu.org"
+        },
+        {
+            "id": 2913,
+            "name": "Nslookup",
+            "rating": "B",
+            "url": "nslookup.io"
+        },
+        {
+            "id": 2929,
+            "name": "Wish",
+            "rating": "E",
+            "url": "wish.com,merchant.wish.com"
+        },
+        {
+            "id": 2941,
+            "name": "CNED",
+            "rating": "D",
+            "url": "college.cned.fr,cned.fr,espaceinscrit.cned.fr"
+        },
+        {
+            "id": 2947,
+            "name": "Skillshare",
+            "rating": "D",
+            "url": "skillshare.com"
+        },
+        {
+            "id": 2973,
+            "name": "Swisscows",
+            "rating": "A",
+            "url": "swisscows.com"
+        },
+        {
+            "id": 2995,
+            "name": "Among Us",
+            "rating": "D",
+            "url": "among-us.io"
+        },
+        {
+            "id": 3002,
+            "name": "MobyGames",
+            "rating": "D",
+            "url": "mobygames.com"
+        },
+        {
+            "id": 3011,
+            "name": "CollegeBoard",
+            "rating": "D",
+            "url": "collegeboard.org,sat.org"
+        },
+        {
+            "id": 3015,
+            "name": "Session",
+            "rating": "B",
+            "url": "getsession.org"
+        },
+        {
+            "id": 3055,
+            "name": "Doctolib",
+            "rating": "B",
+            "url": "doctolib.fr,doctolib.com"
+        },
+        {
+            "id": 3115,
+            "name": "L'Equipe",
+            "rating": "D",
+            "url": "lequipe.fr,francefootball.fr"
+        },
+        {
+            "id": 3118,
+            "name": "Icedrive",
+            "rating": "C",
+            "url": "icedrive.net"
+        },
+        {
+            "id": 3137,
+            "name": "BudgetBakers",
+            "rating": "D",
+            "url": "budgetbakers.com"
+        },
+        {
+            "id": 3144,
+            "name": "OneSignal",
+            "rating": "D",
+            "url": "onesignal.com"
+        },
+        {
+            "id": 3153,
+            "name": "Météo France",
+            "rating": "D",
+            "url": "meteofrance.com,vigilance.meteofrance.fr,meteofrance.fr,donneespubliques.meteofrance.fr,meteofrance.gp,meteo.pf,meteofrance.pm,education.meteofrance.fr,services.meteofrance.com,professionnel.meteofrance.com,particulier.meteofrance.com"
+        },
+        {
+            "id": 3160,
+            "name": "Rofkin",
+            "rating": "B",
+            "url": "rokfin.com"
+        },
+        {
+            "id": 3181,
+            "name": "Headspace",
+            "rating": "D",
+            "url": "headspace.com"
+        },
+        {
+            "id": 3206,
+            "name": "Parler",
+            "rating": "B",
+            "url": "parler.com"
+        },
+        {
+            "id": 3255,
+            "name": "ViacomCBS",
+            "rating": "D",
+            "url": "viacomcbs.com,comicbook.com,viacomcbsprivacy.com,viacomcbs.legal,cbssports.com,cbsi.secure.force.com,findarticles.com,cbsinteractive.com,ca.privacy.cbs,viacbs.com,cbs.com,rachaelrayshow.com,startrek.com,insideedition.com,internetbuyer.com"
+        },
+        {
+            "id": 3259,
+            "name": "GlobaliD",
+            "rating": "C",
+            "url": "global.id"
+        },
+        {
+            "id": 3262,
+            "name": "Privacy.com",
+            "rating": "E",
+            "url": "privacy.com"
+        },
+        {
+            "id": 3291,
+            "name": "SC Johnson",
+            "rating": "E",
+            "url": "scjbrands.com,scjohnson.com,whatsinsidescjohnson.com,bonami.com,windex.com,kiwicare.com,glade.com,off.com.ar,pyrel.fr,autan.fr,raid.tm.fr,linharaid.com.br,ziploc.com.br,duck.co.uk,patopurific.uy,wceend.nl,duck.co.th,patowc.com,toilet-duck.co.za,duck.ru,toilet-duck.nz,patowc.pt,patopurific.cl,wcente.de,duck.co.il,wc-duck.it,patomexico.com,offaustralia.com.au,linhaoff.com.br,off.ca,autan.co,off.cr,off.com.ec,off.com.sv,off.com.gt,autan.de,off.hn,autan.id,autan.it,offmexico.com.mx,off.com.ni,off.com.pa,off.com.pe,off.com.ph,off.com.pl,off-russia.ru,autan.com.es,off.com,offuruguay.com.uy,toilet-duck.com.au,canardwc.fr,mrmuscleclean.com,linhagrandprix.com.br,linhabravo.com.br,ceramicol.com.ar,pledge.com,scrubbingbubbles.com,kabikiller.jp"
+        },
+        {
+            "id": 3319,
+            "name": "The Filipino Channel",
+            "rating": "D",
+            "url": "tfc.tv,iwanttfc.com"
+        },
+        {
+            "id": 3335,
+            "name": "Realestate.com.au",
+            "rating": "E",
+            "url": "realestate.com.au"
+        },
+        {
+            "id": 3355,
+            "name": "jamesbush.dev",
+            "rating": "A",
+            "url": "jamesbush.dev"
+        },
+        {
+            "id": 3362,
+            "name": "APK Pure",
+            "rating": "E",
+            "url": "apkpure.com"
+        },
+        {
+            "id": 3365,
+            "name": "Mozilla Thunderbird",
+            "rating": "C",
+            "url": "thunderbird.net"
+        },
+        {
+            "id": 3370,
+            "name": "Codeberg",
+            "rating": "A",
+            "url": "codeberg.org,codeberg.page"
+        },
+        {
+            "id": 3387,
+            "name": "OpenTracks",
+            "rating": "C",
+            "url": "opentracksapp.com"
+        },
+        {
+            "id": 3388,
+            "name": "SchildiChat",
+            "rating": "C",
+            "url": "schildi.chat"
+        },
+        {
+            "id": 3395,
+            "name": "OpenHAB",
+            "rating": "B",
+            "url": "openhab.org"
+        },
+        {
+            "id": 3405,
+            "name": "Chapril",
+            "rating": "B",
+            "url": "chapril.org"
+        },
+        {
+            "id": 3422,
+            "name": "Conversations",
+            "rating": "A",
+            "url": "conversations.im"
+        },
+        {
+            "id": 3428,
+            "name": "SmartThings",
+            "rating": "D",
+            "url": "smartthings.com"
+        },
+        {
+            "id": 3434,
+            "name": "Dark Reader",
+            "rating": "C",
+            "url": "darkreader.org"
+        },
+        {
+            "id": 3475,
+            "name": "DAVx⁵",
+            "rating": "A",
+            "url": "davx5.com"
+        },
+        {
+            "id": 3522,
+            "name": "Movistar",
+            "rating": "E",
+            "url": "movistar.es"
+        },
+        {
+            "id": 3534,
+            "name": "Flipboard",
+            "rating": "E",
+            "url": "flipboard.com"
+        },
+        {
+            "id": 3536,
+            "name": "Google Analytics",
+            "rating": "D",
+            "url": "google-analytics.com,analytics.withgoogle.com,marketingplatform.google.com"
+        },
+        {
+            "id": 3540,
+            "name": "RTS (Radio Télévision Suisse)",
+            "rating": "C",
+            "url": "rts.ch"
+        },
+        {
+            "id": 3551,
+            "name": "Wise",
+            "rating": "D",
+            "url": "wise.com"
+        },
+        {
+            "id": 3579,
+            "name": "ShareX",
+            "rating": "C",
+            "url": "getsharex.com"
+        },
+        {
+            "id": 3580,
+            "name": "Yleisradio",
+            "rating": "B",
+            "url": "yle.fi"
+        },
+        {
+            "id": 3582,
+            "name": "Weblate",
+            "rating": "B",
+            "url": "weblate.org,hosted.weblate.org"
+        },
+        {
+            "id": 3587,
+            "name": "Wickr Me",
+            "rating": "B",
+            "url": "wickr.com"
+        },
+        {
+            "id": 3614,
+            "name": "Yuka",
+            "rating": "D",
+            "url": "yuka.io"
+        },
+        {
+            "id": 3615,
+            "name": "Signal Stickers",
+            "rating": "A",
+            "url": "signalstickers.com"
+        },
+        {
+            "id": 3620,
+            "name": "Open Source Initiative",
+            "rating": "B",
+            "url": "opensource.org"
+        },
+        {
+            "id": 3624,
+            "name": "K-9 Mail",
+            "rating": "C",
+            "url": "k9mail.app"
+        },
+        {
+            "id": 3625,
+            "name": "KDE",
+            "rating": "A",
+            "url": "kde.org"
+        },
+        {
+            "id": 3682,
+            "name": "webmail",
+            "rating": "E",
+            "url": "webmail.co.za"
+        },
+        {
+            "id": 3684,
+            "name": "Nulled",
+            "rating": "C",
+            "url": "nulled.to"
+        },
+        {
+            "id": 3691,
+            "name": "Neurococi",
+            "rating": "B",
+            "url": "neurococi.ro"
+        },
+        {
+            "id": 3710,
+            "name": "VPN Hamster",
+            "rating": "E",
+            "url": "vpnhamster.com"
+        },
+        {
+            "id": 3716,
+            "name": "Simply Earth",
+            "rating": "E",
+            "url": "simplyearth.com"
+        },
+        {
+            "id": 3738,
+            "name": "Gather Town",
+            "rating": "C",
+            "url": "gather.town"
+        },
+        {
+            "id": 3802,
+            "name": "Waterfox",
+            "rating": "A",
+            "url": "waterfox.net,waterfoxproject.org"
+        },
+        {
+            "id": 3804,
+            "name": "KeePassXC",
+            "rating": "B",
+            "url": "keepassxc.org"
+        },
+        {
+            "id": 3824,
+            "name": "SpanishDict",
+            "rating": "D",
+            "url": "spanishdict.com,ingles.com"
+        },
+        {
+            "id": 3852,
+            "name": "Toggl Track",
+            "rating": "C",
+            "url": "toggl.com"
+        },
+        {
+            "id": 3854,
+            "name": "KidzSearch",
+            "rating": "C",
+            "url": "kidzsearch.com"
+        },
+        {
+            "id": 3855,
+            "name": "Guiding Tech",
+            "rating": "D",
+            "url": "guidingtech.com"
+        },
+        {
+            "id": 3906,
+            "name": "YouGov",
+            "rating": "E",
+            "url": "yougov.co.uk,yougov.com,yougov.fi,yougov.dk,yougov.de,yougov.no,yougov.se,yougov.chat"
+        },
+        {
+            "id": 3964,
+            "name": "Astronomer",
+            "rating": "C",
+            "url": "astronomer.io"
+        },
+        {
+            "id": 3996,
+            "name": "FreeTube",
+            "rating": "A",
+            "url": "freetubeapp.io"
+        },
+        {
+            "id": 4024,
+            "name": "Just Eat",
+            "rating": "E",
+            "url": "justeattakeaway.com,just-eat.com,thuisbezorgd.nl,just-eat.fr,takeaway.com,lieferando.de,pyszne.pl,lieferando.at,just-eat.ch,10bis.co.il,just-eat.dk,just-eat.no,just-eat.co.uk,menulog.com.au,skipthedishes.com,just-eat.ie,just-eat.es,menulog.co.nz,justeat.it"
+        },
+        {
+            "id": 4037,
+            "name": "Wiby",
+            "rating": "C",
+            "url": "wiby.me"
+        },
+        {
+            "id": 4062,
+            "name": "KeyMe",
+            "rating": "C",
+            "url": "key.me"
+        },
+        {
+            "id": 4076,
+            "name": "Aegis Authenticator",
+            "rating": "A",
+            "url": "getaegis.app"
+        },
+        {
+            "id": 4077,
+            "name": "Fritter",
+            "rating": "A",
+            "url": "fritter.cc"
+        },
+        {
+            "id": 4078,
+            "name": "Open Camera",
+            "rating": "C",
+            "url": "opencamera.org.uk"
+        },
+        {
+            "id": 4079,
+            "name": "Stingle Photos",
+            "rating": "B",
+            "url": "stingle.org"
+        },
+        {
+            "id": 4102,
+            "name": "YogaDNS",
+            "rating": "A",
+            "url": "yogadns.com"
+        },
+        {
+            "id": 4139,
+            "name": "MIT App Inventor",
+            "rating": "D",
+            "url": "appinventor.mit.edu,ai2.appinventor.mit.edu,gallery.appinventor.mit.edu"
+        },
+        {
+            "id": 4147,
+            "name": "Remind",
+            "rating": "C",
+            "url": "remind.com"
+        },
+        {
+            "id": 4154,
+            "name": "ClassDojo",
+            "rating": "C",
+            "url": "classdojo.com"
+        },
+        {
+            "id": 4163,
+            "name": "Represent",
+            "rating": "E",
+            "url": "represent.com"
+        },
+        {
+            "id": 4208,
+            "name": "Synonymo",
+            "rating": "C",
+            "url": "synonymo.fr,antonyme.org"
+        },
+        {
+            "id": 4219,
+            "name": "Getty Images",
+            "rating": "E",
+            "url": "gettyimages.com,gettyimages.com.au,gettyimages.be,gettyimages.com.br,gettyimages.ca,gettyimages.co.cz,gettyimages.dk,gettyimages.de,gettyimages.es,gettyimages.fr,nordicphotos.com,gettyimages.in,gettyimages.ie,gettyimages.it,gettyimages.com.mx,gettyimages.co.hu,gettyimages.nl,gettyimages.co.nz,gettyimages.no,gettyimages.at,gettyimages.pl,gettyimages.com.pt,gettyimages.ch,gettyimages.co.za,gettyimages.fi,gettyimages.se,gettyimages.ae,gettyimages.co.uk,gettyimageskorea.com,gettyimages.cn,gettyimages.hk,gettyimages.co.jp"
+        },
+        {
+            "id": 4278,
+            "name": "Jeuxvideo.com",
+            "rating": "D",
+            "url": "jeuxvideo.com"
+        },
+        {
+            "id": 4304,
+            "name": "Ouigo",
+            "rating": "D",
+            "url": "ouigo.com"
+        },
+        {
+            "id": 4403,
+            "name": "Cryptomator",
+            "rating": "C",
+            "url": "cryptomator.org"
+        },
+        {
+            "id": 4411,
+            "name": "TechByte Net",
+            "rating": "C",
+            "url": "techbyte.net"
+        },
+        {
+            "id": 4416,
+            "name": "ePlus Technology",
+            "rating": "D",
+            "url": "eplus.com"
+        },
+        {
+            "id": 4418,
+            "name": "TubeBuddy",
+            "rating": "E",
+            "url": "tubebuddy.com"
+        },
+        {
+            "id": 4423,
+            "name": "Gandi",
+            "rating": "C",
+            "url": "gandi.net"
+        },
+        {
+            "id": 4447,
+            "name": "Linguee",
+            "rating": "C",
+            "url": "linguee.com,linguee.com.br,linguee.es,linguee.fr,linguee.de,linguee.nl,linguee.it,linguee.co,linguee.cl,linguee.cz,linguee.dk,linguee.gr,linguee.jp,linguee.mx,linguee.pe,linguee.pl,linguee.pt,linguee.ru,linguee.hu,linguee.com.ar,linguee.se"
+        },
+        {
+            "id": 4463,
+            "name": "Vercel",
+            "rating": "D",
+            "url": "vercel.com,vercel-insights.com,vercel-dns.com,vercel.app"
+        },
+        {
+            "id": 4512,
+            "name": "Index Education",
+            "rating": "C",
+            "url": "index-education.com,index-education.net"
+        },
+        {
+            "id": 4513,
+            "name": "Prisma Media",
+            "rating": "E",
+            "url": "programme-tv.net,prismamedia.com,prismamediasolutions.com,beaute-addict.com,femmeactuelle.fr,cuisineactuelle.fr,editions-prisma.com,prismashop.fr,businessinsider.fr,caminteresse.fr,capital.fr,flowmagazine.fr,gala.fr,hbrfrance.fr,neonmag.fr,prima.fr,programme.tv,voici.fr,geo.fr"
+        },
+        {
+            "id": 4514,
+            "name": "Booking.com",
+            "rating": "E",
+            "url": "booking.com"
+        },
+        {
+            "id": 4516,
+            "name": "Audacity",
+            "rating": "B",
+            "url": "audacityteam.org"
+        },
+        {
+            "id": 4521,
+            "name": "Gettr",
+            "rating": "E",
+            "url": "gettr.com"
+        },
+        {
+            "id": 4528,
+            "name": "Tubi",
+            "rating": "E",
+            "url": "tubitv.com"
+        },
+        {
+            "id": 4560,
+            "name": "SpaceHey",
+            "rating": "C",
+            "url": "spacehey.com,im.spacehey.com,blog.spacehey.com,forum.spacehey.com,forums.spacehey.com"
+        },
+        {
+            "id": 4614,
+            "name": "Porton Private Cloudstorage",
+            "rating": "B",
+            "url": "porton.nl"
+        },
+        {
+            "id": 4617,
+            "name": "Flatmates",
+            "rating": "E",
+            "url": "flatmates.com.au"
+        },
+        {
+            "id": 4618,
+            "name": "Brax.Me",
+            "rating": "A",
+            "url": "brax.me"
+        },
+        {
+            "id": 4638,
+            "name": "Diario AS",
+            "rating": "D",
+            "url": "as.com"
+        },
+        {
+            "id": 4690,
+            "name": "codejunkies",
+            "rating": "B",
+            "url": "codejunkies.com"
+        },
+        {
+            "id": 4691,
+            "name": "RethinkDNS",
+            "rating": "A",
+            "url": "rethinkdns.com"
+        },
+        {
+            "id": 4696,
+            "name": "JulMan",
+            "rating": "A",
+            "url": "julman.fr"
+        },
+        {
+            "id": 4705,
+            "name": "Free",
+            "rating": "D",
+            "url": "free.fr,proxad.net"
+        },
+        {
+            "id": 4769,
+            "name": "Translate",
+            "rating": "D",
+            "url": "translate.com"
+        },
+        {
+            "id": 4774,
+            "name": "Simitless",
+            "rating": "B",
+            "url": "simitless.com"
+        },
+        {
+            "id": 4780,
+            "name": "InfinityFree",
+            "rating": "D",
+            "url": "infinityfree.net,infinityfree.com"
+        },
+        {
+            "id": 4781,
+            "name": "Marmiton",
+            "rating": "E",
+            "url": "marmiton.org"
+        },
+        {
+            "id": 4813,
+            "name": "CodeSandbox",
+            "rating": "B",
+            "url": "codesandbox.io,csb.app"
+        },
+        {
+            "id": 5049,
+            "name": "Team SDS",
+            "rating": "B",
+            "url": "teamsds.net"
+        },
+        {
+            "id": 5054,
+            "name": "Yello",
+            "rating": "D",
+            "url": "yello.co"
+        },
+        {
+            "id": 5059,
+            "name": "Roadtrip Nation",
+            "rating": "D",
+            "url": "roadtripnation.com, roadtripnation.org"
+        },
+        {
+            "id": 5070,
+            "name": "Privacy Guides",
+            "rating": "A",
+            "url": "privacyguides.org,privacyguides.net"
+        },
+        {
+            "id": 5113,
+            "name": "Canvas",
+            "rating": "C",
+            "url": "canvas.com"
+        },
+        {
+            "id": 5211,
+            "name": "Truth Social",
+            "rating": "C",
+            "url": "truthsocial.com"
+        },
+        {
+            "id": 5272,
+            "name": "privacypolicies.com",
+            "rating": "E",
+            "url": "privacypolicies.com"
+        },
+        {
+            "id": 5516,
+            "name": "Moodle",
+            "rating": "B",
+            "url": "moodle.com"
+        },
+        {
+            "id": 5630,
+            "name": "Opera",
+            "rating": "D",
+            "url": "downloadoperagx.com,opera.com"
+        },
+        {
+            "id": 5643,
+            "name": "Ableton",
+            "rating": "C",
+            "url": "ableton.com"
+        },
+        {
+            "id": 5661,
+            "name": "Blooket",
+            "rating": "C",
+            "url": "blooket.com"
+        },
+        {
+            "id": 5846,
+            "name": "UptimeRobot",
+            "rating": "D",
+            "url": "uptimerobot.com"
+        },
+        {
+            "id": 6057,
+            "name": "Busuu",
+            "rating": "C",
+            "url": "busuu.com"
+        },
+        {
+            "id": 6285,
+            "name": "Pantip.com",
+            "rating": "E",
+            "url": "pantip.com"
+        },
+        {
+            "id": 6429,
+            "name": "Gap Creek Media",
+            "rating": "B",
+            "url": "gapcreekmedia.com"
+        },
+        {
+            "id": 6663,
+            "name": "Fedora Email",
+            "rating": "C",
+            "url": "fedora.email"
+        },
+        {
+            "id": 6686,
+            "name": "Leetify",
+            "rating": "D",
+            "url": "leetify.com"
+        },
+        {
+            "id": 6692,
+            "name": "PussTheCat",
+            "rating": "C",
+            "url": "pussthecat.org"
+        },
+        {
+            "id": 6710,
+            "name": "Return YouTube Dislike",
+            "rating": "C",
+            "url": "returnyoutubedislike.com,returnyoutubedislikeapi.com"
+        },
+        {
+            "id": 6742,
+            "name": "Bereal",
+            "rating": "D",
+            "url": "bereal.com"
+        },
+        {
+            "id": 6751,
+            "name": "Odysee",
+            "rating": "D",
+            "url": "odysee.com"
+        },
+        {
+            "id": 6820,
+            "name": "Filen",
+            "rating": "C",
+            "url": "filen.io"
+        },
+        {
+            "id": 7032,
+            "name": "GeeksforGeeks",
+            "rating": "D",
+            "url": "geeksforgeeks.org"
+        },
+        {
+            "id": 7103,
+            "name": "Pico",
+            "rating": "C",
+            "url": "picoxr.com"
+        },
+        {
+            "id": 7108,
+            "name": "OpenAI",
+            "rating": "D",
+            "url": "openai.com,labs.openai.com,beta.openai.com,chat.openai.com,chatgpt.com"
+        },
+        {
+            "id": 7114,
+            "name": "Poke",
+            "rating": "A",
+            "url": "poketube.fun"
+        },
+        {
+            "id": 7188,
+            "name": "LineageOS",
+            "rating": "C",
+            "url": "lineageos.org"
+        },
+        {
+            "id": 7328,
+            "name": "Cakey Bot",
+            "rating": "B",
+            "url": "cakey.bot,cakeybot.app"
+        },
+        {
+            "id": 7344,
+            "name": "Meower",
+            "rating": "B",
+            "url": "meower.org"
+        },
+        {
+            "id": 7657,
+            "name": "Aggro Magnet Games",
+            "rating": "C",
+            "url": "aggromagnetgames.com"
+        },
+        {
+            "id": 7670,
+            "name": "Elk.zone",
+            "rating": "C",
+            "url": "elk.zone"
+        },
+        {
+            "id": 7734,
+            "name": "Deveroonie.xyz",
+            "rating": "C",
+            "url": "deveroonie.xyz,cute-tan-tuna-gear.cyclic.app"
+        },
+        {
+            "id": 8106,
+            "name": "Collins Dictionary",
+            "rating": "D",
+            "url": "collinsdictionary.com"
+        },
+        {
+            "id": 8119,
+            "name": "Le Figaro",
+            "rating": "E",
+            "url": "lefigaro.fr"
+        },
+        {
+            "id": 8121,
+            "name": "BFM TV",
+            "rating": "D",
+            "url": "bfmtv.fr,tradingsat.com,zone-turf.fr,rmcbfmplay.com"
+        },
+        {
+            "id": 8283,
+            "name": "t2bot.io",
+            "rating": "C",
+            "url": "t2bot.io,status.t2bot.io"
+        },
+        {
+            "id": 8326,
+            "name": "ptgms Industries",
+            "rating": "A",
+            "url": "ptgms.space,ptg.ms,comical.site"
+        },
+        {
+            "id": 8420,
+            "name": "FairTec",
+            "rating": "A",
+            "url": "fairtec.io"
+        },
+        {
+            "id": 8429,
+            "name": "Conjuguemos",
+            "rating": "C",
+            "url": "conjuguemos.com"
+        },
+        {
+            "id": 8721,
+            "name": "Recipe Realm [depricated]",
+            "rating": "E",
+            "url": "recipe-realm.com"
+        },
+        {
+            "id": 9853,
+            "name": "Tickets Plus",
+            "rating": "C",
+            "url": "tickets-plus.techttgames.dev"
+        },
+        {
+            "id": 9994,
+            "name": "JojoYou (PriEco)",
+            "rating": "C",
+            "url": "jojoyou.org,priecovk7jsuh3tvkh62c6j4oep3l5bldigpzmay26rdpqz357t5dmad.onion"
+        },
+        {
+            "id": 10665,
+            "name": "Vouchley",
+            "rating": "D",
+            "url": "vouchley.com"
+        }
+    ],
+    "displayDonationReminder": false,
+    "lastDismissedReminder": {
+        "month": 2,
+        "year": 2025
+    },
+    "lastModified": "2025-03-28T19:06:54.300Z",
+    "sentry": false,
+    "themeHeader": true
+}
