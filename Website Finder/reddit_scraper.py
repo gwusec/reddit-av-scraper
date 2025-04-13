@@ -18,6 +18,8 @@ keywords = [
     "age verification technology",
     "age verification solutions",
     "get around age verification",
+    "avoiding age verification",
+    "age verification loopholes",
 ]
 
 headers = {
