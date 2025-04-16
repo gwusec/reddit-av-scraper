@@ -1,0 +1,49 @@
+{
+  "subreddit": "privacy",
+  "post_id": "1bhhc5v",
+  "title": "Third party online identity selfie verification",
+  "body": "This verification method seems to pop up more and more often lately. It requires the user to submit live image of ID + live selfie. These are used to confirm liveliness, and that the head shot on the ID and live selfie are of the same person.\n\nI'm wondering whether these systems, which I believe all operate using similar methods, then reference the images submitted against some sort of central resource containing verified images of the individual? Would a resource like that exist in many countries thats accessible to businesses??\n\nIf that check doesnt occur, than I'd assume anyone motivated to get verified using someone elses ID, would simply need to get the real ID copied with an image of their own face replacing The real ID holders face, If they proceed as normal by uploading live image of copied licence and live selfie of themselves they should in theory have no problem being verified? Asking for a friend...",
+  "author": "Odd-Length5962",
+  "comments": [
+    {
+      "author": "JohnSmith---",
+      "timestamp": "",
+      "body": "This may sound crazy but I don't think any of these 3rd party identity verification services are actually doing any verifying. Let me clarify. If my name is John Smith and I have an ID that says I'm John Smith, how will they verify the authenticity unless this supposed public/private for-profit company has real-time access to government databases? They can't.They're not doing ID verification, they're doing human verification. Anti scam, anti money laundering. All they want to see is a real human being, live on cam, so they know they're not dealing with a bot. One of my friends is using an ID that is almost a decade old, the photo isn't even visible anymore, yet the verification selfie video in which he held the ID next to his face, was accepted and his account was verified.They're probably also doing 3D face scanning to store and sell to data brokers."
+    },
+    {
+      "author": "Spoofik",
+      "timestamp": "",
+      "body": "Yes, you are absolutely right, that's how they work, they have no way to verify anything as there can be no legal access to government data, it's a legalized biometric scam, you can have a lot of problems after leaks from such companies."
+    },
+    {
+      "author": "Spoofik",
+      "timestamp": "",
+      "body": "I don't know how important this is for you, but if it's not critical, you can try using the DeepFaceLive app.https://github.com/iperov/DeepFaceLive"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Won't they countercheck the original ID? As I know some countries have websites for verifying whether IDs are counterfeit.  With regard to the selfie, I had an experience a week ago where I was asked to do another selfie verification. I got pissed so what I did was I wore a wig and eyeglasses and put face paint.  It was not accepted. So my hypothesis is, they have counterchecked my newest selfie with the previous life selfies I they have asked from me.  I assume there is a data base. But who has access to it I don't know.EDIT: In my case, I didn't have to flash the ID while the app took the selfie"
+    },
+    {
+      "author": "CMDR_TIGERKING",
+      "timestamp": "",
+      "body": "for any place that matters you must also often be holding your ID in clear view and all text readable ..."
+    },
+    {
+      "author": "Odd-Length5962",
+      "timestamp": "",
+      "body": "Thank everyone for your input, I appreciate it. Kind of what I was thinking. A deterrent.."
+    },
+    {
+      "author": "Savings-Concentrate1",
+      "timestamp": "",
+      "body": "This was a very interesting read that I happened to come across. Thank you for making this thread OP. On a side note did you find out more information, like have you dug a little deeper into stuff like this? Asking for a friend."
+    },
+    {
+      "author": "Odd-Length5962",
+      "timestamp": "",
+      "body": "In the country I live, there is no government centralized verified source of biometric data resource (yet), but there is a resource for third party verification for alpha numeric data on government ID’s. So as far as I can tell, at most they are checking the alpha numeric id data is legit, a visual check that the ID doesn’t look bogus and it’s physically there, that the headshot on the ID matches the person in the live selfie and that presentation attack methodologies such as deepfake, masks etc aren’t present in the live selfie. There might also be some level of device fingerprinting analysis too. On average I doubt they are doing all this, and there’d be differences in how each check for sign of presentation attack and how effective they are with picking it up.."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "subreddit": "discordapp",
+  "post_id": "roxpzt",
+  "title": "Tos Ruling on age verification?",
+  "body": "So I admin for a server that hosts a fair bit of discussion that we primarily want to keep kids away from. It's not quite as simple as hurr hurr we have tiddie pictures as the actual topics of discussion being had in certain channels. Previously we were happy as a clam to just NSFW tag the relevant channels and make people ding the admins to say \"Yeah I'm 18 yep yes sir\" for a role to allow them access. That said, obviously the honor system was flagrantly abused, and after a concerned parent reached out to us regarding conversations their child was having and attempting to put some of the information he was gleaning from there to use, a few different minors got outed.  Understandably, it's been making myself and the other server admins question how to move forward.\n\n\n\nMy question here becomes how -can- we legally verify someone's status as an adult under the rules and restrictions provided by Discord. Our initial response was to start having users submit to an admin either a state or gov't issued ID with a birthdate visible on it and a little post it note with their username date and a server identifier. This in theory would keep our bases covered in all but the most persistent of children stealing IDs to get a hold of the channels. That said even after pouring over ToS and relevant guidelines we're not sure if we're allowed to do this.\n\n\n\nTo clarify- We aren't asking if it's a good idea or if we should. We are aware that the measure could be seen as draconian or just plain invasive, but the reality of the matter is you don't have to participate in the discussions being held in the channels we are trying to safeguard. They are meant to be a specialized group of channels made for very specific topics that are by no means the main focus of the entire server. And we don't think that it's safe to have minors getting unrestricted access to the sort of information we talk about as it can lead to stupid accidents where kids think they know about something they really don't know dick all about. My only concern with this is are we allowed to under Discord's rules? And if we aren't allowed to do this, what are our alternative options to try to crack down on minors participating in sections of the server meant for adults only?",
+  "author": "Flyingbox",
+  "comments": [
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "If you want a strong verification system, require users to provide a photo with the following:User is holding an ID with the photo, date of birth intact and everything else redacted.Users face clearly visible in the photo.Piece of paper (also held) containing the server name, users name, and a random word selected by the verifying admin."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "If someone gives you their face for a verification  it's still not safe since you just got their private information. Because of that system you can get all of your accounts banned and the server too. It's easy to photoshop so all I can say is that there is no way to verificate users if they are 18 and still not breaking ToS. It's just better to set normal verification(with click of a button). The answer is:There is no real way to verify users if they are 18 with 100% success rate."
+    },
+    {
+      "author": "Aurora_Beaurealis",
+      "timestamp": "",
+      "body": "A server I was in did that, we needed to use our passport showing our picture and date of birth, along with our discord tag name. We would send that to a mod and after verification it would be deleted. Thing is it could have been someone else which is the problem.I would just go ahead with the verification and any minor found in the channels you ban them. They have broken the rules set up by the server and you are protecting yourself and the server. If they want to be in the server then they behave."
+    },
+    {
+      "author": "Flyingbox",
+      "timestamp": "",
+      "body": "You're allowed. Users have to willingly provide id."
+    }
+  ]
+}
