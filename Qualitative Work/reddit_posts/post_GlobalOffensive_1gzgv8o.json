@@ -1,0 +1,59 @@
+{
+  "subreddit": "GlobalOffensive",
+  "post_id": "1gzgv8o",
+  "title": "Faceit-Extender: Enhancing Faceit with Smurf Detection chance, Levels Over 10, and 'Have We Met' Features!",
+  "body": "Hello people,\n\nOccasionally, I like to create software in fields I’m passionate about and spend a lot of time in.\n\nAlthough I’m not actively playing right now, I do love Faceit when I play CS—it offers a better experience.\n\nA few years ago, I created a tool called'Faceit Have We Met'. This was already a second version (gotta keep those skills sharp 😉). You can find the original posthere.\n\nRecently, I decided to take this functionality a step further and reintroduce itas a featurewithin a newly createdChrome extension. But that's not all—it also comes with some extra tools to enhance your Faceit experience!\n\nNew Features Include:\n\nSmurf Probability DetectionSome players enjoy using accounts that aren’t theirs or are lower-ranked. Based on a certain data set, we are able to find a percentage on someone that might be doing this act.\n\nThis tool as a 'PROBABILITY' and I do not claim that the person in fact is as smurf the % is a chance.\n\nTo be more transparent:\n\nThe dataset we use is derived from publicly available information on the FACEIT platform, accessed through the FACEIT API. It includes:\n\nAccount information: Creation date, verification status (e.g., phone verification), number of friends, and memberships (e.g., premium status).\n\nPerformance metrics: Match history (number of matches played, win rate, etc.), kill-death ratio (KDR), kill-per-round ratio (KR ratio), and headshot percentage.\n\nSkill metrics: FACEIT ELO ranking, skill level, and progression over time.\n\nGame-specific data: Information tied to specific games like CS2, such as in-game skill progression metrics.\n\nAll of this information is publicly available and does not include any private or sensitive data.\n\nLevels Over 10Ever wanted to see player levels beyond 10? This feature unlocks that visibility, giving you more insight into the skill range of players.\n\n'Faceit Have We Met' ButtonClick this to open a dialog screen, and start searching!\n\nAny questions, or you would like to see additional features, please feel free to let me know and I'll get back to you.\n\nReact 18.2.0\n\nZustand\n\nReact-Query\n\nFaceit API\n\nThis extension is not affiliated withFaceit.comwhatsoever and I do not claim it to be, and it's a non-profit project.\n\nInquiries can be sent at:info@methods.me-Linkedin\n\nEDIT:\n\nInteresting question from: @ReneeHiii\n\nHere is a detailed explanation:\n\nWe use a scoring mechanism that evaluates multiple aspects of a player's account and performance. Here's how it works:\n\nAccount Age Analysis:\n\nWe calculate the age of the account in days.\n\nYounger accounts are flagged with higher scores as they are more likely to be smurfs, particularly if they exhibit high performance metrics.\n\nPerformance Evaluation:\n\nWe assess key performance indicators such as:\n\nWin rate.\n\nKill-death ratio (KDR).\n\nKill-per-round ratio (KR ratio).\n\nHeadshot percentage.\n\nA new account with disproportionately high metrics (e.g., KDR > 1.2 or headshots > 50%) is flagged as suspicious.\n\nSkill Progression Tracking:\n\nWe compare the player’s skill level and ELO ranking to the expected skill level based on their account age.\n\nSignificant deviations (e.g., a low-age account with a high skill level) increase the likelihood of being identified as a smurf.\n\nAccount Characteristics Assessment:\n\nWe check for typical smurf account traits:\n\nLack of phone verification.\n\nFewer than 20 friends.\n\nActivity in only one game.\n\nNo premium memberships.\n\nWeighted Scoring:\n\nEach of the above factors contributes to a final weighted score.\n\nAdjustments are made based on additional characteristics:\n\nHigh verification levels lower the score.\n\nExceptionally high performance metrics (e.g., KDR > 1.5) increase the score.\n\nCertainty Adjustments:\n\nSpecific thresholds, such as average KDR above 1.5 or significant account age discrepancies, add certainty to the smurf probability score.\n\nFinal Output:\n\nThe system calculates a final probability score, expressed as a percentage, indicating the likelihood of the account being a smurf.\n\nThe score is capped between 0% (not a smurf) and 99% (very likely a smurf).\n\nThis approach provides a transparent and objective way to detect smurfing, ensuring the process is fair and based solely on observable data.",
+  "author": "Biggzero",
+  "comments": [
+    {
+      "author": "Oleyed",
+      "timestamp": "",
+      "body": "Levels after 10 should increase with the same trajectory as earlier levels. The elo needed to progress to the next level should get higher and higher, just like between 6 and 10 levels."
+    },
+    {
+      "author": "methoDsGC",
+      "timestamp": "",
+      "body": "Agreed, for now it was capped on 150, what intervals would you suggest?"
+    },
+    {
+      "author": "Raul_gamer3214",
+      "timestamp": "",
+      "body": "Is it available for firefox?"
+    },
+    {
+      "author": "dannybates",
+      "timestamp": "",
+      "body": "+1 for firefox, I dont wanna use chrome"
+    },
+    {
+      "author": "purplescrew",
+      "timestamp": "",
+      "body": "Yeah, firefox would be nice!"
+    },
+    {
+      "author": "Astronaut-Remote",
+      "timestamp": "",
+      "body": "unfortunate timing because Faceit is allegedly doing a big update in a couple hours that will probably break this"
+    },
+    {
+      "author": "SaLexi",
+      "timestamp": "",
+      "body": "Nice work!If only FaceIt would also be able to detect some smurfs."
+    },
+    {
+      "author": "RANDY_MAR5H",
+      "timestamp": "",
+      "body": "They won't.They make more potential money hoping the alt accounts also buy premium before getting their elo nukedFaceit is surprisingly fast to ban smurfers though. I've reported people and sometimes have gotten the notification the same day."
+    },
+    {
+      "author": "rdmprzm",
+      "timestamp": "",
+      "body": "Looks great! Can't use it as I'm on Firefox but congrats on the release."
+    },
+    {
+      "author": "Biggzero",
+      "timestamp": "",
+      "body": "Nice work! Will definitely use this!"
+    }
+  ]
+}

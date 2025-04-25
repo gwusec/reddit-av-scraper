@@ -1,0 +1,59 @@
+{
+  "subreddit": "LegalAdviceUK",
+  "post_id": "1iimsbg",
+  "title": "Thoughts on the adult content age verification changes coming in July",
+  "body": "So what do people think about this change in the law that the government has said needs to be implementated by July?\n\nFrom what I have read is that all adult content sites will need a method better than a \"I am over 18\" checkbox.  Do professionals think this is workable at all currently never mind in the time scale they are pushing for?\n\nNow I don't currently have any skin in the game (no pun intended) but I have a few ideas on how I would do this and I was wondering if its worth while creating this as a service to sell to age verifiers or if they will back down before July and there will be no need for the service?\n\nI have worked in tech for decades at this point so I know the dangers of PII storage and all of those problems but also know how to minimise the risk but I feel like the average adult content site won't want to get involved in all of that.\n\nFinally is this just going to affect England or is it going to be UK wide?",
+  "author": "Giln0ckie",
+  "comments": [
+    {
+      "author": "AutoModerator",
+      "timestamp": "",
+      "body": "Moderator AnnouncementRead More »Welcome tor/LegalAdviceUKTo Posters (it is important you read this section)Tell us whether you're in England, Wales, Scotland, or NI as the laws in each are very differentIf you need legal help, you shouldalways get a free consultation from a qualified SolicitorWe also encourage you to speak toCitizens Advice,Shelter,Acas, andother useful organisationsComments may not be accurate or reliable, and following any advice on this subreddit is done at your own riskIf you receive any private messages in response to your post,please let the mods knowTo Readers and CommentersAll replies to OP must beon-topic, helpful, and legally orientatedIf you do notfollow the rules, you may be perma-banned without any further warningIf you feel any replies are incorrect, explain why you believe they are incorrectDo not send or request any private messages for any reasonPlease report posts or comments which do not follow the rulesI am a bot, and this action was performed automatically. Pleasecontact the moderators of this subredditif you have any questions or concerns."
+    },
+    {
+      "author": "Und3adShr3d",
+      "timestamp": "",
+      "body": "People will just use a VPN to get around this like they do with blocked piracy sites. Using geo-spoofing should be enough."
+    },
+    {
+      "author": "Numerous_Lynx3643",
+      "timestamp": "",
+      "body": "These types of legislation/policy ideas are always from people who have never used the Internet properly lol"
+    },
+    {
+      "author": "meldon1977",
+      "timestamp": "",
+      "body": "Yeah but I am not worried about how end users could get past it but more about how companies could apply the law"
+    },
+    {
+      "author": "Adorable_Trip6595",
+      "timestamp": "",
+      "body": "It's pointless, people will just sail the high seas instead or use a VPN to bypass the checks."
+    },
+    {
+      "author": "Sad-Yoghurt5196",
+      "timestamp": "",
+      "body": "When the government insisted torrent sites and certain adult content had to be blocked by the major ISPs they also blocked a whole bunch of other stuff, like sites catering to the locksport community and genuine registered locksmiths. While not having any appreciable effects on users that used porn and pirate bay etc.Policy makers rarely have any real experience in the field in which they set policy. They're \"good idea\" people with zero knowledge of how to implement things in the real world, and even less idea of who to hire to do it competently.If porn is your thing, this is unlikely to affect you frankly. A monkey can work a browser proxy or VPN, so it won't be difficult to get around. There's no one authority on the internet, and even if all the western nations were to band together to insist on age verification I don't think Kiribati or the Christmas Islands will be giving a toss about it. Though evidently Goatse (or rather dolphinsex dot org) was a step too far!"
+    },
+    {
+      "author": "OnlymyOP",
+      "timestamp": "",
+      "body": "People lie on the internet all the time. It'll be unenforceable"
+    },
+    {
+      "author": "TechnicalAd896",
+      "timestamp": "",
+      "body": "They’ll switch to verifying a credit card for access most likely."
+    },
+    {
+      "author": "darsynia",
+      "timestamp": "",
+      "body": "Ah, so barring people with bad credit? Can't imagine that backfiring at all!"
+    },
+    {
+      "author": "Giln0ckie",
+      "timestamp": "",
+      "body": "Not sure you'd have to store pii you could do a one time verification and then delete the pii data assign a random code and issue a token or something."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "subreddit": "EscapefromTarkov",
+  "post_id": "18uasc5",
+  "title": "Help: People who changed CPU recently can't get the verification mail for the love of god",
+  "body": "Issue is in the title.\n\nIt seems that many people with the same problem have changed their CPU recently. I myself just upgraded to 7900x3d and wanted to play this weekend. Now it's day two and i still don't recieve the mail. I've logged in to my friends account and the mail arrived instantly. I've tried running the launcher as admin, reinstalling the launcher and the game and tried o authenticate at least 200 times. No success. Whats left now is reinstall windows from scratch and change e-mail address. Weirdly, i got the mail instantly which confirmed my password reset. It has the same sender as the verfication mail,no-reply@escapefromtarkov.com, so it's not a spam filter issue.\n\nAll in all this is just sad. I've upgraded my pc for more than 1.6k $ to play these few vacation days and enjoy the game and the only thing i get is a freak error because they probably fucked around with cpu hardware id locks or something. Please fix it as fast as possible.\n\nEDIT: Nikita making fun of the issuehttps://www.twitch.tv/battlestategames/clip/ArtsyCarefulDootYouDontSay-WT6-5o9SQ6cwqB6O\n\nEDIT2: Just clean installed Windows, no change.\n\nEDIT3: Downgraded to Win 10, still not working. Funny enough the verification code from the website login being delivered within seconds to the gmail backup account.\n\nEDIT4: So it seems that anyone affected by this needs to try and change their e-mail address to gmail. I've never seen anyone have this issue with a gmail account. For some reason, changing e-mail is greyed out for me so i created yet another support ticket to let them change it for me.",
+  "author": "jpdsc",
+  "comments": [
+    {
+      "author": "NoNumbersInNamePlz",
+      "timestamp": "",
+      "body": "Don't feel too bad, I haven't changed a single thing and still can't get a fucking email"
+    },
+    {
+      "author": "Sharpie1993",
+      "timestamp": "",
+      "body": "But their authentication servers are up and working perfectly fine /sNikita even made fun of the issue on his twitch stream."
+    },
+    {
+      "author": "eXContraband",
+      "timestamp": "",
+      "body": "hey same here, i thought it was just their servers being overloaded from drops, went from 10700k to 7800x3d and trying to log in to download game on new hardwareedit - i don't get the password resets at all though, tried both every 15 mins or so for about 8 hours yesterday on and offedit #2 - realized i was hitting the \"unable to log in\" on the page where it says code has been sent to main email, if i hit can't log in before trying to log in though i do get a password reset email but still can't log in after changing it."
+    },
+    {
+      "author": "YourSmileIsFlawless",
+      "timestamp": "",
+      "body": "The website sends the codes to my backup email just fine but the client doesn't so I can't login. Same issue for the past 4 years. Almost 2024 and the change email feature is still disabled... Almost 4 years later and they still fixed their issue with yahoo, outlook etc."
+    },
+    {
+      "author": "AstaTkaczyk",
+      "timestamp": "",
+      "body": "Seeing that some people didn't change anything on their PCs, i hope the CPU thing is just a coincidenceBSG needs to do something quick man"
+    },
+    {
+      "author": "neddoge",
+      "timestamp": "",
+      "body": "Anytime your hardware is updated in any way, the launcher will require reauthentication. It's why I am still sitting on my 5800×3D lol"
+    },
+    {
+      "author": "Pisthol",
+      "timestamp": "",
+      "body": "Seeing this new wave of people with email verification issues this wipe is super upsetting, especially because I am now one of them. I'm a hotmail user and I remember it sometimes being troublesome in the past but I haven't been able to get a single verification email in 2 days after trying every solution under the sun  (upgraded PC parts 2 days ago) .Seeing these new twitch clips too of them not caring at all makes me realize I've probably lost my 3200 hour EOD account. What a fucking shame..."
+    },
+    {
+      "author": "jpdsc",
+      "timestamp": "",
+      "body": "The issue seems to only affect Microsoft email domains such as,hotmail.com, live.etc.Anyone with gmail can just receive them without issues."
+    }
+  ]
+}

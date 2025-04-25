@@ -1,0 +1,19 @@
+{
+  "subreddit": "youtubedl",
+  "post_id": "1hy1yeo",
+  "title": "Can someone help me bypass the age verification error?",
+  "body": "I'm using yt-dlp throu windows cmd and it started giving me the age verification error. I may need help applying the fix proposed in this github post about cookies:\n\nhttps://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp",
+  "author": "500xp1",
+  "comments": [
+    {
+      "author": "Johnni2004",
+      "timestamp": "",
+      "body": "Hi, as mentioned in the guide, add the argument--cookies-from-browser “name of your browser” (e.g. chrome, opera, etc.)to the command line. However, while you are downloading the video, you should close your browser, otherwise the cookies cannot be read."
+    },
+    {
+      "author": "500xp1",
+      "timestamp": "",
+      "body": "Hi; suppose I opened cmd at the yt-dlp.exe directory; how would the whole command go (with the firefox cookies)?"
+    }
+  ]
+}

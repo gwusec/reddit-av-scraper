@@ -1,0 +1,34 @@
+{
+  "subreddit": "youtubedl",
+  "post_id": "onkqyy",
+  "title": "Is there a way to bypass the age restriction without verification/ID etc",
+  "body": "Like a few days ago I could still watch/download with--cookies18+ videos from yt.\n\n\n\nNow it requieres some form of ID. I obviously dont want to share this information with the glowy alphabet boys.\n\nIm from Germany btw and the account is like a little over 2 years old if this matters.\n\n\n\nI found a solution for yt in browser:\n\nfollow instructions @https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass\n\n\n\nIs there a way to implement this feature in youtube-dl?\n\nEDIT: METHOD ABOVE DOESNT WORK ANYMORE Currently yt-dlp method also doesn't work",
+  "author": "svnpenn",
+  "comments": [
+    {
+      "author": "pukkandan",
+      "timestamp": "",
+      "body": "It is already implemented in youtube-dl, but there has been no release with this fix. You'll have to either compile it yourself or install the master with pip+git.You can also check out my forkyt-dlpwhere this fix is available in the release version"
+    },
+    {
+      "author": "maius-wthns",
+      "timestamp": "",
+      "body": "Cool thanks"
+    },
+    {
+      "author": "WritingReadingReddit",
+      "timestamp": "",
+      "body": "I switched over to yt-dlp specifically because of the age restricted video issue.Figuring out how to use a cookies file sounds too complicated.And, yeah, even worse is some countries requiring official identification just to see pictures naked girls.Fuck having to give anyone your real name for them to attach to a giant list of everything you've watched while masturbating.You might also consider a VPN so that YouTube and Google don't know you're in a country from which they demand identification.This annoying age and identity restriction is a perfect illustration of why we need this video ripping technology: The rules are always changing, and you never know why or when you won't be allowed to see your favorite video ever again."
+    },
+    {
+      "author": "q1525882",
+      "timestamp": "",
+      "body": "Same from EU, Tampermoneky script in browser allows to watch them, but download is quite PITA at the moment. JDownloader2 also complains age. Not sure if my cookies will do the trick.Will try yt-dlp as few persons already mentioned this solution."
+    },
+    {
+      "author": "svnpenn",
+      "timestamp": "",
+      "body": "Another method is using OAuth. A Go package and command line tool are available here:https://github.com/89z/mech"
+    }
+  ]
+}

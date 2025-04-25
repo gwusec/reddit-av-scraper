@@ -1,0 +1,54 @@
+{
+  "subreddit": "privacy",
+  "post_id": "13j500w",
+  "title": "Online age verification is coming, and privacy is on the chopping block",
+  "body": "",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "Frosty-Influence988",
+      "timestamp": "",
+      "body": "\"We, the leaders of the EU and the US condemn China for their abusive human rights record\"\"dat mass surveillance tho....\"bites their bottom lip"
+    },
+    {
+      "author": "KolideKenny",
+      "timestamp": "",
+      "body": "More experimentally, there are solutions that estimate a user’s age without an ID. One potential option, which is already used by Facebook and Instagram, would use a camera and facial recognition to guess whether you’re 18. Another, which is highlighted as a potential age verification solution by France’s National Commission on Informatics and Liberty (CNIL), would “guess” your age based on your online activity.As pointed out by CNIL’s report on various online age verification options, all these methods have serious flaws. CNIL notes that identifying someone’s age with a credit card would be relatively easy since the security infrastructure is already there for online payments. But some adult users — especially those with lower incomes — may not have a card, which would seriously limit their ability to access online services. The same goes for verification methods using government-issued IDs. Children can also snap up a card that’s lying around the house to verify their age.Similarly, the Congressional Research Service (CRS) has expressed concerns about online age verification. In a report it updated in March, the US legislature’s in-house research institute found that many kids aged 16 to 19 might not have a government-issued ID, such as a driver’s license, that they can use to verify their age online. While it says kids could use their student ID instead, it notes that they may be easier to fake than a government-issued ID. The CRS isn’t totally on board with relying on a national digital ID system for online age verification either, as it could “raise privacy and security concerns.”Face-based age detection might seem like a quick fix to these concerns. And unlike a credit card — or full-fledged facial identification tools — it doesn’t necessarily tell a site who you are, just whether it thinks you’re over 18.But these systems may not accurately identify the age of a person. Yoti, the facial analysis service used by Facebook and Instagram, claims it can estimate the age of people 13 to 17 years old as under 25 with 99.93 percent accuracy while identifying kids that are six to 11 years old as under 13 with 98.35 percent accuracy. This study doesn’t include any data on distinguishing between young teens and older ones, however — a crucial element for many young people.Although Yoti claims its system has no “discernible bias across gender or skin tone,” previous research indicates that facial recognition services are less reliable for people of color, gender-nonconforming people, and people with facial differences or asymmetry. This would, again, unfairly block certain people from accessing the internet.I know this is a long excerpt, but my goodness. This is bleak."
+    },
+    {
+      "author": "SootyFreak666",
+      "timestamp": "",
+      "body": "Biometric age verification can be bypassed with a video and software that allows you to mirror mp4 to webcam.In my option age verification in general should be banned, it unnecessary and no different to a peeping tom. Age verification companies should face the toughest of legal requirements and should be banned from profiting or storing data. The people behind these laws that encourage this online harm should also face legal consequences when it goes up.A politician should be held accountable when peoples IDs or facial scans get posted online, it’s only fair."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Remember when you were a kid? There was probably a ton of things you weren't allowed to do. And you probably knew a way to get away with doing just about anything on that list. Trying to block kids from accessing sites will make them find ways around it or just make them move to a different site.  I mean, the UK started requiring an ID to watch porn back in 2019. I bet not a single kid there has seen a single nipple since /sBut you're right. It's not the government's job to police our kids, it's the parents."
+    },
+    {
+      "author": "sy029",
+      "timestamp": "",
+      "body": "Remember when you were a kid? There was probably a ton of things you weren't allowed to do. And you probably knew a way to get away with doing just about anything on that list. Trying to block kids from accessing sites will make them find ways around it or just make them move to a different site.  I mean, the UK started requiring an ID to watch porn back in 2019. I bet not a single kid there has seen a single nipple since /sBut you're right. It's not the government's job to police our kids, it's the parents."
+    },
+    {
+      "author": "Frosty-Cell",
+      "timestamp": "",
+      "body": "There are some fundamental disagreements here. Pre-Snowden, governments used to be able to grab almost all data they wanted, and since VPNs were somewhat rare, they could also get the identity of most users. But that changed with \"going dark\", which has two components - encryption and anonymity (VPNs). They are using children as a tool to try to fix both, but the \"problem\" is entirely unrelated to children.If age (ID) verification becomes a thing, people will move to TOR or similar."
+    },
+    {
+      "author": "0ld_Owl",
+      "timestamp": "",
+      "body": "Just in time for the new digital ID to go along with the digital currency they want to roll out.How convenient."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    }
+  ]
+}

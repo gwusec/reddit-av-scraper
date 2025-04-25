@@ -1,0 +1,49 @@
+{
+  "subreddit": "privacy",
+  "post_id": "nb5qtc",
+  "title": "Youtube Age Verification Bypass on Firefox, Windows 10",
+  "body": "I searched the internet for half an hour. Is there anything I missed? Because I couldn't find anything and I definetely dont wanna give google my ID just to watch a random youtube video.",
+  "author": "illcleanhere",
+  "comments": [
+    {
+      "author": "privacy_paranoia666",
+      "timestamp": "",
+      "body": "If you add \"nsfw\" in the URL before \"youtube.com/your_videoaddress\", it shows an embedded video by taking you to \"nsfwyoutube.com\". Works for http:// links I think. Remove 's' for https:// links in case it doesn't work.Check the sidebar on that website for better clarification. Not sure if it works for all videos though."
+    },
+    {
+      "author": "illcleanhere",
+      "timestamp": "",
+      "body": "Thanks dude! Helps me a ton!"
+    },
+    {
+      "author": "Cautious-Gap-764",
+      "timestamp": "",
+      "body": "Youtube (the website) is becoming so annoying these days that I went back to the good old RSS tech.I use a RSS reader where i have put all the youtube channels i follow, that shows me any new video. So no need for a youtube account.Then with mpv and youtube-dl installed,  i just have to click on a rss item to launch the video. No ads, no consent requests, no age check, no bs.Freetube is interesting but since my cpu is low end, mpv with gpu decoding is more efficient (at least on linux)I use Newpipe on android, so i rarely go anymore on youtube (the website)"
+    },
+    {
+      "author": "RogerTHattshit",
+      "timestamp": "",
+      "body": "Since when did youtube require this?"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Any video YouTube deems as restricted (gory, sexual, etc) requires account for age verification, a lot of the time YouTube false flags videos for this and still requires the age verification sadly.Edit: happens more often on mobile than desktop for whatever reason"
+    },
+    {
+      "author": "illcleanhere",
+      "timestamp": "",
+      "body": "See my reply on the other comment"
+    },
+    {
+      "author": "prophet-of-dissent",
+      "timestamp": "",
+      "body": "I’ve never tried it this way, but maybe you can use YouTube-dl to download the data and view it offline? Not sure if it’ll work without an account flagged as “age verified” or whatever though…Can you not create a fake Google account and just tell them you’re like 90 or something? I don’t remember ever having to send Google my ID but then again I’ve had multiple Google accounts for well over a decade…"
+    },
+    {
+      "author": "illcleanhere",
+      "timestamp": "",
+      "body": "I am living in Europe. Google wants either a credit card or an ID to verify your age here. First, it has only been on mobile, but now it arrived to browsers as well, as it seems."
+    }
+  ]
+}

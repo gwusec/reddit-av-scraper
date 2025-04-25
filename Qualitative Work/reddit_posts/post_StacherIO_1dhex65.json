@@ -1,0 +1,19 @@
+{
+  "subreddit": "StacherIO",
+  "post_id": "1dhex65",
+  "title": "How to bypass YouTube age verification?",
+  "body": "My downloads keep failing due to YouTube requiring age verification. When I open the videos in a browser, it says “login to verify age.” How do I bypass this to download videos? I do see the option to have your browser pass cookies to Stacher, which browsers will allow this? Chrome does not work for me when I tried it.",
+  "author": "CautiousHashtag",
+  "comments": [
+    {
+      "author": "shiftysnowman",
+      "timestamp": "",
+      "body": "Firefox is probably your best bet - it's a limitation on what yt-dlp can access.  The reason chrome isn't working is most likely due to permissions access.  I think (?) there is an open issue in the yt-dlp github somewhere that is tracking this for chrome, but I'm not sure what the status is."
+    },
+    {
+      "author": "CautiousHashtag",
+      "timestamp": "",
+      "body": "I’ll try Firefox and report back. Do I need to do anything special within the settings of Firefox to prevent the cookies from not being passed on?"
+    }
+  ]
+}

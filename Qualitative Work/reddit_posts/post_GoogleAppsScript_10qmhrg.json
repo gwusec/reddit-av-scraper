@@ -1,0 +1,29 @@
+{
+  "subreddit": "GoogleAppsScript",
+  "post_id": "10qmhrg",
+  "title": "\"Age verification\" on Google Form.",
+  "body": "I feel like this is an issue that should have come up with some frequency, but I haven't been able to find a suitable solution. Basically, I am asking respondents to answer the question, \"Birthdate?\" with a date-type answer. If it's possible, I would like to check to see if that birth date is greater than or equal to 21 years ago and if it's under 21, an error message is returned to the respondent and the data is purged from the database. Chat GPT provided some code that didn't work despite calling on the correct e.value. Also i tried this in both the script for the sheet and for the form. Both failed. Each time I tested, the form \"submitted successfully.\"\n\nSorry I'm new to all this, so I feel like it's one of those simple answers I just dont know because I'm a novice.",
+  "author": "Any_Affect_7134",
+  "comments": [
+    {
+      "author": "TyWerner",
+      "timestamp": "",
+      "body": "If you want to you can also do a simple check in the form itself. Add a input field, and under the 3 dots there is like Conditions/requirements not sure of the exact name now. You can let it check a couple of things already"
+    },
+    {
+      "author": "Any_Affect_7134",
+      "timestamp": "",
+      "body": "Ok, that was suggested at some point, but it appears that using the date input style for the birth date question prevents this validation method. It looks like perhaps the easiest solution to implement would be to change the birth date question from a date to a short answer."
+    },
+    {
+      "author": "marcnotmark925",
+      "timestamp": "",
+      "body": "Are you expecting that the \"throw new error\" prevents the form from being saved? I don't believe that's how it works. The script runsafterthe form has been submitted. So you'd need to replace the \"throw new error\" line with code that opens the response sheet, finds the submission, and deletes it."
+    },
+    {
+      "author": "Any_Affect_7134",
+      "timestamp": "",
+      "body": "I am going to try the short answer validation methods, but basically I want the respondent to know that they made a mistake. I can find the submission and delete it easily if needed."
+    }
+  ]
+}

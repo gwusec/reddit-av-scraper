@@ -1,0 +1,54 @@
+{
+  "subreddit": "VRchat",
+  "post_id": "1h5qqbg",
+  "title": "Age Verification FAQ - You can only verify 1 account per ID",
+  "body": "",
+  "author": "nesnalica",
+  "comments": [
+    {
+      "author": "EmoExperat",
+      "timestamp": "",
+      "body": "But what if you delete that verified account? Can you then make a new account with your id?"
+    },
+    {
+      "author": "ZeakNato",
+      "timestamp": "",
+      "body": "great news for people that don't like ban evaders"
+    },
+    {
+      "author": "Shadowmirax",
+      "timestamp": "",
+      "body": "I though they were deleting your information 30 days after you verify? How will they know that an ID has been used twice after those 30 days when they can no longer see what ID the first account used?"
+    },
+    {
+      "author": "IkouyDaBolt",
+      "timestamp": "",
+      "body": "It is possible they could hash the information and use a bit of salt.  The same information resubmitted would generate the same hash but would not contain anything more than a string of letters and numbers."
+    },
+    {
+      "author": "One-Tap",
+      "timestamp": "",
+      "body": "Vrchat doesnt know, but the ID service knows. It’s an option persona has through their service."
+    },
+    {
+      "author": "AdeonWriter",
+      "timestamp": "",
+      "body": "There's a little math thing called hashes which lets you know if you've had the same data before even if you no longer have the data.You can't get data out of a hash, but if you get the same data again later, you'll get the same hash.And since the hash isn't your data, they keep it."
+    },
+    {
+      "author": "BatRepresentative879",
+      "timestamp": "",
+      "body": "The forum post and video make it clear that you can only verify one account per ID. I understand the reasoning, and largely agree with the benefits.However, I do wonder how this may affect content creators such as vtubers. In my case, I have a main account to use with friends, but another that's for my character. It's not malicious, privacy is just important for vtubers.It would be nice not to be gated out of instances or have people not want to associate with me because I'm not verified. Maybe exceptions can be made on a case-by-case basis?"
+    },
+    {
+      "author": "Unfair_Bunch519",
+      "timestamp": "",
+      "body": "This will cut down on the skinwalkers in public lobbies"
+    },
+    {
+      "author": "nesnalica",
+      "timestamp": "",
+      "body": "wtf is a skinwalker"
+    }
+  ]
+}

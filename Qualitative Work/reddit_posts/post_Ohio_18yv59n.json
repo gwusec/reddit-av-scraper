@@ -1,0 +1,29 @@
+{
+  "subreddit": "Ohio",
+  "post_id": "18yv59n",
+  "title": "Problems verifying identity with OH|ID… any solutions?",
+  "body": "I used to have an OH|ID account which at some point I set up 2 factor authentication for and I’ve lost the authentication key… so I can’t fully access my OHID account. I called the BMV for help, and they said I should create another account. The problem is, I can’t seem to verify my identity… it just says “there’s been an error”.\n\nHas anyone had similar issues and if so, how did you fix it? It doesn’t seem like there’s any real support for OH|ID. I just need to verify my identity but I can’t even answer the questionnaire. There’s no help desk number to call, and no real support options.\n\nAdvice appreciated, TIA.",
+  "author": "pcfreak4",
+  "comments": [
+    {
+      "author": "Wolfreject",
+      "timestamp": "",
+      "body": "The developers (IOP Innovate Ohio Platform) don't have a phone help desk, they only work tickets. Send an email toCSC@Ohio.gov, that'll generate a ticket for them."
+    },
+    {
+      "author": "reikert45",
+      "timestamp": "",
+      "body": "Thank you! It’s been really hard trying to go through the BMV for help. The process is very fragmented, hoping this does the trick. Many thanks!!!"
+    },
+    {
+      "author": "Conscious_Currency77",
+      "timestamp": "",
+      "body": "Hey, thanks for posting this information. I submitted a ticket, but I think I'll probably have to go in person as well. This is so frustrating."
+    },
+    {
+      "author": "pcfreak4",
+      "timestamp": "",
+      "body": "Have same issue, filled a ticket with them and eventually got a phone call and they got just told me to go renew my license in person because it’ll likely be months before they fix this."
+    }
+  ]
+}

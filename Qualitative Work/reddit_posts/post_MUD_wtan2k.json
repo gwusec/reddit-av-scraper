@@ -1,0 +1,59 @@
+{
+  "subreddit": "MUD",
+  "post_id": "wtan2k",
+  "title": "RPIs and Age Verification?",
+  "body": "I'm thinking about doing something wildly unpopular, like adding age verification to an RPI game.\n\nI think it would probably make it even more difficult for  a niche game to become populated.\n\nBut also, it's a solution that brings me the most peace of mind.",
+  "author": "the_andruid",
+  "comments": [
+    {
+      "author": "DarqueHorse",
+      "timestamp": "",
+      "body": "We don't do age verification on Sundering Shadows but we make a clear statement that it's an adult game and under 18 is not allowed. That said, if someone decides to enter anyways, it's on them.We also do not mechanically allow child characters to be made. The lowest age for a character in game is 18 (unless it's an elf and then it's like 100). We also do not allow descriptions that in any way suggest the character is a child.Unless you're a monetized game, I don't see that population is super important. It's far better to play with people who share your gaming values."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Thank you for the thoughtful response."
+    },
+    {
+      "author": "TedCruzIsAPedo",
+      "timestamp": "",
+      "body": "Do what you need to do to give yourself peace of mind.Personally, I would be more inclined to hand my ID to a third-party identification system, rather than directly to a MUD admin. Services offered by sites like AgeChecker usually cost $20-30 month at the minimum. WithPersona offers a starter-level service for 500 checks/month free, which might be worth looking into, but I don't have experience with personally.It's important to feel good about the game you're running and the community you're trying to cultivate. If I was in your position I'd likely make similar considerations."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Yes, absolutely. I would never implement my own age verification system -- there are well-established (trusted) vendors available at affordable rates."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "I've been looking at Veriff -- but I'm not yet familiar with the available products/services."
+    },
+    {
+      "author": "Walmart_HeadReciever",
+      "timestamp": "",
+      "body": "The last thing I would want to do is give a mud anymore personal information.Probably easier to just monitor how mature someone acts."
+    },
+    {
+      "author": "FluffyCasual",
+      "timestamp": "",
+      "body": "What do you mean by \"verification\"?If you want to set a rule, that's pretty normal, and you can enforce it by banning people who admit to having broken it, but unless you're both collecting personal information and verifying that the people sending it to you aren't using some other person's name, I'm not sure how this is expected to catch the people who just lie. Faking a social media presence isn't at all hard, either.I think I recall some NSFW game asking for photos of government-issued ID, but that sets off some alarms in my head."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "In terms of games -- age verification is most common in onlinegambling(due to legal requirements). But there's a growing movement to help protect children online with mitigating factors like age verification. Roblox has introduced this requirement for some features, such as voice chat.No system is 100% effective, but it's a question (to myself) of whether or not I'm doing my due diligence. Especially with something like an anonymous roleplaying environment with adult themes.If you want to join a public library or enter a bar, you often have to provide government-issued ID. I'm heavily leaning toward extending that norm to the Internet."
+    },
+    {
+      "author": "shevy-java",
+      "timestamp": "",
+      "body": "I don't think it would add a huge burden in regards to limiting players (since you exclude e. g. minors).Personally, though, I don't think I would want to go through any hoops for having to verify my age. This is less about having an issue with it per se (I guess I can convincingly demonstrate that I am above 18 years of age), but more to do with being incredibly lazy. For instance, I absolutely hate captchas. Every time it feels as if it is done to just waste my time. I often am incorrect in regards to captchas.In regards to age verification: I actually started to play MUDs at age 15. If there would have been an age gate then I don't think I would have ever started simply because my interests shifted quickly past age 18. And time constraints became more prevalent. So I don't know ... I can kind of understand the rationale but I am not sure I agree with it."
+    },
+    {
+      "author": "the_andruid",
+      "timestamp": "",
+      "body": "I think if you're upfront about why you're asking players to go through the check, making it as easy as possible, and using a trusted vendor, you'll have folks who are on board.You could have something like a 1 week grace period so that players have a chance to try the game out and decide whether they like it first. If you use a service that charges per accepted verification, you'll also save some money that way.Either way, peace of mind is hugely important for someone in an admin/staffer position and can help prevent burnout. If you think it'll help, I say give it a try. If it doesn't work out, you can always change it later."
+    }
+  ]
+}

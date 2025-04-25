@@ -1,0 +1,59 @@
+{
+  "subreddit": "discordbots",
+  "post_id": "1iywv8b",
+  "title": "Age verification bot",
+  "body": "Hey, I’m looking for a bot that can age verify, and it seems like all of them use an ID check which is a bit much. Is there any bot that reads the age that people sign their accounts up with?",
+  "author": "ce0d411bf7",
+  "comments": [
+    {
+      "author": "baltarius",
+      "timestamp": "",
+      "body": "Just set all your channels as NSFW, problem solved."
+    },
+    {
+      "author": "RJGamer1002",
+      "timestamp": "",
+      "body": "I don't think bots can read the age from people accounts"
+    },
+    {
+      "author": "404invalid-user",
+      "timestamp": "",
+      "body": "this is impossible as discord don't make ages something you can get though their API, your best option is just setting your channels to nsfw"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "Fresh-Switch50",
+      "timestamp": "",
+      "body": "yeah it is possible! i can make you one if you wantdiscord : alaotach"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "You only comment to try to sell lol"
+    },
+    {
+      "author": "Agathorn1",
+      "timestamp": "",
+      "body": "You only comment to try to sell lol"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Do people do this 😭"
+    },
+    {
+      "author": "zennnara",
+      "timestamp": "",
+      "body": "Do people do this 😭"
+    },
+    {
+      "author": "ce0d411bf7",
+      "timestamp": "",
+      "body": "I've set up CarlBot on my server that works incredibly well for me without age verification.When users join, they're given the #unverified role by CarlBot. This restricts their view to #rules and #verify.In #Verify, there's a react role message (set up via Carlbot), asking \"What's your age?\"13-15 16-17 18-20 etcIf a user selects an >18 role, Carlbot will give them the 'Minor' role which removes all view perms except to a channel called #read-me that explains that they're underage to view the server and gives them the ability to create a ticket to age verify.If they select an +18 role, it gives them the corresponding role and also gives them #member that grants access to the rest of the server"
+    }
+  ]
+}

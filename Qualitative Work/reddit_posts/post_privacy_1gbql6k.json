@@ -1,0 +1,44 @@
+{
+  "subreddit": "privacy",
+  "post_id": "1gbql6k",
+  "title": "Going about age verification",
+  "body": "I wanted to ask about age verification more specifically what ideas you guys might have to keep it private but also allow an easy way for people or platforms to verify it. Only ideas running through my head rn is using a chunk of the numbers on a drivers license or ssn in a way that would let you extract the date of birth but nothing else. Problem with it apart from changing how the system already works is that you could probably find someone giving away those numbers. My brains running through other ideas but they're all intrusive or could be easily worked around. Why I ask for this discussion also isn't about the obvious reasons but more so a lot of communities I've seen where they're casual but only want an adult community especially in games like vrchat where the kids can be very annoying.",
+  "author": "1_Gamerzz9331",
+  "comments": [
+    {
+      "author": "Frosty-Cell",
+      "timestamp": "",
+      "body": "Age verification is a red herring. The intent is to raise the barrier to access legal information that \"they\" dislike for any reason.There is no way to do it without also making it possible to connect everything a user does online to a verified identity. NSA/GCHQ and similar would like that a lot. Governments that dislike free speech also want the chilling effect of the user knowing it is identified."
+    },
+    {
+      "author": "TTuxlion",
+      "timestamp": "",
+      "body": "That's why I'm asking if there's a possible way to make an anonymous age verification check. Not in those direct words I will say, but something that let's people easily check and verify a persons age without ever touching any other part of their identity or being able to track them in any way, kind of like a key that only unlocks a chunk of the information and only that information, never anything more."
+    },
+    {
+      "author": "9nEiEVuxQ47vTB3E",
+      "timestamp": "",
+      "body": "Age verification will just drive people away from the sites it's implemented on, and people go elsewhere. 'The Internet sees censorship as a threat and routes around it'."
+    },
+    {
+      "author": "vriska1",
+      "timestamp": "",
+      "body": "That if most sites even do AV in the end, there many problems with it."
+    },
+    {
+      "author": "ArnoCryptoNymous",
+      "timestamp": "",
+      "body": "Well, for those who, are interested in anonymously verifying their own age, there is no way to do that. Even if you find a service provider who may verify your legal age, how do you like to autenticate this verification to a lets say a provider for adult content if, they don't even know any useful verification method, except checking your personal ID and that's probably not what you want.So there is your dilemma. And btw, I do feel with you, because who really likes to see it's own personal name leaked from a hack of a specific (maybe adult content) site."
+    },
+    {
+      "author": "vriska1",
+      "timestamp": "",
+      "body": "Age verification is likely never going to be implement becasue of how unworkable it is and will be delayed over and over again until it is scraped like last time."
+    },
+    {
+      "author": "1_Gamerzz9331",
+      "timestamp": "",
+      "body": "I Avoid Age Verifications"
+    }
+  ]
+}
