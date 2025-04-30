@@ -1,0 +1,54 @@
+{
+  "subreddit": "fintech",
+  "post_id": "1jfsrfz",
+  "title": "Best Identity Verification Provider for a Small Fintech?",
+  "body": "Hey everyone,\n\nI’m looking for recommendations on identity verification (KYC) providers for a small fintech company. Currently, I’m consideringOndato, Jumio, and SumSub, but I’d love to hear about your experiences with them or any other providers you’d recommend.\n\nSome key factors for us:\n\nCost-effectiveness for a startup\n\nCompliance with regulations (e.g., AML, GDPR)\n\nEase of integration (APIs, SDKs)\n\nAccuracy and speed of verification\n\nGood customer support\n\nIf you’ve worked with any of these (or others), I’d really appreciate your insights!\n\nThanks in advance!",
+  "author": "spongekidtwithy",
+  "comments": [
+    {
+      "author": "Dev-Without-Borders",
+      "timestamp": "",
+      "body": "For a US-based fintech startup, I implemented Plaid and Middesk for KYC and KYB, respectively. It works fine for us. I also used and maintained the OFAC list for AML prevention.Plaid always works - meaning we always get a webhook response when the the customer completes the verification process, so it is reliable.Middesk also works fine - no issue so far.I am not sure if these are cost-effective solutions, but surely they are reliable."
+    },
+    {
+      "author": "Dev-Without-Borders",
+      "timestamp": "",
+      "body": "That startup crossed the $2 billion mark in real-time transactions, with Plaid and Middesk running smoothly without any issues."
+    },
+    {
+      "author": "OpheliaOoze",
+      "timestamp": "",
+      "body": "We went with Ondato for our fintech startup smooth API, startup-friendly pricing, and solid compliance. SumSub felt pricier, and Jumio’s support has mixed reviews. Ondato’s been great so far."
+    },
+    {
+      "author": "macdanish",
+      "timestamp": "",
+      "body": "what geography?"
+    },
+    {
+      "author": "No-Money-2660",
+      "timestamp": "",
+      "body": "US based?"
+    },
+    {
+      "author": "Remarkable-Run-3247",
+      "timestamp": "",
+      "body": "Check Inverite Insights"
+    },
+    {
+      "author": "ExtensionTaco9399",
+      "timestamp": "",
+      "body": "I'm looking for something similar, not for KYC/AML but to reduce stranger-danger risk before introducing two parties. To make sure these people are who they say they are (US focused product)"
+    },
+    {
+      "author": "gadawg1020",
+      "timestamp": "",
+      "body": "Take a look athttps://www.verified.inc/"
+    },
+    {
+      "author": "spongekidtwithy",
+      "timestamp": "",
+      "body": "Skip Jumio - they're expensive for startups and their support is meh.Check out iDenfy or GetID. Both have good APIs and won't break the bank. GetID's automation keeps costs down, and iDenfy's UI is pretty smooth. Both handle compliance well.Worth looking at SEON too if fraud prevention is a big concern."
+    }
+  ]
+}

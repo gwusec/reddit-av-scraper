@@ -1,0 +1,59 @@
+{
+  "subreddit": "privacy",
+  "post_id": "135icyv",
+  "title": "Pornhub Proposes Device-Based Age Verification",
+  "body": "",
+  "author": "Blubol5",
+  "comments": [
+    {
+      "author": "neuralbeans",
+      "timestamp": "",
+      "body": "What on Earth is a device based age verification system?"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "crnkovic_",
+      "timestamp": "",
+      "body": "Maybe something like aX-Allow-Adult-Contentbrowser header.There's alaw already in Utah(passed in 2021) that says:A [device] manufacturer shall manufacture a device that, when activated in the state, automatically enables a filter that: [...] when enabled, prevents the user from accessing or downloading material that is harmful to minorsThe toggling of that filter could enable or disable a new HTTP header.I'm not aware of any such standard being developed. Just guessing what they could be referring to."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "sbonnot1",
+      "timestamp": "",
+      "body": "In Louisiana we have to log into our digital ID app to access PornHub and other porn sites. They passed the regulations last year."
+    },
+    {
+      "author": "PassportNerd",
+      "timestamp": "",
+      "body": "I'd rather only parents have the authority to put restrictions on devices."
+    },
+    {
+      "author": "Obi-Lan",
+      "timestamp": "",
+      "body": "Pass. Just raise your kids properly instead."
+    },
+    {
+      "author": "Renekrisp",
+      "timestamp": "",
+      "body": "It's unfortunate that my phone is only 5y old then"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "There are a million other porn sites...just boycott them."
+    },
+    {
+      "author": "Blubol5",
+      "timestamp": "",
+      "body": "My preference would be some Leisure Suit Larry style questions… not as fool proof now we have the internet though."
+    }
+  ]
+}

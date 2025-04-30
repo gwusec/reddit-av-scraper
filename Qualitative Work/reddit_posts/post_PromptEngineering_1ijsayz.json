@@ -1,0 +1,49 @@
+{
+  "subreddit": "PromptEngineering",
+  "post_id": "1ijsayz",
+  "title": "I Built a Prompt Generator—Tell it What You Need, Get an Optimised Prompt",
+  "body": "Get an optimised prompt in 3 steps:\n\n🎯Tell It What You Need.\n\nNote:While the system will ask for details like \"Main purpose/goal\", \"Expected outputs/results\", etc., these are just guides to help you get the best results. You don't need to fill in every point - simply stating what you want in your own words is perfectly fine!\n\n⚙️Watch it build.→ Auto-generates optimized prompts\n\n✨Get results.→ Copy, paste, and you're ready to go\n\n🔄Level up (optional). → Ask for enhancements or tweaks\n\nHow to use? Just paste generator prompt in chat.\n\nInitial Prompt:\n\nOptimised Result:\n\n<prompt.architect>\n\nNext in pipeline: 🔄 CONVERSATION UNSTUCK\n\nTrack development:https://www.reddit.com/user/Kai_ThoughtArchitect/\n\n[Build: TA-231115]\n\n</prompt.architect>",
+  "author": "Kai_ThoughtArchitect",
+  "comments": [
+    {
+      "author": "ScudleyScudderson",
+      "timestamp": "",
+      "body": "Another advert, masking ignorance with technology. Kai has once again rebranded a basic concept, wrapping simple prompt refinement in unnecessary layers of formatting and jargon.The core idea is valid, helping users articulate their needs clearly, but this \"system\" adds nothing meaningful beyond what any well-structured prompt already achieves.The \"Prompt Generation System\" is just a checklist dressed up as an advanced framework. It provides no innovation, only a needlessly complex structure.Instead of simplifying prompting, it adds unnecessary steps that overcomplicate a straightforward process.There is no evidence that this approach improves prompt quality more than a well-thought-out instruction.If this method actually worked better, we would see comparisons proving its effectiveness. Instead, we get yet another post making standard best practices seem like a secret formula.The challenge remains. Where are the measurable results? Until then, this is a thinly veiled attempt at branding, not genuine insight."
+    },
+    {
+      "author": "Zestyclose_Cod3484",
+      "timestamp": "",
+      "body": "This is just a lot of crap put together to look sophisticated and smart, this is not even remotely necessary."
+    },
+    {
+      "author": "Ok_Boss_1915",
+      "timestamp": "",
+      "body": "So, you are satisfied with a prompt that says ‘I want to teach my two year-old child to play tennis. Is that the prompt that you would use.What about the role context instructions output example etcI know I don’t wanna have to think about all that shit. I’m perfectly satisfied with giving a sentence and coming out with something usable. Gosh man what is wrong with that?I suggest all the detractors just keep their mouths shut and not attempt to dissuade other people from posting, unless it was something truly harmful."
+    },
+    {
+      "author": "kevinbranch",
+      "timestamp": "",
+      "body": "Your example transformation has several flaws. e.g. Error Handling offers suggestions if the child gets bored. Would the model not have already done that?Instead of just prompting the model, you're creating an extra step where you have to read through a long prompt and make adjustments. This is evidenced by the fact that you yourself couldn't be bothered to read through the prompt and make adjustments to your own prompt generator."
+    },
+    {
+      "author": "Kai_ThoughtArchitect",
+      "timestamp": "",
+      "body": "The model would not always take into account all that is necesary. That's the point to prime that info.After you can choose and make sure what is primed by editing generated prompt.You assume the model would always take into account boredom?. It could, in one response, not in another. That's the whole point of template prompts you choose the output and tell model what to go for.Once you get your prompt from the generator, that does not have to be the end, instead can be the start...from there you can prompt for enhancements, edit things in, out. Iterative process.Do you think models always do right assumptions?To get all that primed context just from \"I want to teach 2 year old tennis\"For me your comment don't make sense, but that is just me. You assume I don't read through my prompts? Adjustments to the tennis prompt? That's an example of a first output..one could refine after. This was an example, no sense to refine the example of a first output since its an example.If you mean adjustments to the generator I am all ears. Honestly I would have more to say from your comment as I see so many flaws in it.Just as my post has flaws to you, your comment has flaws to me. 😅 But hey that life..."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "You're still using prompts? The chat models are way past needing them now"
+    },
+    {
+      "author": "icysandstone",
+      "timestamp": "",
+      "body": "I'll bite. Can you elaborate?"
+    },
+    {
+      "author": "Kai_ThoughtArchitect",
+      "timestamp": "",
+      "body": "For me, working without optimized prompts in 2025 is like running a professional kitchen without tried-and-tested recipes and processes, pure madness.Why start from scratch every time when you can have battle-tested architectures ready to go? When I'm doing analysis, building apps, or designing agent workflows, my prompt frameworks give me instant access to specialized patterns that I know will work. Sure, models are powerful, but without structured prompts, you're just hoping for consistent outputs and losing time with refinements. It's like having a high-performance engine but manually controlling every gear shift. You could do it, but why would you? Templates ensure consistent, high-quality outputs across any use case. The time and frustration saved are astronomical.If I was getting a prompt engineer to do work for me and he had no templates, frameworks, generators, etc... I would be worried.This generator is a simple thing... there are far more complex ones.If you're not using it  in a professional manner, then I would agree that templates aren't a must.But this is just my opinion"
+    }
+  ]
+}

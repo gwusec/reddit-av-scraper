@@ -1,0 +1,59 @@
+{
+  "subreddit": "IAmA",
+  "post_id": "l23dxl",
+  "title": "I am Mark Porter, CTO at MongoDB. I love Tech, and especially delighting people with databases. I also used to work at Oracle, NASA, Amazon, and Grab. AMA.",
+  "body": "Hi Reddit, I'm Mark Porter.\n\nAfter I joined MongoDB in July 2020, people have often asked me \"Aren’t you one of the SQL folks? Why would one of you join MongoDB?\"\n\nFor me, since I started programming before I was a teenager, it was always about technical puzzles. Then when I got into business, it became about delighting customers; SQL and relational tech were just a means to that end. Databases are indeed amazing because of the promises they make around data in terms of consistency, ease of use, and durability that they make. A couple years ago, I sat with one of my old relational friends, before MongoDB was even a gleam in my eye, and we decided that 30+ years into our careers, databases were still hard to use by operators and developers, but especially developers (though cloud has made operations a lot easier). They were also still unpredictable and didn’t defend themselves against misuse. Not only that, but scalability and distribution were bolted on as afterthoughts rather than core elements of the product - making scaling either difficult or impractical - and always brittle.\n\nIn fact, my biggest frustration during the Amazon Aurora PostgreSQL project was how hemmed in we were. We had SQL constraining us on the top, with ORMs on top of that - leaving it hard to use and no real way to fix that. Who wants to embed obtuse SQL in their code? The PostgreSQL community (while amazing and inspiring), further constrained us by not letting us change scale out, transactions, or anything else of substance. Compatibility was sacrosanct. Not only that, but the PostgreSQL community typically takes 2-3 years to accept any architectural changes into the code base, and every one is a negotiation. So at Amazon, for Aurora (both for MySQL and PostgreSQL), all we could really do was innovate on the storage layer - mostly because it was just so very broken and not scalable in the way we envisioned. The marketing saying that \"Amazon Aurora is a new database\" is not quite true - it's a combination of an amazing distributed, replicated, fast storage system glued onto the bottom of PostgreSQL and into the middle of MySQL.\n\nAs I got to know MongoDB, I realized that MongoDB has very few constraints. We are the stewards of the language interfaces so that we can merge seamlessly with every language - people program MongoDB and Realm databases using their native data structures, not by programming in a different language within C, Java, Node, Python, etc. We are the custodians of the drivers so we can seamlessly implement failover, scaled reads/writes, and client-side encryption. The server tech is natively built from the ground up to offer scale and distribution - you can run a single MongoDB cluster on all three major cloud providers if you want. You can even run it on your laptop or in your own data center, building you a much better ramp from the data center to the cloud. The final straw was that I saw MongoDB’s vision for a full data platform via our Atlas cloud service. For example, we have integrated search directly into the cloud offering - no additional infra to stand up or manage. And we allow you to federate queries directly across your data lake and MongoDB, transparently, and even to age data into your data lake automatically and still use the same queries.\n\nAs a result of all this, I decided that the future of my career was to get back into databases and help build the best data platform for modern applications that I could; the one I’d been envisioning since I was at JPL working on storing science data on a 1MB microVax.\n\nBut that's enough for now - I'm excited to be here! Ask me anything!\n\nPS: I have some of our senior engineers on standby in case I cannot handle your deep and detailed queries - I’m still only 6 months in ;).\n\nPPS: Don't be a stranger, follow me and IM me at@MarkLovesTech.\n\nPPPS:Verification\n\nEDIT:\n\nThanks folks! This has been TERRIFIC. If you'd like me to do another one, please comment, ok? I'm done for right now, but me and my colleagues (who have been heroic with their help, and yes you know who you are, Naomi, Asya, Sebastian, Ben, etc!) will come back and answer all your questions later. And remember, you can always get me onu/MarkLovesTechor on Twitter at @ MarkLovesTech\n\nHave a GREAT day and a wonderful weekend :-)\n\nMark",
+  "author": "SNEAKY_PNIS",
+  "comments": [
+    {
+      "author": "FaradayEffect",
+      "timestamp": "",
+      "body": "What are your thoughts on AWS's DocumentDB?Back when I used to admin a MongoDB cluster it took literally 12-24 hours to sync a replica. I tried an rsync disk level copy first so it wouldn't have to sync as much data, but it still took hours before the replica would be ready. I even tried MongoDB Atlas: once again it was hours before the replica was ready. This was significant issue for me.I don't use Mongo anymore, but I experimented with DocumentDB a while back and I really liked how their compute and storage are decoupled so that you can add more replicas almost instantly rather than taking hours of sync time.Has this been improved in Atlas yet? What is the story for folks self hosting Mongo?"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "What does the day to day calendar look like for a CTO? I think it’s a position I’d like to aim for in my career but I’m not even sure I have a clear understanding what a CTO does 😄"
+    },
+    {
+      "author": "holyoak",
+      "timestamp": "",
+      "body": "My question:  How important is Mongo U in your vision for MongoDB?  What is the end goal of Mongo U, and what will it take to achieve/maintain that vision?I went through the first iteration of Mongo U, and it was great.  Loved it.Tried again last year, and it was horrific.  Outdated presentations, incorrect answers, incomplete instructions for the assignments.  And the proctors; omg the proctors.  They were not helpful in any sense of the word, and actively belittled students for asking legitimate questions.  Or repeatedly killed threads that had identical questions from multiple students, and then re-killed the thread when it was reposted.  And this is not even addressing the dropout rate based on Vagrant/Virtualbox, which has it s own chapter of technical debt (not yours, but your choice to go that route).In a nutshell, it seems the product is growing faster than the curriculum is being updated.  It also seems that proctors are being chosen based on something other than teaching/interpersonal skills.Is the brass at Mongo aware of the decline in quality of this project?  Is this something that os just gonna be phased out?  Is there a way i can help out on a real level (not just adding another ticket to the queue)?   Thanks for answering, if you get to this~"
+    },
+    {
+      "author": "Churchy_leFemme",
+      "timestamp": "",
+      "body": "Hi Mark! Thanks for doing this.Can you talk about your experiences with impostor syndrome in any of your positions, and ways you were able to work past/around those feelings? I’m in my first job after university and the feeling is strong!"
+    },
+    {
+      "author": "marseglia",
+      "timestamp": "",
+      "body": "What did you do at NASA?"
+    },
+    {
+      "author": "oufvj",
+      "timestamp": "",
+      "body": "Is MongoDB web scale?"
+    },
+    {
+      "author": "dcmcderm",
+      "timestamp": "",
+      "body": "What advice would you have for those of us who lived their life in the RDBMS world (Oracle/PostgreSQL etc.) and are now trying to learn and work in the nosql paradigm?This is the situation I'm in as I've had to work with MongoDB over the past couple years after being an Oracle guy for almost 2 decades.  It's frankly mind boggling to suddenly work in a world where fundamental concepts like table joins, constraints etc. don't exist and this seems like a great opportunity to get some insight!"
+    },
+    {
+      "author": "ihatepitabread83610",
+      "timestamp": "",
+      "body": "who is your favorite child?"
+    },
+    {
+      "author": "Lucan",
+      "timestamp": "",
+      "body": "What are some signs an organization should migrate from a relational database to NoSQL?"
+    },
+    {
+      "author": "SNEAKY_PNIS",
+      "timestamp": "",
+      "body": "I work for a software company and there's always a struggle of support and product team against upper management and executives. They do not have product knowledge yet they're making decisions on the product as well as the future of the company. Is this a common theme in the IT and software industry? Support and product want/believe one thing and the executives, who do not know how to use the product, have a different idea."
+    }
+  ]
+}

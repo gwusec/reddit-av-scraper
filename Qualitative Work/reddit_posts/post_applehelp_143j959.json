@@ -1,0 +1,54 @@
+{
+  "subreddit": "applehelp",
+  "post_id": "143j959",
+  "title": "How to fix “verification required” (can’t update payment methods)",
+  "body": "I’m sure lots of yall have gotten this issue as I have seen a couple tutorials on how ti fix it over yt, but so far all are the same and none has worked.\n\nOn apps that I deleted from my iPhone previously and want to reinstall now (any kind of app as long as it’s from app store, even free ones), it keeps popping a “verification required window, asking me to type my Apple ID password to access to the billing info.\n\nOnce I do that it asks to add a new payment method and here’s where it gets messy: I already deleted both my payment methods from settings (debit and paypal) and tried to readd them from there, but the thing gets stuck in loading just when I click ‘done’ after filling the data to add my method.\n\nAnd if I try to add it from the app store while following the “verification required” steps it just closes the window and then a bubble pops up saying “you need to sign in to access to your billing information” and goes through the whole process.\n\nFor paypal it says the card is invalid cuz my last transaction was rejected due to a lack of funds, which could be true since the card I’m using is nearly empty as of right now, I keep most of my money in cash and transfer it to the card when I’m about to use it for online purchases or just physical purchases if the occasion shows up,but I just cancelled my apple music subscription before the deadline, and last month the payment method was my card and it worked just fine.\n\nAnd for the debit card says it’s and error, that “to avoid interruptions in your subscriptions and purchases, verify your payment information or add a new payment method.” But then again I have no active subscriptions and I’m up to date with any payment related to apple.\n\nConsidering even adding a new payment method is glitched for me rn idk if y’all can help me, if not dw I’ll just take it to an iShop this weekend and see if they can help me, it’s not a matter of life or death, just wanted to see if I can get some immediate help or if I just gotta learn to be patient lol\n\nPS 1: I’m on IOS 17 beta since today, but I’ve had this issue since last week, on IOS 16, tried switching to the new software to see if that would fix it, clearly it didn’t.\n\nPS 2: srry for the bad english, I’m mexican and constantly learning english.",
+  "author": "Affectionate_End8064",
+  "comments": [
+    {
+      "author": "MightyDeekin",
+      "timestamp": "",
+      "body": "There are basically 3 routes to change the payment method:Settings > Apple ID > Payment and shippingSettings > Apple ID > Media and Purchases > View Account > Manage Payments.These 2 should basically be the same but sometimes one works of the other doesn't. Might be a good idea to sign out and back in from Media and Purchases.Otherwise try online via appleid.apple.com.If none of that works I'd advice contacting Apple support."
+    },
+    {
+      "author": "Sythro32",
+      "timestamp": "",
+      "body": "Did you fix it?"
+    },
+    {
+      "author": "ArniixGaming",
+      "timestamp": "",
+      "body": "Yeah, apparently I had unsettled balance cuz of a thing Apple has where it lends you cash for little amounts of online purchases, but you just need to add the necessary money to your card and they’ll take it within 1-2 days"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Holy shit this is mad annoying. I’m trying to download the Messages app to give someone a piece of their mind because I’m so mad rn. But noooo, there’s this absolutely regarded shit I have to do and confused about!"
+    },
+    {
+      "author": "ArniixGaming",
+      "timestamp": "",
+      "body": "yo people, just for anyone that hasn't found a fix yet I finally got it (it has actually happened like 5 times since I posted this lol), lemme hook y'all up:first of all, what you want to check if you have a negative balance in your apple account: go to settings, and to your main profile (literally the top of the settings, where your profile picture along with your username display). then go to \"Media & Purchases\" and click on \"view account\".Once there, head to \"Purchase History\" and see if there's any pending payments. Apple usually approves some purchases despite not having money to pay them. I don't know the basis, but my guess is that it's on purchases lower than 5-10 USDs (this is just a hypothesis, take it with a grain of salt).  this has actually happened to me like 3-5 times ever since I made this reddit post actually, but it's always the same fix.If you do have an unsettled balance, or a purchase marked as \"Pending\" or something of sorts, simply add the money to your linked payment method and wait around 48-72 hours for Apple to take the money. Voila! problem solved!Although if that's not the case, and you don't have an unsettled balance or it simply still hasn't been fixed, I'd advice you to go to your nearest Apple Store and ask help from the guys in charge. they are the ones that taught me this fix, after all"
+    },
+    {
+      "author": "ChoiceDry6685",
+      "timestamp": "",
+      "body": "not sure if i’ll get a response to this but does anyone know if there is a quicker way for apple to take the money!!! it says pending and i’m trying to pay it because the money is there in my account. why do i have to wait ?????"
+    },
+    {
+      "author": "Willing_Host8994",
+      "timestamp": "",
+      "body": "Idk if anyone is still here but just in case I got 10$ from my mom and I decided to spend it on Roblox so I was originally gonna buy the 10$ deal but I accidentally tapped on the 5$ deal which was no big deal I could just buy the 5$ deal twice so I bought it once and bought it again but it said something went wrong for some reason and Apple took my other 5$ for some reason I was mad about it but forgot about it so later I went to go download a game and it kept saying verification required and making me do the same thing over and over mind you I use Apple Pay to buy everything and still to this day I have no money ti give Apple im super frustrated and I really hope someone can help me fix this"
+    },
+    {
+      "author": "Spacefairyjas2000",
+      "timestamp": "",
+      "body": "I'm not working so I am broke so no matter what payment i put its gonna decline because ig immediately charges me 10.66 when I try to verify. Also There are weeks before my subscriptions were due. One is two weeks away another is a month away... why charge me now ???? I canceled them all. I just want to download free stuff"
+    },
+    {
+      "author": "Affectionate_End8064",
+      "timestamp": "",
+      "body": "see i might not get a response but it says i have a subscription on file ive checked and i have none and try deleting my card but i says i cant beacause of that"
+    }
+  ]
+}

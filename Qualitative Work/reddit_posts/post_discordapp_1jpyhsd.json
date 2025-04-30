@@ -1,0 +1,29 @@
+{
+  "subreddit": "discordapp",
+  "post_id": "1jpyhsd",
+  "title": "Is this a joke or bug? Being asked to \"verify age\" with a video selfie or ID on BROWSER Discord.",
+  "body": "This started yesterday, April 1st, so I figured it might be a joke, but unfortunately it's still happening.\n\nWhen I use discord in a browser window, I can now no longer view any channels marked as 18+, instead it prompts me to \"verify age\" with a blue button. When I click that button, it says I need to submit a \"video selfie\" or photo ID to \"verify\". I searched this topic on this subreddit and the only posts talking about this I can find are from people who have had their account somehow flagged as <18 and needed to undo it - but in those cases they didn't mention the prompt on channels I'm seeing.\n\nThis only happens when using Discord in a browser window.It does not happen with the Discord desktop app OR mobile app. Both of those let me view \"age restricted\" channels just fine so clearly I haven't been flagged as a minor or anything.\n\nI have been using Discord for years and have never seen this before, so hopefully it's just a temporary glitch that will go away...? If not it's not a huge deal since again, desktop & mobile apps don't have this. But it will be a problem if it IS intended and this change comes to the apps, because submitting your literal face or sensitive information just to view mature channels is a gross breach of privacy.",
+  "author": "lachnicht",
+  "comments": [
+    {
+      "author": "Woofer210",
+      "timestamp": "",
+      "body": "This is due to new government regulations in the UK/Aus, nothing discord can do besides follow them."
+    },
+    {
+      "author": "Ominous--Blue",
+      "timestamp": "",
+      "body": "Do you have an official Discord source/statement for that?Why would it only affect browser discord and not the desktop app or mobile app?"
+    },
+    {
+      "author": "Independent_Peach706",
+      "timestamp": "",
+      "body": "so, this is a UK/AU thing, easily avoidable with a VPN if you have one"
+    },
+    {
+      "author": "lachnicht",
+      "timestamp": "",
+      "body": "https://support.discord.com/hc/en-us/articles/30326565624343-How-to-Verify-Age-Group"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "subreddit": "facebook",
+  "post_id": "1fbgz3t",
+  "title": "Surprising loophole that allows hackers to hack your account and prevents you from recovering it",
+  "body": "I am an IT consultant and have been trying to help a very dear friend to recover his Facebook account which was hacked and, I must admit, I am very surprised.\n\nThere is a loophole that actually helps hackers and penalizes lawful owners of all Facebook accounts.\n\nHere's the gist of the story:\n\nAccount hacked\n\nTried standard methods of recovery\n\nAble to reset the password via code received on my friend's original email, but, once we click, it ALSO asks for the code of 'an Authenticator app', which my friend never setup, nor even installed on his phone! Obviously, enabling the 2FA via authenticator app was done by the hackers.\n\nAt that point, it is the ONLY option that can be selected! However, there is a writing in a little corner that says that \"if you need another option\" you can go through your account recovery:\n\nHowever, when you click on that blue hyperlink (which I circled in red), it goes to a page that permanently gives an error message:\n\n\"Sorry, there was a problem.\n\nWe are sorry, we have experienced a technical problem with this functi on.\n\nWe are working to fi x it.\"\n\nSo,first vulnerability:the procedure to recover the account is broken (tried several browsers, several devices, different internet connections and IP addresses even via VPN from another country).\n\nTheother vulnerability is even worse!!!(Actually, I don't know which one is the worst one). We have been able to identify the very first email received from Facebook informing my friends that \"another email had been added to his Facebook account\". That email, naturally,contains the \"IF YO DID NOT DO THIS\" blue button to click onand start recovering the account. Here's theloophole!Even if you go through that route,it still asks you for the 2FA code sent to the authenticator app!!!\n\nIn other words, even thoughthe same hacker who added the email to the account also added the 2FA method,when you click on the \"I did not do this\" button,it still asks you for the 2FA code, even though IT WASN'T YOU the one who added the 2FA method!!!\n\nThis is utterly unacceptable!\n\nThe only solution would be that \"account recovery\" to obtain another option. That would be the procedure that allows to submit an official Photo ID to prove your identity. But it is broken. We're not talking about the convenience store at the nearest intersection of your little country town. We're talking about Meta! And it is broken!\n\nI mean, it's as though you get a fire at home, you call 911, the firefighters come, but they can't help you because their water-pump truck is broken. And then you get an auto message saying: \"Sorry, we can't help you right now. The truck is broken and we're working to fix it. Please try again later\".\n\nDoes anybody have any suggestion?\n\nThank you.",
+  "author": "wongbikini",
+  "comments": [
+    {
+      "author": "AutoModerator",
+      "timestamp": "",
+      "body": "Moderator AnnouncementRead More »Thank you for posting tor/facebook. Please read the following (this does not mean your post has been removed):SCAM WARNING: If you are having a problem with your account, beware of scammers who may comment or DM you claiming they know someone who can fix your account, or asking you for money or your login information. If you receive a message like this, block and report them.Here is an example of me making a fake hack post and all the scammers who flocked it it, lol.  THERE IS NO REASON FOR SOMEONE TO HAVE TO TELL YOU IN PRIVATE HOW TO GET YOUR ACCOUNT BACK.  If you check the sub there are PLENTY of high karma posts that gives some tips should your account be hacked/locked.r/facebookis an unofficial community and the moderators are not associated with Facebook or Meta.  DO NOT MESSAGE THE MODS ASKING FOR HELP WITH FACEBOOK.Please read the rules in the sidebar (or the 'about' tab if you're on mobile). If your post violates any of them, delete it.If you notice your post has multiple replies but you only see this post, the reason is due tobots and scammers already being removed trying to steal your info/moneyI am a bot, and this action was performed automatically. Pleasecontact the moderators of this subredditif you have any questions or concerns."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "Flimsy-Armadillo-321",
+      "timestamp": "",
+      "body": "I am having the exact same problem.  I have tried to reset the password but they send the exact same code again and again and the code isn’t working"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Unfortunately until we have government step in and hold them accountable to their federal regulations, looks like nothing will happen. I'm a almost 20 year users (was a Uni student when Facebook started and got an account way back then). The fact they literally could give 0 effort towards restoring my hacked account is absolutely ridiculous to me and they actually legally have to give me back assess to a compromised account that has my sensitive information (Facebook requires sensitive information just to start an account). There is an interesting National Geographic doc on YouTube that will definitely get you wondering about the META security help and where they are located.. the reason they are rewarding the hackers could because they are the hackers in their off time. They basically collect our data and sell it to organized crime on the black market.. the doc said the data on the black market is more valuable than oil or gold now...https://m.youtube.com/watch?v=jtrFTHlUJ5Q"
+    },
+    {
+      "author": "VirtualDegree6178",
+      "timestamp": "",
+      "body": "Cookie logging"
+    },
+    {
+      "author": "cherrylpk",
+      "timestamp": "",
+      "body": "I have a friend whose Facebook was stolen. She has tried everything and it won’t let her recover it.  What is infuriating is that this person will randomly post her existing photos, which includes her father who has recently passed.  Facebook will do nothing to help."
+    },
+    {
+      "author": "CactuarLOL",
+      "timestamp": "",
+      "body": "My solution is to not have a Facebook account."
+    },
+    {
+      "author": "Trailbiscuit",
+      "timestamp": "",
+      "body": "My wife have her account hacked so she quit F-book"
+    },
+    {
+      "author": "Possible_Cress_1224",
+      "timestamp": "",
+      "body": "Just got done resolving my wife's hacked and disabled account. Account was disabled due to an instagram account that was not even hers. Spent days going through help and then finally paid for that check mark and 4 days later with a new email I got her account back. Just crazy how easy it is for them to get into meta. Cleaned her face book up and had to install ad manager to find them. There they added four users to her account so they just had to use their own user ID and passwords.That was fun to figure out as she never had an ad account."
+    },
+    {
+      "author": "wongbikini",
+      "timestamp": "",
+      "body": "I need Immediately Assistance to my Facebook and Messenger apps!!"
+    }
+  ]
+}

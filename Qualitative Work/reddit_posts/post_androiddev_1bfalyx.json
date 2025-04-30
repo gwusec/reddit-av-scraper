@@ -1,0 +1,59 @@
+{
+  "subreddit": "androiddev",
+  "post_id": "1bfalyx",
+  "title": "Developer ID Verification: Photo required, while not recommended by government",
+  "body": "Google Play Store now started asking for developer verification by uploading an ID with all details visible.\n\nThe Dutch government (perhaps also other governments) advices to cover up a few details from your ID or passport, like:\n\nphoto\n\nsocial security number (BSN)\n\nsignature\n\nMore info on covering up:https://www.government.nl/topics/identity-fraud/question-and-answer/how-do-i-prevent-a-copy-of-my-id-being-used-for-fraudulent-activities\n\nGoogle keeps rejecting my ID, though.\n\nIs there anyone who has advice on this?",
+  "author": "Impressive_Ad_5224",
+  "comments": [
+    {
+      "author": "st4rdr0id",
+      "timestamp": "",
+      "body": "I think it is outrageous that you need to submit such sensitive and very personal data to a foreign country (USA) for a service that doesn't strictly require said data, and against your will, and so it most likely goes against the EU's GDPR.EDIT: I'm also from the EU and the police recommends not giving the ID to anybody if possible, or in case of it being unavoidable, to edit the photo so that it becomes clear that it is a copy. A 100% clear photocopy of the ID card could be used here to open a phone line or hire certain services until not long ago (SIM card duplication included)."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Yeah, Google doesn't care. They only thought about US developers, they are very narrow minded and incompetent, and don't understand they need to think about verification of people from all over the world."
+    },
+    {
+      "author": "nacholicious",
+      "timestamp": "",
+      "body": "Also you would never do this even in Europe. If Google really wanted to do this right that would integrate with the EU digital IDs, which literally every other place uses to validate your identify"
+    },
+    {
+      "author": "bobbie434343",
+      "timestamp": "",
+      "body": "Yes it really seems iffy an uncomfortable to send this to Google (or any other company for that matter). At least it is not transiting via email..."
+    },
+    {
+      "author": "jjjj9562",
+      "timestamp": "",
+      "body": "I tried to open the verification process again and now it seems to show (translated): \"With Dutch identity cards and passports you have the right to shield parts of the image that are not necessary for identification.\".Can't remember I saw that the last time."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "I guess someone sent them a legal notice, maybe the Dutch government or some other Dutch developer.Every time companies do bad things, legal action is the best way to get them to behave."
+    },
+    {
+      "author": "adjorno",
+      "timestamp": "",
+      "body": "As a financial institution Google is obliged to perform KYC in EU according to the local regulations. It’s fun to see people trying to submit non-authentic/edited documents and expect Google to accept them."
+    },
+    {
+      "author": "jjjj9562",
+      "timestamp": "",
+      "body": "The thing is that my government just recommends to cover up documents and be wary to who you give your documents:\"Blacking out details when copying or scanningA telecom company may copy or scan your ID, but must black out the photo and the national identification number such as a Burgerservicenummer – BSN (citizen service number), national insurance number or social security number.\"https://www.government.nl/topics/identity-fraud/question-and-answer/which-organisations-are-allowed-to-make-a-copy-of-my-id."
+    },
+    {
+      "author": "jjjj9562",
+      "timestamp": "",
+      "body": "Update: I resubmitted the form again to see if it still is rejected, but my verification suddenly got accepted. Seems like some internal policies might have changed."
+    },
+    {
+      "author": "Impressive_Ad_5224",
+      "timestamp": "",
+      "body": "I need to do this right now, what parts of your ID (I will use drivers license) did you black out?"
+    }
+  ]
+}

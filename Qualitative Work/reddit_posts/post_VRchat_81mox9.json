@@ -1,0 +1,19 @@
+{
+  "subreddit": "VRchat",
+  "post_id": "81mox9",
+  "title": "[Help] Safe Mode menu bug solutions?",
+  "body": "So I went on VRChat today, and much to my dismay, discovered that every time I click anything on the menu, it turns on Safe Mode. This would be aggravating to have to deal with all the time, especially since there’s still some menus I can’t even open, like emotes. Does anybody have any solution to this problem?",
+  "author": "TheTorn_Cyris",
+  "comments": [
+    {
+      "author": "TheTorn_Cyris",
+      "timestamp": "",
+      "body": "Hey, I had this problem but I figured out that it was because I was pressing ESC while I was opening the menu. For some reason this will toggle safe mode. Hope this helps!"
+    },
+    {
+      "author": "TheTorn_Cyris",
+      "timestamp": "",
+      "body": "I am having the same exact problem, it may be a bug in the new update, have you tried verifying the game's files?"
+    }
+  ]
+}

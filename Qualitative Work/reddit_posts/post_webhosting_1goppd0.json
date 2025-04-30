@@ -1,0 +1,59 @@
+{
+  "subreddit": "webhosting",
+  "post_id": "1goppd0",
+  "title": "Keep away from GoDaddy! Forced ID verification after domain purchase",
+  "body": "Hey everyone, here’s another tale on GoDaddy like so many others I’ve seen on this subreddit.\n\nI purchased a domain through them, and everything seemed fine… until after the transaction. Suddenly, I was locked out of my account, and now they’re demanding a government ID for verification before I can access what I already paid for. This ID request cameafterthey took my payment – not before, when it would’ve at least given me a chance to decide if I wanted to proceed.\n\nNow, I feel forced to give up my privacy just to access something I’ve already paid for. Does this seem unreasonable to anyone else? Why wouldn’t they do verificationbeforethe transaction so customers know what they’re getting into?\n\nI’d love any advice on how to handle this or if anyone else has dealt with similar issues with GoDaddy or other companies. Thanks in advance!",
+  "author": "Sencha-Skene",
+  "comments": [
+    {
+      "author": "thejohnmcduffie",
+      "timestamp": "",
+      "body": "I left GoDaddy years ago. They're horrible. And super shady."
+    },
+    {
+      "author": "dbergere",
+      "timestamp": "",
+      "body": "Which TLD? Different TLDs have ID and nationality rules. I used to own a .ru domain (as in …gu.ru) but deleted it when their rules changed."
+    },
+    {
+      "author": "jobcron",
+      "timestamp": "",
+      "body": "ICANN requires that your data are correct as a registrant. You can still use a registrar proxy to obfuscate your public data, but the registrar has the right to check on the ID."
+    },
+    {
+      "author": "cyb3rofficial",
+      "timestamp": "",
+      "body": "You need ID for the WHOIS info for the domain name. Namecheap also had me use my ID after register a URL. the TLD for com doesn't require ID persay, just the WHOIS for it requires your ID. They need to make sure that some random person isn't going to try and abuse their services and that the info for the WHOIS matches up and not saying your live in the middle of the ocean."
+    },
+    {
+      "author": "hunjanicsar",
+      "timestamp": "",
+      "body": "It's the new security of every registrar for verification of adding a card, preventing fraud and hacking accounts. You can remove your card after purchasing services if you feel uncomfortable."
+    },
+    {
+      "author": "shiftpgdn",
+      "timestamp": "",
+      "body": "This is perfectly normal.  Did you use a VPN when ordering, or are you currently abroad?  There are a bunch of anti-fraud tools merchants use to identify potential fraud and you must have triggered one of the alarms."
+    },
+    {
+      "author": "AndroTux",
+      "timestamp": "",
+      "body": "Of all the reasons not to use GoDaddy (and there are definitely plenty), this isn’t one of them."
+    },
+    {
+      "author": "nefarious_bumpps",
+      "timestamp": "",
+      "body": "I absolutely support registrars requiringand verifyinggovernment ID to register a domain name, provided they keep that information private except to respond to a signed warrant.  It would give law enforcement the means to combat spam, scams and malicious websites.  Some ccTLD's have do have strict ID and residency verification requirements.I agree that this should have been donebeforecollecting your money.All I can suggest is checking if your TLD is the one requiring ID, and if not, demand that GoDaddy allow you to transfer to another registrar and refund your money."
+    },
+    {
+      "author": "moistandwarm1",
+      "timestamp": "",
+      "body": "This was probably triggered by anti fraud software. The money will not be captured until verification is done. I guess they have 7 days to do this. The money was just authorised, capture will take place once verification is done. If they don’t verify it will fall off in 7 days"
+    },
+    {
+      "author": "Sencha-Skene",
+      "timestamp": "",
+      "body": "One of the many reasons I no longer use GoDaddy. Super shady. They kept causing problems on my e-commerce site just so they could sell me 'solutions' to problems they caused in the first place."
+    }
+  ]
+}

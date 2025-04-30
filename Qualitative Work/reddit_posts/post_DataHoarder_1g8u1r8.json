@@ -1,0 +1,59 @@
+{
+  "subreddit": "DataHoarder",
+  "post_id": "1g8u1r8",
+  "title": "Is There a way to effectively download age restricted videos from youtube in 2024? jdownloader is not working",
+  "body": "please if anyone knows a way that still works, that would be much appreciated.",
+  "author": "Ok-Perspective-3253",
+  "comments": [
+    {
+      "author": "AutoModerator",
+      "timestamp": "",
+      "body": "Moderator AnnouncementRead More »Hellou/loganbotwig! Thank you for posting inr/DataHoarder.Please remember to read ourRulesandWiki.If you're submitting a Guide to the subreddit, please use theInternet Archive: Wayback Machineto cache and store yourfinished post. Please let the mod team know about your post if you wish it to be reviewed and stored on our wiki and off site.I am a bot, and this action was performed automatically. Pleasecontact the moderators of this subredditif you have any questions or concerns."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "YT-DLP--cookies-from-browserI am not certain, but a bypass might be baked into the code in YT-DLPnis/Seal on android. It may be worth a look.Good luck."
+    },
+    {
+      "author": "OdLab_65",
+      "timestamp": "",
+      "body": "I'm using yt-dlp version 2025.03.27  Firstly, I logged into my google account in firefox. Then I used the yt-dlp command prompt and put in:yt-dlp -f bestvideo+bestaudio  --cookies-from-browser firefox https://www.youtube.com/watch?v=VIDEOYOUWANTTODOWNLOADI then succesfully downloaded an age restricted video at it's best possible quality."
+    },
+    {
+      "author": "glasscadet",
+      "timestamp": "",
+      "body": "yt-dlp maybe"
+    },
+    {
+      "author": "Far_Marsupial6303",
+      "timestamp": "",
+      "body": "You have to sign-in in settings with your login and use a cookie as your password. For Chrome I like EditThisCookie. Use the export function and cut and paste as your password. It expires every once in a while, so you have to reenter.I think it lasts longer if you don't use the cookie from the specific page you're downloading. But it's simple enough to get another cookie and reenter whenever necessary."
+    },
+    {
+      "author": "NowThatHappened",
+      "timestamp": "",
+      "body": "Downie works ok and is fairly decent."
+    },
+    {
+      "author": "Katniss218",
+      "timestamp": "",
+      "body": "I believe yt1s works on those"
+    },
+    {
+      "author": "Illeazar",
+      "timestamp": "",
+      "body": "I'd guess that YouTube is blocking them unless you sign in with an account that says you are old enough.  Probably it's not enough to sign in to your browser, you would have to give jdownloader your credentials to use."
+    },
+    {
+      "author": "Lukas33901Minecraft",
+      "timestamp": "",
+      "body": "https://cobalt.tools/"
+    },
+    {
+      "author": "Ok-Perspective-3253",
+      "timestamp": "",
+      "body": "Does NOT work! Stop posting this!"
+    }
+  ]
+}

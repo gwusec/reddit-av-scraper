@@ -1,0 +1,54 @@
+{
+  "subreddit": "privacy",
+  "post_id": "1ii7aaz",
+  "title": "Mass surveillance, emotion recognition, social scoring... These 8 uses of AI are now banned in Europe",
+  "body": "Voted yesterday in the E.U\n\nhttps://www-lefigaro-fr.translate.goog/secteur/high-tech/surveillance-de-masse-reconnaissance-des-emotions-notation-sociale-ces-8-usages-de-l-ia-desormais-interdits-en-europe-20250204?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=fr&_x_tr_pto=wapp\n\nOriginal article in French from Le Figaro\n\nThe European Commission clarified on Tuesday which artificial intelligence systems, deemed too dangerous, were now banned within the EU.\n\nSkip the ad Mass surveillance, emotion recognition, social scoring... The European Commission clarified on Tuesday which artificial intelligence (AI) systems, deemed too dangerous, were now banned within the EU under its  pioneering legislation adopted last year . Eight cases of bans were identified by the Commission.\n\nReal-time identification of people using cameras in public places The EU bans the use of cameras equipped with real-time facial recognition technology on a shopping street to identify wanted individuals. The notion of \"real time\" is crucial here. The EU wants to avoid immediate intervention against an individual, without prior verification with other information from the real world. However, exemptions are provided for certain law enforcement missions such as the fight against terrorism.\n\nSocial rating based on personal data unrelated to the assessed risk An organization cannot use an AI application to rank people based on their likelihood of committing welfare fraud, using personal data that has nothing to do with the context, such as race, skin color or behavior on social networks. Thus, to assess the risk of default on a loan, only financial data could be taken into account.\n\nAssessment of an individual's criminal risk based on biometric data Police cannot use AI to predict an individual's risk of criminal behavior, such as the likelihood of rioting or committing an attack, based solely on personal characteristics, such as facial features, without taking into account objective and verifiable facts directly related to their actions.\n\nCreate face databases for facial recognition systems by retrieving images from the internet Tools that scrape the Internet and extract photos of faces indiscriminately to create large-scale databases of billions of images are banned. This would amount to state surveillance.\n\nRecognition of emotions in the workplace or in educational institutions An organization cannot use webcams or voice recognition systems to detect the emotions of its employees.\n\nManipulating individual behavior using AI It is prohibited to integrate deceptive or subliminal AI systems into the design of an interface to push users to make a purchase.\n\nExploiting age or disability vulnerabilities A toy, incorporating AI and designed to interact with children, is prohibited if it is designed to retain their attention and encourage them to engage in risky challenges that could injure them.\n\nInferring political views or sexual orientation based on biometric data A system that claims to be able to guess people's political views or sexual orientation from facial analysis would not be allowed in the EU.",
+  "author": "Mstrkeyster2",
+  "comments": [
+    {
+      "author": "Toremous",
+      "timestamp": "",
+      "body": "4 seems to outright ban things like face check.id, and pimeyes, I wonder how that will be enforced."
+    },
+    {
+      "author": "Herban_Myth",
+      "timestamp": "",
+      "body": "I bet someone/something will still be collecting that data to sell."
+    },
+    {
+      "author": "jpc27699",
+      "timestamp": "",
+      "body": "I think it's specifically directed at things like ClearView AI"
+    },
+    {
+      "author": "mesarthim_2",
+      "timestamp": "",
+      "body": "You need to be extremely careful when assessing this. In the actual act herehttps://artificialintelligenceact.eu/article/5/almost every clause is compromised in some way. It doesn't provide protections, it only says 'you can do it if we say you can'."
+    },
+    {
+      "author": "SergioMRi",
+      "timestamp": "",
+      "body": "Interesting to see that EU is giving special thought on these matters but I see so much room for abuse... I'll have to dig in for more detail"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "High high. Low low moment. Roller coaster ???"
+    },
+    {
+      "author": "kp_ol",
+      "timestamp": "",
+      "body": "High high. Low low moment. Roller coaster ???"
+    },
+    {
+      "author": "AcknowledgeUs",
+      "timestamp": "",
+      "body": "Can the EU please school us in America?"
+    },
+    {
+      "author": "Mstrkeyster2",
+      "timestamp": "",
+      "body": "Banned for me or thee?"
+    }
+  ]
+}

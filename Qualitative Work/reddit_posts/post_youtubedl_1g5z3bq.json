@@ -1,0 +1,59 @@
+{
+  "subreddit": "youtubedl",
+  "post_id": "1g5z3bq",
+  "title": "Is there currently any workaround for YT's \"Sign in to confirm your age\" error?",
+  "body": "Is there currently any workaround for YT's \"Sign in to confirm your age\" error?\n\nWhen I try to download a video for which yt-dlp throws that error, yt-dlp also suggests I pass in my YT account credentials in the command string, however I have read multiple reports of YT banning people's accounts for using yt-dlp when they can identify the user via their submitted account credentials. I definitely want to avoid that.\n\nI also thought about submitting the credentials of a secondary YT account, but I don't have any that I am confident can't be linked back to my primary account, and creating a new account requires a legitimate phone number. Not to mention, that secondary account would presumably be burned after a single use.",
+  "author": "bashonly",
+  "comments": [
+    {
+      "author": "modemman11",
+      "timestamp": "",
+      "body": "How many videos are you planning to download? Unless you're mass downloading terrabytes of data every day, or downloading from a shared endpoint like a VPN server where youtube may see everyone downloading at once as the same user, youtube is unlikely to care."
+    },
+    {
+      "author": "RegretfulUsername",
+      "timestamp": "",
+      "body": "Well, at the moment it's just one video from a channel I follow and download all the content from, but I've encountered this situation in the past a few times.Have you personally downloaded videos from YT via yt-dlp while submitting your account credentials without getting banned?I appreciate your insight, but I'm honestly pretty wary of trying it out unless I can get confirmation from multiple people that submitting my account credentials won't result in an account ban. I don't mean that with any rudeness intended but Ireallydon't want to get my YT account banned. It would cause some serious problems for me. Honestly, I should de-google myself so it's not such a danger for me."
+    },
+    {
+      "author": "Ron-Swanson",
+      "timestamp": "",
+      "body": "multiple reports of YT banning people's accounts for using yt-dlpAnyone here get banned?"
+    },
+    {
+      "author": "RegretfulUsername",
+      "timestamp": "",
+      "body": "Good question! I didn't think to ask that directly here. All the reports I have seen of account bans after submitting account credentials have been in various GitHub issues posts concerning the subject of downloading YT videos that require a login in order to access the video."
+    },
+    {
+      "author": "Empyrealist",
+      "timestamp": "",
+      "body": "Yes. Someone here did 1-2 months ago. It took them a month to become unbanned."
+    },
+    {
+      "author": "BuonaparteII",
+      "timestamp": "",
+      "body": "I'm pretty sure I'm banned. Can't play videos if I'm signed in anywhere but if I switch to a private tab or use yt-dlp then I can watch the video. I think it's been longer than a month...Video unavailable\nThis content isn’t available.So far it's only affected my YouTube account but it's totally possible that I've been marked with the black spot just like Muppet Treasure Islandedit: it looks like I'm unbanned now. I guess it was about two monthsNow I know to choose vimeo for any heimlich maneuver videos"
+    },
+    {
+      "author": "grandinosour",
+      "timestamp": "",
+      "body": "and creating a new account requires a legitimate phone number.Are you in the U.S.?Go to \"The Number Barn\" and buy a phone number for a couple bucks...you can leave the number in place and just have all calls to that number forwarded to your real number...texts will arrive to you via email...This is a legitimate phone number for cheap..."
+    },
+    {
+      "author": "mikefosh",
+      "timestamp": "",
+      "body": "If you have the desire to self host something, you might want to check outTubeArchivist. It allows you to download entire channels or just individual videos, doesn’t require a sign in, and I have yet to have any issues with needing to confirm my age. I was even able to download a video that YouTube’s own website claimed to be unavailable. I was amazed to be honest. Lol."
+    },
+    {
+      "author": "IcarosFX",
+      "timestamp": "",
+      "body": "Have you tried downloading with cookies?"
+    },
+    {
+      "author": "bashonly",
+      "timestamp": "",
+      "body": "use a residential IP address (no VPN/proxy, no VPS/cloud etc) and download in moderation"
+    }
+  ]
+}

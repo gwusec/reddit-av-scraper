@@ -1,0 +1,54 @@
+{
+  "subreddit": "SomebodyMakeThis",
+  "post_id": "18r2syu",
+  "title": "Captcha for Age Verification, verifying someone age range without ID-ing online",
+  "body": "The title is the product,\n\nThe same way sites use captcha for bot detection following that same philosophy to \"determine\" ones age. The idea spawned from the lack of actual protection \"are you over 18, click here\" has. The way I envision is it, is taking a lot of the metadata of a user, ie location, device, etc, and then asking them 2-3 questions to \"generate a quiz\". also works in reverse of blocking kids from adult sites and blocking adults from kid spaces. The end user will be gambling, adult sites, but ideally based on user usage other use cases will be generated.\n\n\n\nThe product:\n\nCaptcha like age verification\n\n- Asks user 2-3 questions -> generates a quiz/test -> returns a confidence rating if a user in an explicit age range(<5 years) -> the can use that rating to block access or parts of the site. With an error margin of 10-20%",
+  "author": "captainguyliner3",
+  "comments": [
+    {
+      "author": "JoeyJoeJoeJrShab",
+      "timestamp": "",
+      "body": "I don't understand how you're intending to determine someone's age. Ask them pop-culture quiz questions? How are you going to deal with the false negatives and false positives?"
+    },
+    {
+      "author": "cravecode",
+      "timestamp": "",
+      "body": "With ChatGPT, Google, etc. this is unrealistic. There are some apps/sites that ask math problems to rule out very young children. I've seen them ask Siri to circumvent this. It ultimately comes down to ruling out who can read or not.A simple agree to ToS/Age is mostly enough for a CYA approach while not being cumbersome and risking abandonments.Much like the 'Accept-Language' header, I wish there was an HTTP header standardized that indicated the browser/device was in use by an underage user. This could be dangerous as well though as it could be used for targeted exploitation."
+    },
+    {
+      "author": "Shaken_Earth",
+      "timestamp": "",
+      "body": "The standardized HTTP header is a great idea. Although as you pointed out, it could be easily taken advantage of in order to target minors. I wonder if there are any good ways to minimize the chances of that being able to occur at all."
+    },
+    {
+      "author": "whatever",
+      "timestamp": "",
+      "body": "This was once done for a \"racy\" video game from the 80's named \"Leisure Suit Larry\"The game would require you to answer several pop culture questions that \"only an adult could know.\"The questions were also very US-centric in nature. Fortunately, they were paired with multiple choice answers, and you could just try again from the top indefinitely.The practical effect of all this is that it made me waste a few minutes whenever I wanted to start the game until I memorized every single answer. It did however teach me tiny bits of pointless trivia, and I have to believe that made it worth it somehow.This was, of course, a silly idea back then, just as yours is now. But it was considered fun and quirky when used to gatekeep a video game that marketed itself as adult-themed yet stayed far from anything porny.The idea of deploying a mechanism of that caliber to earnestly try to keep minors away from harmful content is just plain bad.The reason some sites ask \"are you an adult\" and trust your answer is because they don't care, they just don't want to get sued.Steam requires users to enter their \"birth date\" before showing some items on their store because rating agencies are requiring them to do that in order to not market rated games to the wrong audiences.The reason other sites require you to upload an ID and take a selfie with a piece of toast on your head is because applicable laws are literally forcing them to. They don't enjoy doing it, it makes them lose plenty of customers that would be old enough but just don't want to jump through the hoops, but it's not a negotiation. They either do what the jurisdictions they operate in require of them, or they can stop doing business there.Your proposal would be somewhere in the middle: Not actually stopping children determined to pass through, yet putting a sizable roadblock in front of adults, for the sake of a half-hearted attempt at keeping kids out. And of course not complying with age check regulations, which is the only reason any of this stuff exists in the first place."
+    },
+    {
+      "author": "resetplz",
+      "timestamp": "",
+      "body": "Ask them to empty the dishwasher. If they refuse..."
+    },
+    {
+      "author": "KaelonR",
+      "timestamp": "",
+      "body": "I think there's no way to reliably determine one's age without some form of ID, signed by a reputable third party (i.e. government) in order to prevent tampering. But going that route you run into a snake pit of privacy concerns and the fact that we don't have a central institution that has this kind of ID for everyone in the world. Good luck trying to implement this for one country, nevermind the majority of the planet.There are answers to the privacy concerns, but so far it's mostly been that companies can ask for ID if the law really, really needs them to 100% make sure someone is of adult age with other companies not being allowed to ask for ID at all because of privacy concerns. We ended with this in-between compromise for a lot of reasons and factors."
+    },
+    {
+      "author": "bayareaburgerlover",
+      "timestamp": "",
+      "body": "this is doable if webcam is allowed. predict the age of person from the image"
+    },
+    {
+      "author": "AliceInCookies",
+      "timestamp": "",
+      "body": "If presented as a mini gleam.io/contest, guess my age game sign in, where you link your socials like instagram, linkedin and youtube that have stricter age checks for it to scrape for birth date, graduation year, job periods and it might have some low viability."
+    },
+    {
+      "author": "captainguyliner3",
+      "timestamp": "",
+      "body": "What kinds of questions would you ask? Who loves orange soda? What number comes between 28.8k and 56k? This idea is stupid."
+    }
+  ]
+}

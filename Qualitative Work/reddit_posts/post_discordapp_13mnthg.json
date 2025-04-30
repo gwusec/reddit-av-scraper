@@ -1,0 +1,59 @@
+{
+  "subreddit": "discordapp",
+  "post_id": "13mnthg",
+  "title": "Phone verification ultra error",
+  "body": "Hello,\n\nFor the past few days, discord has been asking me to verify with my phone whenever I switch from one account to another.\n\nIt seemed shady already at that point, but I needed to use 2 accounts so I verified with my phone for the first few days anyways.\n\n\n\nBut since yesterday, whenever I try to verify the next box for verifying I'm a human user doesn't show up. it just gives me that annoying \"Oops you got the ultra rare error\" message box. So I haven't been able to use my other account at all since then.\n\n\n\nAm I shadowbanned? Or is it just a technical issue? If then, how can I solve this?",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "You're not alone, and doing some \"investigating\" when checking the network the verification responds with a 400 (Bad Request) and response is \"You need to update your app to verify your phone number\".Considering I'm using the website, there is something else that's wrong on Discords end, and I don't think it's a shadow ban."
+    },
+    {
+      "author": "Junky_man_himself",
+      "timestamp": "",
+      "body": "Thanks. And why do you think they were asking me to verify with phone whenever I switched accounts? This didn't happen for me at least until May."
+    },
+    {
+      "author": "Elliot_Rodger_2203",
+      "timestamp": "",
+      "body": "I have this exact same problem, it's been 6 hours already and it still says the ultra rare error message, if you manage to get in let me know"
+    },
+    {
+      "author": "sanikdah2019new",
+      "timestamp": "",
+      "body": "I have this same problem.  I'm trying to log in to my account, but it won't let me due to the stupid phone verification that doesn't work!  ARGH LET ME IN!!!!!!!"
+    },
+    {
+      "author": "Quirky-Study-5901",
+      "timestamp": "",
+      "body": "Press  escape"
+    },
+    {
+      "author": "Quirky-Study-5901",
+      "timestamp": "",
+      "body": "QUICK FIX : NOT AS YOU MAY THINK. Just press esc or escape and WahlalaCredit:Quick Fix Post"
+    },
+    {
+      "author": "Junky_man_himself",
+      "timestamp": "",
+      "body": "Hey thanks. So pressing Esc let me beyond the phone verification part but now Discord wants me to \"claim\" my account by another log in verification but nothing happens after I log in. Is this another error?"
+    },
+    {
+      "author": "No_Abbreviations2700",
+      "timestamp": "",
+      "body": "(For pc users), Login to your phone and verify on there. Eventually it'll log you back onto your account on phone and pc."
+    },
+    {
+      "author": "cuteybearboi",
+      "timestamp": "",
+      "body": "Had the same problem, current fix that worked for me and should work for others is to login on the same account using the mobile app and then verify your phone number from there. You can then log back into the desktop app and remove your phone number (because discord 2FA is awful and no one should be using it)."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    }
+  ]
+}

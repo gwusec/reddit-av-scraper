@@ -1,0 +1,59 @@
+{
+  "subreddit": "VRchat",
+  "post_id": "zyjkfl",
+  "title": "How is this possible?",
+  "body": "",
+  "author": "CuriousKibble",
+  "comments": [
+    {
+      "author": "bites",
+      "timestamp": "",
+      "body": "Furry Hideout's moderation tool is just like that.It is part of the world that certain authorized users can use.They've got the one flag that gets put above people's head when they're banned and it just says crasher.Either they were an actual crasher or a mod of the world decided to for another reason."
+    },
+    {
+      "author": "HubblePie",
+      "timestamp": "",
+      "body": "It’d be kind of funny if that was his actual avatar, and the picture just hasn’t updated. No clue how that would show up otherwise, unless it’s a script in the actual map."
+    },
+    {
+      "author": "OfficerOtaku",
+      "timestamp": "",
+      "body": "It's a script in the map I believe, not sure if it just detects problem users on the world's moderation list or just certain avatars that people use that have been flagged by the world though. I can ask some of the world moderators on this though to find out."
+    },
+    {
+      "author": "venturiq",
+      "timestamp": "",
+      "body": "I had their avatar disabled."
+    },
+    {
+      "author": "LunarstarPony",
+      "timestamp": "",
+      "body": "It's a Moderation tool that exist in quite a lot of Furry WorldsIt doesn't really mean their Crashers but mostly means they got banned by a Moderator in that specific world for some reason. (Being Underage, Annoying People, Crashers, etc.) Ask Tau for this a long time ago.(From what I know I've seen it in both Furry Hideout and Furhub)"
+    },
+    {
+      "author": "_MyroP_",
+      "timestamp": "",
+      "body": "I've seen avatars that can stick things on other avatars, actually one of my avatars can also do it (I can stick a sphere on a player's head)."
+    },
+    {
+      "author": "venturiq",
+      "timestamp": "",
+      "body": "Yeah I was thinking of that but I had all avatars disabled in that instance."
+    },
+    {
+      "author": "Helioskull",
+      "timestamp": "",
+      "body": "That's what happens when someone who was banned tries rejoining, it will let them back into the instance but it will put that on them until they either change instance or the moderator of the world leaves the instance.It's technically against VRC TOS since when you ban them it sends them to a room they can't escape without leaving. I personally think that more worlds need it cause it actually gets people who are being jackwagons away so others can keep having fun.Edit: The tool is a script that runs on Udon, it's given to people the owner wants to have it so they can moderate the world. If someone is particularly annoying, the owner can write the person's name in the script as a blacklist so they are banned automatically on joining without a moderator being there."
+    },
+    {
+      "author": "HiyuMarten",
+      "timestamp": "",
+      "body": "Furhub maker here - these tools are developed within VRChat’s TOS, and VRChat was consulted as part of the development process. It’s made clear to world creators who use this tool exactly what is and isn’t allowed by VRC’s TOS in the readme files & associated community."
+    },
+    {
+      "author": "CuriousKibble",
+      "timestamp": "",
+      "body": "https://docs.vrchat.com/docs/udon-moderation-tool-guidelinesThere are \"rules\" but it seems VRChat doesn't really want to deal with it."
+    }
+  ]
+}

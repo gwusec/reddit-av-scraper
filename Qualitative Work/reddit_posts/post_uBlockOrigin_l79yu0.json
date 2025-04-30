@@ -1,0 +1,34 @@
+{
+  "subreddit": "uBlockOrigin",
+  "post_id": "l79yu0",
+  "title": "Age Verification on youtube.",
+  "body": "I know it's not an ad but is there a way to get past this?I'm not exactly comfortable with sending my ID to or Credit Card information to youtube just to watch age restricted content. It's sketchy and it's disgusting they even dare asking for it.\n\n",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "cece596",
+      "timestamp": "",
+      "body": "Install Tampermonkey and install this userscript:https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-BypassWorks perfectly for me :)Tampermonkey:https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=frAlso Tampermonkey is a userscript manager, so you can use it for many other useful script (link to a userscript store):https://greasyfork.org/"
+    },
+    {
+      "author": "klimi8888",
+      "timestamp": "",
+      "body": "I'm guessing you're from outside the US? I think a law passed in Europe that makes youtube required to do this."
+    },
+    {
+      "author": "AntiVi",
+      "timestamp": "",
+      "body": "Yeah I'm in Europe. The thing is that sending your ID or Credit Card information over the internet to google isn't exactly safe considering all the data breaches that happen all the time and that they never tell us about.I'm really hoping for a way around this because it's so annoying and the alternative isn't safe."
+    },
+    {
+      "author": "basically_a_genius",
+      "timestamp": "",
+      "body": "A cludgey option is to put 'nsfw' in front of the URL, eg:https://www.nsfwyoutube.com/watch?v=dQw4w9WgXcQIt's whackamole as to whether it works, but it's usually worth a shot"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "\"This video is age-restricted and only available on YouTube. Learn more\"Doesn't work, as of 2021-June-16."
+    }
+  ]
+}

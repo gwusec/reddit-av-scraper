@@ -1,0 +1,59 @@
+{
+  "subreddit": "ukpolitics",
+  "post_id": "1i2vgib",
+  "title": "Age verification proposals could expose people to exploitation",
+  "body": "",
+  "author": "TimeTimeTickingAway",
+  "comments": [
+    {
+      "author": "AutoModerator",
+      "timestamp": "",
+      "body": "Moderator AnnouncementRead More »Snapshot ofAge verification proposals could expose people to exploitation:An archived version can be foundhereorhere.I am a bot, and this action was performed automatically. Pleasecontact the moderators of this subredditif you have any questions or concerns."
+    },
+    {
+      "author": "No-Scholar4854",
+      "timestamp": "",
+      "body": "There’s a very specific, very technical way in which this could be implemented in a zero trust way.It is technically possible for some authority (the government, your bank, whoever) to issue a cryptographic certificate that would prove part of your identify/properties (e.g. this person is over 18).If done right then you can use that certificate to prove to (for example) Pornhub that you’re over 18 without having to disclose anything else about your identity, and without having to tell the authority that you watch porn.If OfCom were setting up that infrastructure as part of this then it would be a huge positive. There are so many more significant problems that could be solved by that technology.They’re not. They’re just making it the responsibility of each individual website and so obviously it’s going to be done in the cheapest and least secure way possible."
+    },
+    {
+      "author": "AnotherLexMan",
+      "timestamp": "",
+      "body": "They were talking about being able to buy a code from newsagents to give yourself access.  Which is similar to zero trust"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Your wife or daughter will ask you. Why do you need to register a identity. Are you watching some bad things🤣"
+    },
+    {
+      "author": "VPackardPersuadedMe",
+      "timestamp": "",
+      "body": "They definitely will. This \"think of the children\" madness whilst ignoring declining living standards is horrid.Soon, we can't even fap or flick the bean without literally some of the seediest companies in the world knowing exactly who we are..."
+    },
+    {
+      "author": "newnortherner21",
+      "timestamp": "",
+      "body": "Or we'll have to rely on memory of when you could easily look at some sites."
+    },
+    {
+      "author": "vodkaandponies",
+      "timestamp": "",
+      "body": "Or more realistically, use a VPN."
+    },
+    {
+      "author": "IPreferToSmokeAlone",
+      "timestamp": "",
+      "body": "Not ideologically opposed to it, just don’t trust the government not to screw it up. These websites will make it super easy to circumvent because they don’t want it and can put them blame on the user. Also those who can’t circumvent will go to seedy corners of the internet which don’t enforce and be exposed to even seedier content."
+    },
+    {
+      "author": "the-moving-finger",
+      "timestamp": "",
+      "body": "Somewhere, a VPN lobbyist is either enjoying the fattest bonus of all time for a job well done or despairing that he'll be out of work soon as the government appears to need no convincing."
+    },
+    {
+      "author": "TimeTimeTickingAway",
+      "timestamp": "",
+      "body": "I agree.But all the samenotdoing it exposes even more people to certain exploitation"
+    }
+  ]
+}

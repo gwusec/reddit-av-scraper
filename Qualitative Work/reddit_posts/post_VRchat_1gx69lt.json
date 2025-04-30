@@ -1,0 +1,59 @@
+{
+  "subreddit": "VRchat",
+  "post_id": "1gx69lt",
+  "title": "Idea: Age Verification Badge",
+  "body": "A badge on your profile showing that you’ve verified your age through VRChat’s application. Cost: $5. Instances can also be age restricted, allowing only people with the badge in. Just an idea. Before you say this wouldn’t work, it would. IMVU has the feature and it works really well.",
+  "author": "BobLeMaladroit",
+  "comments": [
+    {
+      "author": "NOINSEVUNT",
+      "timestamp": "",
+      "body": "They are working on something like this (not the paid part, but the age verification part)They added these fields to the API a few months ago:settings:ageVerificationP:\n  type: boolean\nageVerificationStatusVisible:\n  type: booleanUser (self):ageVerificationStatus:\n  type: string\nageVerified:\n  type: boolean\nisAdult:\n  type: booleanInstance:ageGate:\n  nullable: true\n  type: stringUser (other user, not self):ageVerificationStatus:\n  type: string"
+    },
+    {
+      "author": "SpectorEscape",
+      "timestamp": "",
+      "body": "The question is who they'll use. I trust almost no one with ID info or official personal info. To many risk factors privacy wise"
+    },
+    {
+      "author": "tydaalien",
+      "timestamp": "",
+      "body": "Hmmm…that’s interesting 🤔"
+    },
+    {
+      "author": "Street_Estate_6121",
+      "timestamp": "",
+      "body": "Age verification is coming. How will it be implemented? Who knows, but it might have something like this. Something that shows on your profile and is seen by other players."
+    },
+    {
+      "author": "nhozkhangvip02",
+      "timestamp": "",
+      "body": "Just trying to understand, why should it cost $5?"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Perhaps a fossil icon for those over 40."
+    },
+    {
+      "author": "WorryTricky",
+      "timestamp": "",
+      "body": "Perhaps a fossil icon for those over 40."
+    },
+    {
+      "author": "Bordias",
+      "timestamp": "",
+      "body": "This game really need age restricted instances. But I don't understand why it would cost money here"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Because age-verification solutions that don't cost money are not effective at all.Were you ever a kid yourself? Because every kid I knew as a kid knew how to bypass every single age-verification that did not involve money.Money is the only thing bad parents care about, so that's why money-based verification services work. Kid charges something to a parent's card. Parent finally cares about what their neglected child is doing."
+    },
+    {
+      "author": "BobLeMaladroit",
+      "timestamp": "",
+      "body": "I actually love this. Those who want verification can get verified and those who dont (for whatever reason) can just go through the process."
+    }
+  ]
+}

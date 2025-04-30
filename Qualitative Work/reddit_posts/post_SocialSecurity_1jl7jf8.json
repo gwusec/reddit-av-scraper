@@ -1,0 +1,59 @@
+{
+  "subreddit": "SocialSecurity",
+  "post_id": "1jl7jf8",
+  "title": "Recent problem logging in using Login.gov \"Let’s verify your identity for SSA\"",
+  "body": "I have been usingLogin.govto accessmySocial Security for well over a year, but within the last week after logging in, a new secondary requirement appears: \"Let’s verify your identity for SSA\". After going through the facial identification verification successfully using a drivers license it fails on the following step trying to verify any of my phone numbers and fails to offer any options for alternate verification. There is an alternate means to verify at the Post Office, but that strangely also requires phone number verification to complete. I have contactedLogin.govand they state this is an SSA issue. I just wonder if this is a recent requirement implemented by our new \"efficiency experts\". Fortunately I already had anid.meaccount which continues to work.",
+  "author": "DaffyDuckForPres",
+  "comments": [
+    {
+      "author": "Kappa351",
+      "timestamp": "",
+      "body": "NOt sure if thisis the problem but use to be you could only verify during business hours.. only they were bad at letting you know that..  from 2 years ago.."
+    },
+    {
+      "author": "BeachBumm_",
+      "timestamp": "",
+      "body": "No, this was online secondary verification during business hours."
+    },
+    {
+      "author": "momplaysbass",
+      "timestamp": "",
+      "body": "I'm trying to get my mom's login.gov set up on SSA. After waiting two hours for it to verify her information we agreed to try it another day. We didn't even get as far as them asking to check telephone numbers.I did check on downdetector.com and it turned out they were having issues when we were doing this.If push comes to shove, she actually has an appointment on April 18th, and I told her she could ask them for help if we don't have it resolved by then."
+    },
+    {
+      "author": "Suzo8",
+      "timestamp": "",
+      "body": "I just had this happen, but it worked for me. At the phone verification step, did you get the text from them and did you then click the link from that phone to verify the number before going back to the computer? And don't click anything else on the computer until it acknowledges that the phone was verified and moved on."
+    },
+    {
+      "author": "Fearless_Doughnut_19",
+      "timestamp": "",
+      "body": "It’s new functionality that was released over the weekend. Depending how you previously authenticated your identity, this will happen. It’s basically a higher identity assurance level and consistent with updated NIST standards."
+    },
+    {
+      "author": "BeachBumm_",
+      "timestamp": "",
+      "body": "Well it's a flawed system if it doesn't provide an alternate means of validation such as by mail if the phone numbers aren't recognized or accepted because they are VOIP or Google Voice."
+    },
+    {
+      "author": "AdventurousBowler870",
+      "timestamp": "",
+      "body": "I had the exact same issue. I went through the ID.ME system and was verified by a live video feed agent. It was and is a pita.😳"
+    },
+    {
+      "author": "FortunateGeek",
+      "timestamp": "",
+      "body": "I was successful this week in getting through ID.me facial liveness detection.  Weird experience though."
+    },
+    {
+      "author": "Origin_World_8",
+      "timestamp": "",
+      "body": "This exact thing happened to me yesterday. I didn’t know what to do and gave up. I will try ID . me"
+    },
+    {
+      "author": "DaffyDuckForPres",
+      "timestamp": "",
+      "body": "I'm in Costa Rica trying to login to my SSA account and was prompted to verify my identity.  The process does not work for me.  The photo of my drivers license taken by the verification process has exposure set too high so the photo is washed out lacking detail.  But, over the weekend I was finally able to succeed being verified with Login.gov.  So I went to MySSA and attempted to login.  My identity, according to SSA, had not been identified.  I contacted Login.gov who told me simply to go back to SSA and tell them to use their alternate verification path.  What the hell is this even talking about and why doesn't the process work, period?All this government paranoia and haphazardly slicing and dicing departments and staff is ridiculous. Our fearless leader needs to understand not everyone is a criminal and that includes immigrants."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "subreddit": "VRchat",
+  "post_id": "v9uxmd",
+  "title": "Can someone tell me why this is happening?",
+  "body": "",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "mememan3310",
+      "timestamp": "",
+      "body": "Do you have a controller connected to your PC?"
+    },
+    {
+      "author": "vinkie2601",
+      "timestamp": "",
+      "body": "Nope. Just my mouse, keyboard and headset. And of course the monitor. Nothing else."
+    },
+    {
+      "author": "vinkie2601",
+      "timestamp": "",
+      "body": "The problem has already been fixed."
+    },
+    {
+      "author": "MrUltraOnReddit",
+      "timestamp": "",
+      "body": "How?"
+    },
+    {
+      "author": "PorkysRAGE",
+      "timestamp": "",
+      "body": "Me on VR with horrible controller drift:"
+    },
+    {
+      "author": "Cat_With_Human_Ears",
+      "timestamp": "",
+      "body": "Things to try:-Restart computer (as in click \"restart\", don't just turn it off. They are different processes)-Check for updates and make sure everything is up to date.-If you have mods installed, disable them and see if that fixes the issue. Then reenable them one at a time.-Open different programs and make sure it is not happening elsewhere too. You could have a stuck key or an input loop from a macro.-All else fails, uninstall and reinstall the game. If that doesn't work, the issue is outside VRChat itself.Report back what you try and if anything works to fix the issue. It will help others in the future."
+    },
+    {
+      "author": "vinkie2601",
+      "timestamp": "",
+      "body": "I've restarted my pc, just restart, didn't turn my pc off and on again. No change.There were no updates.I've never used or even installed VRchat until yesterday (when it was also happening), so no mods are present. I don't own a VR headset either.It only happens in VRchat, and only in the menu, everything else works just fine. There was a brief moment that the bug wasn't present. It lasted for about a minute and I've been unable to recreate that moment.I already tried uninstalling and reinstalling it. No change.Validating files didn't do anything either."
+    },
+    {
+      "author": "DistinctAd2357",
+      "timestamp": "",
+      "body": "Does Steam vr start when opening the game, if so unplug you headset and close steam Vr because one of your controllers may have stick drift"
+    },
+    {
+      "author": "Mrpirateguy",
+      "timestamp": "",
+      "body": "Restart it if that doesn't work threaten it"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Do you have vjoy installed? Uninstall it if you do"
+    }
+  ]
+}

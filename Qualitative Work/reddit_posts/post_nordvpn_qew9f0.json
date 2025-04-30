@@ -1,0 +1,34 @@
+{
+  "subreddit": "nordvpn",
+  "post_id": "qew9f0",
+  "title": "Unable to bypass youtube age verification. Any ideas?",
+  "body": "Hey there. Just got NordVPN, trying to unblock some videos I haven't been able to watch thanks to the EU regulations. Since I don't plan on uploading my freakn ID to verify my age, I hoped that a VPN would to the trick.\n\nSo far, no success though. I tried restarting my PC, reconnecting to several other servers, using a different browser, deleting my cookies...nothing. Youtube still asks me for my age. Is there anything else I can do? Do I need to make a new google account?",
+  "author": "ObscuraNox",
+  "comments": [
+    {
+      "author": "rational_centaurus",
+      "timestamp": "",
+      "body": "I think it depends on where you've created your account and the age on the account, VPN cannot bypass age restrictions"
+    },
+    {
+      "author": "ObscuraNox",
+      "timestamp": "",
+      "body": "Oh, I don't mean the regular age restriction - I mean the EU specific one where you have to upload your ID in addition to being logged into your account. I hoped that a VPN would work preventing this."
+    },
+    {
+      "author": "cuppaseb",
+      "timestamp": "",
+      "body": "try youtube alternatives, like invidious"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "have you tried connecting to a server that is NOT an EU country?  choose canada or usa server and see if it works."
+    },
+    {
+      "author": "ObscuraNox",
+      "timestamp": "",
+      "body": "Yep, tried that...Sadly doesnt work. Tried several other countries too, both before & after reloading browser / deleting cookies"
+    }
+  ]
+}

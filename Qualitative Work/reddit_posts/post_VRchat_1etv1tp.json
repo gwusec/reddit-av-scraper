@@ -1,0 +1,59 @@
+{
+  "subreddit": "VRchat",
+  "post_id": "1etv1tp",
+  "title": "Age Verification (RUMOURS)",
+  "body": "There are Many rumours among contacts with Beta Testers, Mods, Developers of Age Verification, whether it’s true or not, I would not know.\n\nBut How much of a loss and gain would this be?\n\nAssuming they kept the 13+ age, how many minors have a legal in date ID to hand? Not many. If it was changed to 16+, how many Young Adults have a legal in date ID to hand? Not many either. Now whilst it may not be true of an AV feature, it’s still possible as the growth of Pedophilia and grooming on the base is quite.. disgustingly large.\n\nEspecially in The UK, waitlists for IDs, Passports ETC are 4+ months. What would be the consequences of not being able to uprightly hand a photo of your ID to VRChat, and secondly, what happens once your age has been proven? Does the image remain? Is it publicly accessible, what happens to the proof of the AV?",
+  "author": "prokjs",
+  "comments": [
+    {
+      "author": "tupper",
+      "timestamp": "",
+      "body": "We've released zero information on Age Verification other than \"we are looking into it and hope to release something this year.\"Be wary of rumors that say anything beyond that -- people love making stuff up!"
+    },
+    {
+      "author": "Foolski",
+      "timestamp": "",
+      "body": "If you're able to make age verified lobbies when it comes out, that would be a huge boon to the platform as it would allow adults to mingle and meet strangers again without kids running about. I really miss being able to go to public lobbies and reliably meet interesting strangers to talk to without having to block out the constant background noise of children screaming slurs."
+    },
+    {
+      "author": "Lylac-elixir",
+      "timestamp": "",
+      "body": "So most of the rumors I heard on this refer to the verification being outsourced to a reputable 3rd party service and not done by VRC directly. in the case of most of the services that provide age verification right now (looking at the few states in the US that implemented age verification on adult content) they typically use the ID to confirm age and send back to the platform a yes or no answer. so your personal info is not being given to VRC in that case and the 3rd party service should not be retaining info."
+    },
+    {
+      "author": "Rune_Fox",
+      "timestamp": "",
+      "body": "This is basically what they said in one of their devlogs earlier this year. They mention it at the bottom of this devloghttps://ask.vrchat.com/t/developer-update-11-july-2024/25514"
+    },
+    {
+      "author": "IntelligentOlive8095",
+      "timestamp": "",
+      "body": "The age verification would likely to be only to prove you're 18 and over, not 13. You'd still be able to play the game without proving your age, just not accessing some content that is 18+. If you're over 18 without an ID you have bigger problems in life than accessing 18+ content on VRChat."
+    },
+    {
+      "author": "Foxy02016YT",
+      "timestamp": "",
+      "body": "Oh please yes! Like how Roblox does it. Would be nice to have some safe spaces for adults"
+    },
+    {
+      "author": "molluskich",
+      "timestamp": "",
+      "body": "I'm fairly new to VRChat so I'm not sure how much my opinion matters, but I'd be glad to see the age rating raised to 18+. The amount of children I've seen running around hurling slurs and abuse at random players is appalling. I check profiles often and see so many minors listing their age. I look to see what groups they're in and honestly, it's concerning. There's no moderation or regulations in regards to keeping kids safe.As far as how age verification should be conducted, I don't know, I'm not the person to ask. I agree it's important that it's done in a way that doesn't keep a database on hand, that keeps player identities safe."
+    },
+    {
+      "author": "TurquoiseSoul02",
+      "timestamp": "",
+      "body": "I don't think they're changing the entire platform to be  18+. Rather, most likely we're getting some sort of content and possibly instance gating so that only age verified users can access such things. So only a part would be 18+.Just a guess tho nothing's been confirmed yet."
+    },
+    {
+      "author": "ItsRosefall",
+      "timestamp": "",
+      "body": "There has been talks of age verification, but that is all we realistically know, one thing is for sure tho, whatever VRChat is planning, it will almost certainly not involve scans or pictures of people's legal documents, such as ID, Passport or Driver's License, because it doesn't solve anything.For the game to know which content to display and which content to filter out, age restricted content must be flagged in some way as age restricted, if this falls on the content creators hands, most people wont care to do this, and percentage of people will activelly refuse to do it, to maximise the amount of exposure their content gets.Assuming you can somehow solve this issue and perfectly classify what type of content should and shouldn't be age restricted, you still created only a half-baked solution to the problem, kids who access VRChat through their parent's accounts or hardware will still be able to access age restricted content, new players and users who are unable or unwilling to verify their account with an ID  will complain about being locked in environments predominantly filled with children and content for children.All of what I just listed is surface level problems, there are many underlying issues and challenges with age verification on online platforms, which is why they aren't common placed on every corner of the internet. And even if VRChat somehow managed to invent the world's best age verification system on the planet, the problem would still persist, websites exist that distribute very real looking ID cards that work with swipe machines and even pass the blacklight test, as soon as this knowledge would become popular, people would start buying out and scanning fake IDs into VRChat to bypass the limitations that the age verification imposes on them. And the whole system would become nothing more but a small obstacle for most users."
+    },
+    {
+      "author": "prokjs",
+      "timestamp": "",
+      "body": "It's probably going to be the same or similar to how it is in roblox."
+    }
+  ]
+}

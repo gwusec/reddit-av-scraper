@@ -1,0 +1,59 @@
+{
+  "subreddit": "RenPy",
+  "post_id": "1idhmpo",
+  "title": "How can I prevent a game from being accessed by minors?",
+  "body": "Where can I go to set up such a protection? Where the content can be locked?",
+  "author": "RineRain",
+  "comments": [
+    {
+      "author": "KURU_TEMiZLEMECi_OL",
+      "timestamp": "",
+      "body": "You can't."
+    },
+    {
+      "author": "AxelWasTakenWasTaken",
+      "timestamp": "",
+      "body": "You could add a disclaimer at the splash screen that you have to agree to to access the game"
+    },
+    {
+      "author": "RavenDancer",
+      "timestamp": "",
+      "body": "Even if you add a 18+ clicker they’re going to click Yes anyway lmao.I’m way past 18 and still think ‘lmfao yeah I’m 18 bro HA’ and click it then think oh wait-I believe DDLC just has an 18+ content warning circle on the opening screen"
+    },
+    {
+      "author": "CanelaDeFogo",
+      "timestamp": "",
+      "body": "Not releasing it. Goverments can't stop minors from buying alcohol, cigarettes, etc. There's always a work around (like asking to an older friend to buy). In the digital world where anyone can lie about age how do you expect to control it?"
+    },
+    {
+      "author": "BadMustard_AVN",
+      "timestamp": "",
+      "body": "you can add this to your start label:label start:\n\n    call screen confirm(message = \"Are you 18+?\",yes\\_action = Jump(\"begin\") ,no\\_action = MainMenu(confirm=False), \\_layer = \"master\")\n\nlabel begin:  \n    # The script of the game goes in this file.a Yes click to jump to begin and a No click will kick them to the main menu"
+    },
+    {
+      "author": "standard_cat17",
+      "timestamp": "",
+      "body": "you mean from the website you're uploading it to? or a warning in the game itself?"
+    },
+    {
+      "author": "onikafei",
+      "timestamp": "",
+      "body": "Warning in the game itself. I know you can block it. but I'm not sure how"
+    },
+    {
+      "author": "Chewbacta",
+      "timestamp": "",
+      "body": "Don't let anyone access it."
+    },
+    {
+      "author": "shyLachi",
+      "timestamp": "",
+      "body": "As far as I know there is no way to limit access to software because adults can share the software with minors.You could distribute your game through Steam, which requires age verification for R-rated games but minors could just enter a fake age. But at least it would be their responsability not yours.Or you could add password protection and force players to contact you for the password. But of course the password can also be shared."
+    },
+    {
+      "author": "RineRain",
+      "timestamp": "",
+      "body": "I guess if you really wanted to prevent minors from accessing it you could ask everyone who wants to play it to send you some form of ID and only then allow them to access the game."
+    }
+  ]
+}

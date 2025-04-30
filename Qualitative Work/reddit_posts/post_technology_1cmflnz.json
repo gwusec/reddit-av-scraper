@@ -1,0 +1,59 @@
+{
+  "subreddit": "technology",
+  "post_id": "1cmflnz",
+  "title": "How age verification to access porn works in France: ‘They won’t know anything about you, other than that you’re an adult’",
+  "body": "",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "MadeByTango",
+      "timestamp": "",
+      "body": "That’s howallverification in the web should be, including Google. No more accounts and data tracking. “Im a real person” tag and every transaction taken as a single purchase."
+    },
+    {
+      "author": "Maghioznic",
+      "timestamp": "",
+      "body": "No more accountsThis verification requires an account too:This system is run via the FranceConnect portal, where all French people who pay social security contributions have an account.What this approach accomplishes is that the verification service doesn't know what you use the verification for and the target site doesn't know who it deals with. But an account you must have."
+    },
+    {
+      "author": "Cley_Faye",
+      "timestamp": "",
+      "body": "I can assure you that the actual implementation will be borked and they'll have a list of anything you log into."
+    },
+    {
+      "author": "Maghioznic",
+      "timestamp": "",
+      "body": "This exact approach can't be used in US because we don't have a government managed authentication system that all adults use, like FranceConnect. And the commercial authentication systems do not perform an age validation.But I actually wonder if their entire system can be actually bypassed using a proxy IP outside France. There is this bit at the end of the article that suggests this may be the case:foreigners who visit France and want to access pornographic content must open an account on FranceConnectIt sounds as only requests from France would be subject to the verification, which means that anybody that can figure out how to use a proxy doesn't need to go through FranceConnect.So, great idea, shame that it can be bypassed."
+    },
+    {
+      "author": "Sir_Kee",
+      "timestamp": "",
+      "body": "Any solution that acts as a layer on top of the existing web that is applied based on geography can be easily bypassed."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "You clearly never had to use login.govWe have it. We love corporates more."
+    },
+    {
+      "author": "cromethus",
+      "timestamp": "",
+      "body": "The anonymity on offer amounts to \"we won't keep logs, promise!\" As many VPN users have found out, that promise isn't as bulletproof, or as useful, as it appears to be."
+    },
+    {
+      "author": "Otagian",
+      "timestamp": "",
+      "body": "It's worth noting that the article explicitly states that it keeps logs in the last paragraph."
+    },
+    {
+      "author": "SpaceKappa42",
+      "timestamp": "",
+      "body": "Interesting how the headline says \"adult\" but the text says \"legal age\" (which is 15 in France)."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Laws are weird and sometimes confusing or make no logical sense.Example. In the UK the legal age is 16. It is however illegal to possess a nude picture of someone under 18.So if you as a 17 year old boy are dating a 17 year old girl, while it is perfectly legal to have sex and see each other naked irl, it is illegal to have a picture of each other until you are over 18This makes no sense and most people would logically assume this would not be illegal. Many young couples would be breaking the law completely unaware."
+    }
+  ]
+}

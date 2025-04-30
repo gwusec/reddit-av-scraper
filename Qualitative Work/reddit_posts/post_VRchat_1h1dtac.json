@@ -1,0 +1,59 @@
+{
+  "subreddit": "VRchat",
+  "post_id": "1h1dtac",
+  "title": "Introducing Age Verification | Developer Update",
+  "body": "",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "--an",
+      "timestamp": "",
+      "body": "tl;drAge verification provider is Persona(EU based). American based company.Optional.You can display \"Age Verified\" or \"Verified 18+\" badge on your profile if you want.Group based instance restrictions - groups can set their instances to require age verified account.Slow rollout to small number of groups first."
+    },
+    {
+      "author": "GreaveVR",
+      "timestamp": "",
+      "body": "Beautifully handled by the VRC team. This is exactly what we've needed, and the way they have rolled it out will make sure that those uninterested in / concerned about using the verification system are not required to. And using the EU / GDPR approved system! Awesome job they did on this. Excited to jump into age verified only instances in the future."
+    },
+    {
+      "author": "overlord_king",
+      "timestamp": "",
+      "body": "A correction on one thing, Persona is based in San Francisco, but they are GDPR Compliant."
+    },
+    {
+      "author": "DaleGribbleBluGrass",
+      "timestamp": "",
+      "body": "Finally adults don't have to worry about kids in DJ events, dance events, drinking nights or NSFW events if that is your thing. This is great news"
+    },
+    {
+      "author": "ObserverVR",
+      "timestamp": "",
+      "body": "I WANT THIS AND I WANT IT NOWThis will have a HUGE impact on VRChat and make this wonderful, weird place so much better. Huge props for choosing a GDPR-compliant provider. Thank you."
+    },
+    {
+      "author": "dutchguy94",
+      "timestamp": "",
+      "body": "do I have to keep my data with Persona permanently to remain verified or can I just verify with persona and then delete (as per gdpr) my data from the Persona servers afterwards.to phrase it more clearly can I:step 1: send my ID to Personastep 2: verify my age on VRchat using Personastep 3: delete my ID off of personastep 4: remain verified on VRchat.I'd love to know, because Im not too keen on storing my ID on a company's website"
+    },
+    {
+      "author": "LostMelodyMunch",
+      "timestamp": "",
+      "body": "If they do it the same way they do Roblox, they keep your information for 90 days, and then remove it, or as soon as they have accepted your age verification and checked it, then they remove the information."
+    },
+    {
+      "author": "ButterPuppet",
+      "timestamp": "",
+      "body": "they are doing it the best way posibleit doesnt instantly cut out the kids who have friend groups on vrc its just a way to filter them out of instances and thats all it needed to be"
+    },
+    {
+      "author": "karlvonheinz",
+      "timestamp": "",
+      "body": "It's wild to me that people in the comments criticize them for using a third party service. There is literally no way around itI get that privacy is always at risk. But in 2024 you can't even use Tinder or E-Scooters without this kind of verification (at least in Germany)"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "I’m not sure how comfortable I am with it being a US company handling the data."
+    }
+  ]
+}

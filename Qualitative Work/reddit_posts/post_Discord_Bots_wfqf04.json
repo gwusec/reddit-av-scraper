@@ -1,0 +1,54 @@
+{
+  "subreddit": "Discord_Bots",
+  "post_id": "wfqf04",
+  "title": "100% Automated age verification bot, why doesn't discord do this?",
+  "body": "Image of verification:https://i.imgur.com/TfFTScZ.png\n\nThis bot is simple, if you know how to do it.\n\nYou may only succeeed if the following conditions are met:\n\n-The captcha (word) the bot gives you to place on paper must be a 100% match (Google Text Detection)\n\n-The selfie you took in image 1 must match with at-least 85% accuracy on image 2\n\n-Your age is determined from your selfies you took, based on 2 calculations\n\nSo far the age has been ..well, correct. Says im 33, 34 when im really 35. My friends says theyre 19, 21 and 26 when they are 19, 22 and 25.\n\nWhen i say this was easy to accomplish i mean it.. i coded this entirely in 3 days lol, why doesn't discord do something like this to remove the ID verifications (manual, people seeing the IDs)\n\nWasn't hard and it's really not that expensive, costing guilds an estimated $0.014 per verification for the selfies and $0.005 for the age determination, per verification. I plan to charge a total of $0.05 per verification.\n\nWhat steps, additional, could i take to make this better?",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "UnacceptableUse",
+      "timestamp": "",
+      "body": "How can I trust that you handle the selfies in an appropriate way privacy wise?"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "You can't.   And I wouldn't"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Once it's finished the code will be made open source. you can everything the bot will be doing, and ill explain the code every step of the way."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "I see the idea is in a good place, however, I personally would never submit my selfies or identification cards to a bot.   Too many scams rolling around Discord.  Even if it's the legit version that I'm submitting to, what are you doing to protect privacy, potential leaks, etc?Whats the plan for handling the CCPA, GDPR, and other privacy acts across the world?"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "I don't collect personal information. GDPR shouldn't be an issue"
+    },
+    {
+      "author": "AnOscillatingOcelot",
+      "timestamp": "",
+      "body": "Is this a violation of rule 1? Idk."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "well, im not really advertising. i don't plan on sharing the link or server invite etc, its just a discussion. i really want this to be the next big thing for discord - id verification is, well to me a huge problem."
+    },
+    {
+      "author": "UnacceptableUse",
+      "timestamp": "",
+      "body": "I bet I could trick it quite easily"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    }
+  ]
+}

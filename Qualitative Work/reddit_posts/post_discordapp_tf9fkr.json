@@ -1,0 +1,34 @@
+{
+  "subreddit": "discordapp",
+  "post_id": "tf9fkr",
+  "title": "Escape doesn't take you to the bottom anymore?",
+  "body": "Hitting ESC always used to take you to the bottom of a channel, but now it only does it when there are unread posts. Is there a setting so it works the way it did before?\n\nEDIT: 3 days later ESC seems to be working again. Here's to hoping it was just a hiccup in their code.",
+  "author": "Ignifyre",
+  "comments": [
+    {
+      "author": "GiantMallard23",
+      "timestamp": "",
+      "body": "I was just about to make a post about this, it's happening to me as well. Hope it's just a glitch and it gets fixed, scrolling is annoying"
+    },
+    {
+      "author": "proflopper",
+      "timestamp": "",
+      "body": "Seriously hope they fix this. I have about 5 years of adhd related muscle memory associated with scrolling up and then hitting esc to scroll back down again."
+    },
+    {
+      "author": "ThatSirWaffles",
+      "timestamp": "",
+      "body": "The same thing happened to me, so for now I'm just using the middle click scroll to get down faster than just scrolling normally if that helps. Also spamming the \"End\" key seems to work but can be a bit buggy."
+    },
+    {
+      "author": "Meowthful127",
+      "timestamp": "",
+      "body": "also having this problem. what i did was use an ahk script to bind my esc key to ctrl+end, although unfortunately, this doesn't mark the messages as read, it only goes to the bottom of the chat."
+    },
+    {
+      "author": "Ignifyre",
+      "timestamp": "",
+      "body": "Please change it back. I thought I was going crazy looking at my settings and keybinds to figure out if I messed something up."
+    }
+  ]
+}

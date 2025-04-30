@@ -1,0 +1,49 @@
+{
+  "subreddit": "SwipeHelper",
+  "post_id": "xla9is",
+  "title": "Tinder are INDEED retaining facial data",
+  "body": "Hi guys, new findings here.\n\nThe experiment: I used a tinder account and verified it with a selfie when prompted. Passed the verification...etc. account working as normal.\n\nMade a 2nd a count using the same photos, but altered version with different information and dimensions. The second account was locked within one minute, asking for a verification check.\n\nFurthermore, my main active account also froze in the same 5 minute window. I was in the middle of multiple chats and they all stopped responding at the same time. I also asked a girl to go back and look at my original profile from a messaging app. It was no longer visible.\n\nI know how to hard reset. Every thing was different on the second profile, email, phone, internet, location...etc. I double checked everything for mistakes. There were none.\n\nThis confirms to me tinder retain your facial information and use it to affect your later accounts.\n\nI always believed that doing this wouldn't be worth their time, or the potential legal headache, but I am now ready to eat those words.\n\nThat's all I have for now.",
+  "author": "justareddituser2021",
+  "comments": [
+    {
+      "author": "justareddituser2021",
+      "timestamp": "",
+      "body": "Photo recognition and facial recognition are two very different things. The way you ran this test, there's no way to tell whether they're using photo recognition or facial recognition.Photo recognition is based on image hashing, which is specifically built to get around things like cropping and other photo manipulation. As others have pointed out, there's some evidence that Hinge has at least experimented with this technology. It's reasonable to assume that other Match Group apps have as well.Facial recognition is based on facial geometry. There are very strict laws about collecting, retaining, and using this data in many jurisdictions."
+    },
+    {
+      "author": "0shocklink",
+      "timestamp": "",
+      "body": "I see this a lot but they actually don’t need to retain any of your images. Images like all forms of digital data can be represented as a hash i.e image1 -> abc123z. Now let’s say you change the image, but your still in it. The way the hashing function works is that it even if you change the image a lot, if there is something present that is similar (your face) the hash is still relatively similar i.e image2 -> abc123b. In essence they can tell it’s the same person even though it’s a different image. So they just store that instead of your image since there’s no need for it."
+    },
+    {
+      "author": "HalloMolli",
+      "timestamp": "",
+      "body": "Well, if it was that easy then how is the (hard) reset guide supposed to work? Doesn't make sense to me to go through all of this if everything they need to do is is to compare your hash IDs (from photos) with each other in order to identify you regardless."
+    },
+    {
+      "author": "Pgk137",
+      "timestamp": "",
+      "body": "Does hinge do this too?? I was banned and want to get back on but idk if they use facial recognition or would recognize my pics"
+    },
+    {
+      "author": "actual__literature",
+      "timestamp": "",
+      "body": "This is correct.Here is Okcupid talking about their hash algorithm. Since Match owns OKC, Tinder, Hinge etc then it isn’t a stretch to assume they use similar hash functionshttps://tech.okcupid.com/evaluating-perceptual-image-hashes-at-okcupid-e98a3e74aa3aI tested it against Fawkes and Fawkes doesn’t change the photo of the hash. Nor does changing the photos dimensions, flips, adding colors to it etc"
+    },
+    {
+      "author": "Face-Financial",
+      "timestamp": "",
+      "body": "Bro you’re missing stepsI’ve literally run experiments where I have 5 active face verified accounts with the same pool of previously banned images running all at the same exact time all getting varying degrees of matches"
+    },
+    {
+      "author": "Skydome12",
+      "timestamp": "",
+      "body": "I normally wouldn't have a problem with this since if you're getting banned you've done something wrong but sadly we know for a fact tinder bans people for absolutely no reason so i'm actually against this since it actually depletes your online dating chances and getting to know people irl is a bit tricky these days since a lot of shit has moved online.There really really REALLY needs to be some sort of investigation into match group since we know they charge people differently based on age which is agist we know they make men pay more for services vs women which surely should be a case for sexism/discrimination."
+    },
+    {
+      "author": "justareddituser2021",
+      "timestamp": "",
+      "body": "There really really REALLY needs to be some sort of investigation into match group since we know they charge people differently based on age which is agist we know they make men pay more for services vs women which surely should be a case for sexism/discrimination.Charging different prices based on age is perfectly legal in the US at the federal level. It may be illegal in certain states and localities, but that's not common.That's why it's legal for movie theaters, restaurants, etc. to offer senior discounts. Tinder's junior discount was no different legally. They can charge less to younger users, just like movie theaters can charge less for younger viewers or buffets can charge less for younger diners.You might not like it, but it's perfectly legal.Also, they don't make men pay more in the US. They may in other countries (not sure), but they don't in the US."
+    }
+  ]
+}

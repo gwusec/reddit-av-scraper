@@ -1,0 +1,34 @@
+{
+  "subreddit": "GMail",
+  "post_id": "19aw2ll",
+  "title": "My Moms Gmail wants verification for age",
+  "body": "My mom gmail was logged out now for about 2 days this is her personal email address. She can log in with her password then this screen pops up on her mobile phone asking to update some information like age and date of birth with a drivers license or credit card. The take action isn’t an email with a code needed but a pop up after she logs in. It then prompts to login again and confirm her phone number while at the same time she gets a recovery code that can’t be used in any text box it just forces her to try and login again. We have a laptop that might be able to get to her back into her account but I am unsure what to update or confirm.\n\nShe didn’t change her password She didn’t try log out\n\nYet her gmail is seemingly locked out completely with no way to get it back I looked through each google help page to try and find a way to get this fixed I don’t know what we are missing.",
+  "author": "KirikoSleepyBabe",
+  "comments": [
+    {
+      "author": "bkc56",
+      "timestamp": "",
+      "body": "Something happened that made Google think the account may be under-age.  They therefore have to do an age verification (you can look up COPPA requirement).For an age-disabled account, log into the account athttps://mail.google.com/and follow the directions to regain access.   The credit-card method is faster and easier.Google account recovery (age related):https://support.google.com/accounts/answer/1333913(you have to be at least 21 to do this)Age requirements:https://support.google.com/accounts/answer/1350409"
+    },
+    {
+      "author": "vsa77",
+      "timestamp": "",
+      "body": "Gmail doesn't ask for driver's license details for verification. What you are describing is a scam. Someone is attempting to steal her identity.If she really is locked out, use a device her account has been on but if at all possible NOT the one being used when her account was compromised.* ** ***You DO, however, want to be on a wifi she she connects to and uses her account on regularly.Go to the Google homepage (type it in instead of going through a link), click signin, click forgot password, go through the official recovery process.*If the only device the account was on was a laptop, pull up Windows Security, ensure all the options for malware and virus indentification are turned on, and run Windows Defender. It doesn't hurt to have a secondary option like Malwarebytes to run afterwards. Address any security issues that pop up**If the only device she has used was a phone, look up how to restart the phone in \"Safe Mode.\" This will start the phone with only the stock software, preventing any malicious programs from running.***IMPORTANT: If you decide to play it really safe, once the password is changed, login to the account on a device you know has not been compromised. You MUST do this BEFORE doing what I'm about to suggest, which is make sure backup has been turned on and was run in Photos, Drive, etc, and/or backup everything (except Downloads) to an SD card, then perform a factory reset. You'll have to search for how to do that based on the phone's model number. Once complete, set up the phone as you would normally."
+    },
+    {
+      "author": "bkc56",
+      "timestamp": "",
+      "body": "Gmail doesn't ask for driver's license details for verification.They do for AGE verification.  Driver's license or credit-card."
+    },
+    {
+      "author": "vsa77",
+      "timestamp": "",
+      "body": "I stand corrected. Google has apparently started asking people to verify their age if the user is trying to access age restricted content and it thinks the user isn't of age, the account was originally created for someone underage, and/or the user changed their birthdate on the account."
+    },
+    {
+      "author": "KirikoSleepyBabe",
+      "timestamp": "",
+      "body": "So update on that.. my mom’s boyfriend ended up factory reseting the phone and then uploaded my moms drivers license the picture is not included and the DL number is covered so I am not sure how badly this is messed up. I sort of knew this was a scam to begin with but didn’t know about the safe mode feature I will try that and see if it gets anywhere because she used two phone numbers linked recently deleted the original number as she no longer has access to that number and the newest number is some how not the primary number google asks for even though she had removed it.Knowing now she is victim of a scam really terrifies me as she uses the same email for everything (not sure about same password for everything but most likely)I really hope I can fix this for her as she only uses it on her phone but I might be too late."
+    }
+  ]
+}

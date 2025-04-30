@@ -1,0 +1,29 @@
+{
+  "subreddit": "iOSProgramming",
+  "post_id": "1dnnfud",
+  "title": "Age verification - how to implement",
+  "body": "Hey everyone, I am currenlty building an app using Xcode and swift UI and want ot have some sort of age verification step. I dont want it to be a simple datapicker but rather some process that will officially and legally verify their age. Any information on reading about/ how to implement this would be much appreciated!",
+  "author": "StrangeMonk",
+  "comments": [
+    {
+      "author": "AndyIbanez",
+      "timestamp": "",
+      "body": "This is an area that can get into the murky areas of law and you’ll have to comply with different regulations for each country your app is available in. The easiest way is to use a service dedicated to verification. I cannot speak for the costs of these services.A few include:IntegrityVeratadI have not used either."
+    },
+    {
+      "author": "cagdas",
+      "timestamp": "",
+      "body": "You need a third party id verification provider. There are different companies for different regions. One of the popular ones in Europe is :https://www.jumio.comYou can just google alternatives for your region."
+    },
+    {
+      "author": "chriswaco",
+      "timestamp": "",
+      "body": "Do you need to handle more than theApp Store age setting? The reason I ask is that if whatever service you choose gets compromised, you can be held liable. Some require state id card uploads."
+    },
+    {
+      "author": "StrangeMonk",
+      "timestamp": "",
+      "body": "Check out IDcomply."
+    }
+  ]
+}

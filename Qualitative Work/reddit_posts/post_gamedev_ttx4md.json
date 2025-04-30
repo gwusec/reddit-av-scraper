@@ -1,0 +1,54 @@
+{
+  "subreddit": "gamedev",
+  "post_id": "ttx4md",
+  "title": "Have any game devs implemented an age verification software for their game?",
+  "body": "I'm creating a game that has a gambling-type monetization for users and need to verify age through a service. Thoughts on which service I could use?",
+  "author": "lordofbitterdrinks",
+  "comments": [
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "I'm sure it also heavily depends on where you are. Gambling is strictly regulated in most places, and some areas my requite more intense verification. Definitely recommend contacting your gambling commission or whatever if you plan on implementing \"gambling-type monetization\"... EA can afford lawsuits, you might not be able to so best to cover yourself first"
+    },
+    {
+      "author": "daman4567",
+      "timestamp": "",
+      "body": "No matter what you do people will get through, you will not be held accountable as long as you put forth a reasonable effort on your part."
+    },
+    {
+      "author": "stevebromley",
+      "timestamp": "",
+      "body": "I enjoyed how Leisure Suit Larry did it - with trivia only adults would know. Here’s some examples from the first one:https://allowe.com/games/larry/tips-manuals/lsl1-age-quiz.html"
+    },
+    {
+      "author": "insanetheta",
+      "timestamp": "",
+      "body": "I work on free to play gambling apps.  We sell in game currency and that purchase can also trigger a gamble to earn more currency.  This is entirely allowed by the app stores.  So long as your rewards have no real world value, you are in the clear.  You do however need to require users to pass an age verification.  All this means in practice is asking them if they are 18 or older, and saving that to the users profile."
+    },
+    {
+      "author": "bolharr2250",
+      "timestamp": "",
+      "body": "No offense but that's such a morally bankrupt mechanic. I would highly suggest altering your monetization strategy. You're preying on people with addictive personalities for your own benefit.Here is an extremely detailed article on the very harmful effects that mechanics like this can have on people. Give it a read before you keep going down this path.https://www.gamedeveloper.com/business/chasing-the-whale-examining-the-ethics-of-free-to-play-games"
+    },
+    {
+      "author": "kyd462",
+      "timestamp": "",
+      "body": "There's always the good ol' fashion credit card verification. By default (at least in the US) you need to be at least 18 to have a credit card.I'm assuming there's some sort of virtual currency involved in your game already or there isn't much incentive to use a gambling mechanic in the first place."
+    },
+    {
+      "author": "GreenCarpetsL",
+      "timestamp": "",
+      "body": "Unless you use some kind of identification software which looks at people's passport/license, it's easier just to have term and conditions and an accept button right when the game loads including the terms underneath so that it's clear as day. Is it a perfect solution? No. However it avoids any trouble if a user under 18 decides to make an account and spend money. I wouldn't waste the extra time and money on such a feature."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "lordofbitterdrinks",
+      "timestamp": "",
+      "body": "KYC is what you’re looking for"
+    }
+  ]
+}

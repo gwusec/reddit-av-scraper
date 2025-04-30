@@ -1,0 +1,59 @@
+{
+  "subreddit": "Switzerland",
+  "post_id": "1jet5bt",
+  "title": "Age Verification for Small Online Alcohol Shop in Switzerland",
+  "body": "Hey everyone,\n\nI'm running a small online gift shop in Switzerland using WooCommerce and we sell a small amount of alcohol (maybe CHF 2000 in annual revenue). I'm trying to figure out the best way to implement legally compliant age verification for these sales.\n\nFrom what I understand,a simple \"I'm over 18\" button isn't enough(Page 2) here, and more effective methods are required. However, with our small scale, we need a solution that is as cost-effective as possible and doesn't create a huge hassle for our Swiss customers.\n\nHaving a look at other shops or in my experience nobody else is doingeffectiveage verification so far, but we're forced by the local food inspector.\n\nI've done some searching but haven't found a system that seems like a perfect fit for our needs and budget.Contracts with partners like SwissID costs over 10k (the company told us, not to use their service).\n\nHas anyone else here run a similar small online shop in Switzerland (or elsewhere with strict regulations) and found a good solution for age verification, especially with WooCommerce?",
+  "author": "JohnHue",
+  "comments": [
+    {
+      "author": "Proud-Anywhere5916",
+      "timestamp": "",
+      "body": "have them attach their ID as a photo to the order. if they don't, hold the order and send them an email saying they need to follow up with on. manually check the ID photos."
+    },
+    {
+      "author": "lidomerk",
+      "timestamp": "",
+      "body": "Then you'll need to ensure that's done in a privacy-compliant way"
+    },
+    {
+      "author": "Mediocre-Metal-1796",
+      "timestamp": "",
+      "body": "An idea: check what the competitors do. Are there similar, small volume shops? I would start there"
+    },
+    {
+      "author": "sinthorius",
+      "timestamp": "",
+      "body": "Yeah the most of them do have a button or checkbox \"im 18 years old\", or do not check it at all (ex small beer and wine stores). Some of the bigger ones them have externally digital solutions (like feldschlösschen) or custom implementation (like galaxus).Its quiet an overhead, so that we currently thinking sbout removing this category from the store. It just seems that there is no practical and budget solution for small businesses."
+    },
+    {
+      "author": "sschueller",
+      "timestamp": "",
+      "body": "I have never had to do an ID check when purchasing alcohol online from for example justdrink.ch (Feldschlösschen Getränke AG) or even hard liquor from schubiweine.chIsn't it very unlikely that someone under 18 is living alone in a household to receive such an item? Is a under 18 year old going to risk having a parent intercept their package?"
+    },
+    {
+      "author": "WenndWeischWanniMein",
+      "timestamp": "",
+      "body": "Using the posts ID check service is too expensive, only useful for phone contracts, bank accounts, etc.Letter with ID check | Identification and signature by postSwissquote, yuh, and other online banks use webcam-based ID checks. which is apparently good enough for FINMA See this white sheetfinma-rs-2016-07-20210506.pdf(the implementation is audited). Some banks use this providerOnline identification and digital signatures - fidentitybut it likely will cost the same, if not more, as the post's SwissID.Digitec/Galaxus makes it simple:https://helpcenter.digitec.ch/hc/de/articles/9879598247826-Wie-kann-ich-mein-Alter-verifizieren-lassenYou can then send the goods using signature with personal delivery (Eingeschrieben mit eigenhändiger Zustellung). Check with post how they proceed if a minor and adult with the same name lives at the same location.DHL offers the option that a package is only delivered to an adult. Costs CHF 5 extra.https://mydhl.express.dhl/content/dam/downloads/ch/de/rate-guide/service_and_rate_guide_ch_de_2025.pdf.coredownload.pdf"
+    },
+    {
+      "author": "sinthorius",
+      "timestamp": "",
+      "body": "Thanks for your response, I really appreciate it. I also think galaxus made their own custom implementation of thatPost for example only ensures that the package is delievered to the guy which shows his ID - they explicity don't check for the age (also there seems to be a big difference between authentication and age verification).Thanks for the link of DHL, will have a look at that!"
+    },
+    {
+      "author": "markus_b",
+      "timestamp": "",
+      "body": "What about limiting the payment options to credit cards, if there is alcohol involved?While debit cards have no age limit, credit cards are practically limited to >18 year olds.https://www.moneyland.ch/de/forum/kreditkarte-kinder-jugendliche-alter-schweiz-5276You need to find a cheap option accepted by your local food inspector. Some hackery around payment methods may be the best option."
+    },
+    {
+      "author": "_noel",
+      "timestamp": "",
+      "body": "Link seems blocked from Ukraine, but if you want to age-gate and use active sessions to store cookies, etc. — maybe check inr/Wordpress"
+    },
+    {
+      "author": "JohnHue",
+      "timestamp": "",
+      "body": "Idk how much it costs but there are now those KYC checks being used that take care of all of it for you, I think you just use a link to send your customers to an external page. The communication between your shop and that service seems (at first glance) fairly simple."
+    }
+  ]
+}

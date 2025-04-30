@@ -1,0 +1,19 @@
+{
+  "subreddit": "stripe",
+  "post_id": "17r14ak",
+  "title": "The date of birth you provided indicates you are under our minimum supportable age.",
+  "body": "I am signing up for Zoho CRM and attempting to link Stripe to accept invoice payments but because I am under 18 I need to add my parent's information as well, which I have done. They allow people under 18 to accept payments as long as I am 13 and can verify my identity but when I scan my Florida Learners permit it shows the error:\n\nWe cannot verify your identity\n\nThe date of birth you provided indicates you are under our minimum supportable age. Unfortunately, we cannot verify your identity.\n\nHow can I fix this or get around it? Any help is appreciated, thank you.",
+  "author": "N8TheDev",
+  "comments": [
+    {
+      "author": "Realistic_Answer_449",
+      "timestamp": "",
+      "body": "Hey there, we can confirm that the minimum age to create a Standard Stripe account is 13 years old. However, if you are under 18, a legal guardian must assume the role of owner of your account before your account can accept charges and funds can be transferred to your bank account. Also, for Express and Custom Connect accounts, the minimum age requirement is 18 years old.Please review:https://support.stripe.com/questions/age-requirement-to-create-a-stripe-accountfor details on getting started."
+    },
+    {
+      "author": "N8TheDev",
+      "timestamp": "",
+      "body": "Where can I make them the owner?"
+    }
+  ]
+}

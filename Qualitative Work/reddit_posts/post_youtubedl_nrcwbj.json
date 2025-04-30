@@ -1,0 +1,34 @@
+{
+  "subreddit": "youtubedl",
+  "post_id": "nrcwbj",
+  "title": "how to bypass age verification ?",
+  "body": "when i try to archive certain videos the log gives me this:\n\nyoutube_dl.utils.ExtractorError: Sign in to confirm your age\n\nis there any way around it or its doomed?",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "pukkandan",
+      "timestamp": "",
+      "body": "youtube-dl has already patched it in code, they just haven't made a new release yet"
+    },
+    {
+      "author": "Alemismun",
+      "timestamp": "",
+      "body": "Has there been a release since? I am gettingWARNING: unable to download video info webpage: HTTP Error 410: GoneERROR: Sign in to confirm your age"
+    },
+    {
+      "author": "rebane2001",
+      "timestamp": "",
+      "body": "There are some workaround that come and go, but you should just sign in if you want it to work well"
+    },
+    {
+      "author": "werid",
+      "timestamp": "",
+      "body": "not always that easy, esp. if you are under 18, cause I believe google requires proof now if you're in europe."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    }
+  ]
+}

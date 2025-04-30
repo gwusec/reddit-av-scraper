@@ -1,0 +1,29 @@
+{
+  "subreddit": "TOR",
+  "post_id": "1hxjulr",
+  "title": "How to bypass age restricted videos on youtube+reddit posts on tor?",
+  "body": "Hi,i've found out there are extensions for tor which are firefox extensions. The problem is whenever i try log into tor for youtube,all this weird stuff starts happening and i cant log in,same for reddit. So is there something i can do to bypass all of this age verification stuff to view videos+posts on reddit? I've tried everything basically,including tamper monkey extensions and some github ones,please help! (btw i've posted this on the FIREFOX subreddit aswell)",
+  "author": "OwO_0w0_OwO",
+  "comments": [
+    {
+      "author": "highonbelieving1",
+      "timestamp": "",
+      "body": "Use piped/invidious to bypass age gated YT videos.And try old reddit to bypass age restriction."
+    },
+    {
+      "author": "Realistic-Lunch-2914",
+      "timestamp": "",
+      "body": "The TOR network isn't fast enough for me to consider it to be broadband or that I'd use it for streaming. Reddit has it's own security on the issue."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "What are you trying to do? Because if you're trying to be anonymous you shouldn't be using clearnet accounts or trying to get around things with extensions because that's going to make you stand out. But if you're just trying to get around YouTube and Reddit restrictions, I don't think Tor is a good way to go about that."
+    },
+    {
+      "author": "OwO_0w0_OwO",
+      "timestamp": "",
+      "body": "Please don't use TOR for YouTube"
+    }
+  ]
+}

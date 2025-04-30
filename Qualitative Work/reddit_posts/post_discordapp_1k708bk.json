@@ -1,0 +1,44 @@
+{
+  "subreddit": "discordapp",
+  "post_id": "1k708bk",
+  "title": "Way to legally verify discord accounts - alt and age verification?",
+  "body": "Manage a larger server with almost 100K people. We have problems with users making alt accounts and joining back. We are afraid of them becoming moderation through our public applications. We also want to verify moderators to be 16+ when the are accepted.\n\nI know asking kids for pictures of themselves or any identification is probably illegal and sounds wrong. Is there any way you have done this or know of? A third party app that verifies their IDs for us - similar to something like LinkedIn where it verifies your name, picture, and DOB.\n\nTL;DR A third party way to make sure a discord account isn't an alt and the user is above a certain age",
+  "author": "EzStudioz",
+  "comments": [
+    {
+      "author": "Dino_rawrrrrr",
+      "timestamp": "",
+      "body": "Unless your server absolutely has to verify the age of members and has an extremely dedicated / loyal userbase, you stand to lose almost all your (new potential) members. Asking someone for their age is one thing, but requiring an ID is a huge leap just to be in a community server owned by a John Random.There's bots that can help with detecting alts, but you should seriously consider not ID checking unless you want to kill you community. You can do as part of your moderator application process though."
+    },
+    {
+      "author": "EzStudioz",
+      "timestamp": "",
+      "body": "We only want to ID check / verify users who we accept as mods."
+    },
+    {
+      "author": "IisTails",
+      "timestamp": "",
+      "body": "If you have a developer, you can integrate stripe ID verification, note there is a cost to it, $0.50 per verification iirc. There are alt detection bots but they kinda suck and are a hassle for users"
+    },
+    {
+      "author": "EzStudioz",
+      "timestamp": "",
+      "body": "Stripe is $1.50 for verification by the way. It's $0.50 to lookup an ID."
+    },
+    {
+      "author": "MILO123PROYT",
+      "timestamp": "",
+      "body": "Anti-Alt bot: DoubleCounter(.gg)For verification you could do a quick interview with the accepted candidates in a voice chat so you can approximately guess their age based on their voice."
+    },
+    {
+      "author": "Global_Sherbet_1773",
+      "timestamp": "",
+      "body": "Double Counter sucks, it's too easy to bypass"
+    },
+    {
+      "author": "EzStudioz",
+      "timestamp": "",
+      "body": "Am I able to use double counter on select users?"
+    }
+  ]
+}

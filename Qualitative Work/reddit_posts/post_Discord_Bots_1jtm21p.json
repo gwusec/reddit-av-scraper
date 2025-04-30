@@ -1,0 +1,49 @@
+{
+  "subreddit": "Discord_Bots",
+  "post_id": "1jtm21p",
+  "title": "The Worst Problem on Discord - DM Spam Bots (Owner Vent)",
+  "body": "Hello everyone,\n\nI'm an owner of a medium-sized server with 16k members. The last two years have been horrible for our members; every day, I get messages from people saying they are being spammed by scam/spam bots in their DMs.\n\nI feel like I've tried everything:\n\nI enabled maximum security settings, requiring phone verification to enter our server.\n\nI was manually banning 10-20 accounts every day from the Users tab, just by looking for suspicious usernames and default profile pictures.\n\nI purged inactive accounts from my server, reducing the member count from 16k to 3k. These were accounts that hadn't interacted in months, done as an ultimatum measure to try and clean out potential bot accounts.\n\nI've tried contacting Discord Support, but all I receive are automated messages from AIs. I attempt to reply to get human support, but without success.\n\nI created a bot that analyzes account info (based on age, profile picture, bio), gives a score, and bans the account if it doesn't meet what I consider reasonable thresholds.\n\nBut unfortunately, the problem persists. It's drastically lower now (maybe only 1-2 reports per day compared to many more before), but some users still message me saying things like, \"I'm getting messages from these random people.\" It's frustrating because when I check the Users tab, most of these reported accounts aren't flagged as spam by Discord's system – maybe only 10 out of 100 actually get flagged.\n\nThis system feels inadequate. No, I don't want to advise my members to close their DMs entirely, as that feels like a workaround, not a solution. No, I don't want members spending 30 minutes a day reporting spam bots – people have lives and better things to do.\n\nMy question is:I had an idea, though it likely goes against the ToS, but I think it could potentially fix the problem more effectively. I'm considering creating around 50 'decoy' accounts (bots). If these decoy accounts receive the same spammy message, or messages across multiple decoys, they could automatically trigger a ban for the sender on my server.\n\nHow detectable would this likely be? Would Discord take an interest in this kind of bot activity, or would they likely let it slide, since there are probably a ton of people doing similar things, and they don't seem to care? Is this technically feasible and worth the risk?\n\nWhat strategies or tools are other server owners using to combat DM spam bots that manage to join servers but aren't flagged by Discord's built-in systems?\n\nCheers!",
+  "author": "uhlunaa",
+  "comments": [
+    {
+      "author": "SwyfterThanU",
+      "timestamp": "",
+      "body": "I’m sorry you’re facing this situation, that sucks.Two things I wanted to share are:I’d personally say 1-2 spam requests seems pretty low (or tolerable) for a server of your size, I feel like there will always be some bots/suspicious members who will sneak their way in and that you just have to continue doing what you can to keep your community safeI don’t think your bot idea will work. I’m willing to bet the dm spam bot accounts can detect whether the user they are interacting with is a bot or not, and using a regular Discord account for bot activity is against their TOS. If you want to keep your account (if it’s an OG account or something), I wouldn’t risk it."
+    },
+    {
+      "author": "Comedian_Then",
+      "timestamp": "",
+      "body": "The idea would be to have regular accounts disguised, with profile, bios, basically everything setup. And then the accounts would do minimum interaction on the server, like just reacting to messages. So would be \"preferable\" for these spambots to message.I dont know what's these bot's procedure, if they select only active accounts, or they just fetch the list from people on the server and start message one by one.Yeah it drastically dropped a lot, and I built a bot that auto-bans like young accounts, no profile pic, sus name, the bot judges the account based on the profile information. The downside is it has a lot of false positives, bot has tight settings, some people message me getting banned and they dont know why."
+    },
+    {
+      "author": "DarthStarkGames",
+      "timestamp": "",
+      "body": "Botting a user account, whilst doable with the API, is strictly prohibited and will get you banned."
+    },
+    {
+      "author": "Ashley__09",
+      "timestamp": "",
+      "body": "wow ur so helpful"
+    },
+    {
+      "author": "KiritoKuroFaita",
+      "timestamp": "",
+      "body": "As you already said user bots are against the TOS. I think there is maybe a other way to do it. I will think about that and see what you could do. If you want you can dm and we can try to look further into it."
+    },
+    {
+      "author": "TheRealSethV",
+      "timestamp": "",
+      "body": "Quick question what is the joining process like for your server, any verification?"
+    },
+    {
+      "author": "poon-patrol",
+      "timestamp": "",
+      "body": "J setup a verification system for the server where there’s a hidden phrase somewhere in your rules that users have to send in a specific channel before they can view the server (there are bots that can do this but idk which ones off the top of my head)That will prevent any bots from joining your server, and if the problem persists then either your server isn’t really the problem or there’s someone doing it manually"
+    },
+    {
+      "author": "uhlunaa",
+      "timestamp": "",
+      "body": "why dont you just pause dms in the server? so people cant message each other without having them added, this way its up to the member if they want to add the bot or not. mods can still dm users, and bots can still dm users, however users cannot dm users without adding each other. this way whoever is sending bots to your server will realize it isnt working and stop, and eventually your server will stop being targeted and you can disable the pause on dms. (from personal experience in many big servers i own, this has worked) to enable it click the server drop down, click security actions, and enable “Pause DMs”"
+    }
+  ]
+}

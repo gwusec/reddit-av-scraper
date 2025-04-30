@@ -1,0 +1,59 @@
+{
+  "subreddit": "jailbreak",
+  "post_id": "10v7j59",
+  "title": "[Tutorial] List of iOS Daemons And What They Do",
+  "body": "In the summer of 2022 I compiled a list of Daemons and what they do.\n\nA lot of the info is from forums/web, a lot is from my own experimentation.\n\nEnjoy!\n\n*This list is based on iOS 12 but all Daemons should be relatively unchanged even in newer iOS versions such as iOS 16\n\n\n\nTableformattingbroughttoyoubyExcelToReddit",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "NoPriority846",
+      "timestamp": "",
+      "body": "Even tho my phone is not jailbroken, this will come in handy in the future.thx!"
+    },
+    {
+      "author": "cysxl",
+      "timestamp": "",
+      "body": "Saved !!!  Thanks for your contributions ! I have my own list for iOS 14 too to disable some useless ones."
+    },
+    {
+      "author": "Huusoku",
+      "timestamp": "",
+      "body": "Pls share list of your disabled ones, thanks!"
+    },
+    {
+      "author": "FinnishGreed",
+      "timestamp": "",
+      "body": "Awesome!  Thank you. Maybe you should share your list as well. There's not a ton of info out there ;)"
+    },
+    {
+      "author": "opa334",
+      "timestamp": "",
+      "body": "Disabling daemons will always do more harm than good, please do not disable daemons!!! When anything tries to contact a disabled daemon it will fail or deadlock and the result will be undefined behaviour."
+    },
+    {
+      "author": "sevenpastzeero",
+      "timestamp": "",
+      "body": "That is a comprehensive list. Big thanks for your effort."
+    },
+    {
+      "author": "Huusoku",
+      "timestamp": "",
+      "body": "Most excellent post OP! Instant save 👍🏼"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "Matt Daemon…Matt Daemon"
+    }
+  ]
+}

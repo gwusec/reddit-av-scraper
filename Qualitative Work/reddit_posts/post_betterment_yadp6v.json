@@ -1,0 +1,39 @@
+{
+  "subreddit": "betterment",
+  "post_id": "yadp6v",
+  "title": "Photo ID Verification Errors",
+  "body": "Has anyone else repeatedly had technical issues with the photo ID verification process? I am trying to sign up for a checking account. First I tried signing up via the website, scanning the QR code on my phone and went through the process to take photos of my license. Each time I got to the back of my ID, I got an error saying it couldn’t read the information. I repeated the process using my wife’s phone to scan the QR code and it accepted the photos, but then when I went back to the website it just said “error” with no information.\n\nI thought maybe I would have better luck doing the whole signup process natively in the iOS app, but I got the same error about not being able to read the information on the back of my ID.\n\nI have a valid California drivers license, an iPhone 14 Pro with a good camera, and I’m taking clear photos in good lighting with a dark background. I can’t imagine what I’m doing wrong.",
+  "author": "Hot-Praline7204",
+  "comments": [
+    {
+      "author": "Hot-Praline7204",
+      "timestamp": "",
+      "body": "To add further verification, my actual identity is not being rejected… the photos are being instantly/automatically rejected by the tool for being “unreadable” even though they are perfectly clear."
+    },
+    {
+      "author": "Mutombinho",
+      "timestamp": "",
+      "body": "Just a thought, maybe it’s the format of the photo ID. If it’s a jpeg or other photo format maybe a pdf version will work."
+    },
+    {
+      "author": "gmfm",
+      "timestamp": "",
+      "body": "I'm having similar problems with ID verification. The Socure site on the phone is unable to focus on the ID (not sure why, native camera app has no trouble). It ultimately rejects probably because it's blurry. Customer service sent me a link to upload a scan of my ID but it's been over a week with no response. After being burned by Axos on customer support this is giving me strong hesitation about moving money over."
+    },
+    {
+      "author": "Hot-Praline7204",
+      "timestamp": "",
+      "body": "I was finally able to verify using my passport. Still a little blurry but it must have been acceptable since there’s no barcode that needs to be read."
+    },
+    {
+      "author": "xuanling11",
+      "timestamp": "",
+      "body": "Same thing happened to me and when I successfully uploaded my verification ID, they suspended my account?! WTF?!"
+    },
+    {
+      "author": "Hot-Praline7204",
+      "timestamp": "",
+      "body": "Strongly considering moving everything to sofi just for a better technical experience."
+    }
+  ]
+}

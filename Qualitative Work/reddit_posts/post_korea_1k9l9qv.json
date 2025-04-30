@@ -1,0 +1,59 @@
+{
+  "subreddit": "korea",
+  "post_id": "1k9l9qv",
+  "title": "As a Korean living aboard, SKT’s hack might be a good thing in the long run",
+  "body": "I grew up and lived a good chunk of my adult life in Korea, but I left for work a few years back. Since then, adulting has been super difficult every time I need to do any admin work or banking that requires me to verify my identity. There were many attempts to fix this in the past (I-PIN for old timers), but they never really took on due to the convenience that an SMS OTP code offers as long as you are physically in Korea.\n\nBeing in the industry, I thought I could share some implications, and futurechanges in terms of relying this heavily on phone numbers for identity verification. If there are other folks here with more knowledge, please help update us in the comments.\n\nWhat did they grab?\n\nIt was quite hard to find out what was leaked on popular articles circulating for this as they either went too vague or only mentioned that the SKT SIM database was hacked, but I did findthis articlewhich details more on what exactly was leaked.\n\nBasically, with the info available, for unpatched users (so folks who haven’t replaced SIMs), your IMSI, MSISDN, ICCID and other encryption keys may have been leaked.\n\n2. What can someone do with this?\n\nIMSI can literally be used to track your location via cell tower connection. As you roam around the country, you are getting pinged off of cell towers of all origin (even non SKT ones), and it uses your IMSI which can now be identified and tracked to pin point your general location. Given enough triangulating, you can get pretty accurate of where someone is, almost as if they hacked your phone navigation. For most people, this is harmless, but it posses a major security risk for high profile users or when used to determine hotspot locations if someone (or let’s say an adversarial community up North) needs to find out where to target for maximum impact of their “fireworks”.\n\nMSISDN is your phone number which alone would be a serious leak. ICCID lets you port out SIMs so if anyone wanted to make copies of your number to another phone vis eSIM, it is now doable. These two allow for duplication of your phone which means they can use this to identify as you to reset passwords of pretty much every important website including banking because banking certificates can also be issued in this manner. There’s no confirmation on this but assuming the authentication keys leaked were Ki/OPc, your phone can also be cloned where it can intercept SMS/calls or even unencrypted web traffic. Stuff of spy movies.\n\n3. What should I do?\n\nThe most obvious choice is to get a new SIM, physical or eSIM. Whatever was on the database that was leaked, you need to make sure it is outdated. SKT can’t do this for you because these things need to be initiated from your phone or physically be changed.\n\nThere is also mentions of a protection service/add-on you can get for free, but that merely prevents phone number port outs and is honestly more annoying when you change carriers because you need to disable this again or the new telco won’t be able to port you in. It is a temporary fix and should not be the solution. New SIM is the only answer as of now.\n\n4. Why is this good in the long run?\n\nOur social infrastructure is super dependent on this single source of identity verification to a point where anyone not in the loop (such as myself or visiting foreigners) can’t use the bulk of our public services. Also, as proven recently, it is an outdated and insecure form of ID where a single point of failure can affect 50% of the country. We won’t move out anytime soon, but you can be assured anytime internet security is mentioned, we will look back to the SKT hack of 2025 as a reference to not do this again. We already have the PASS app (which ironically also uses phone number verification), but it is not fully adopted and in limited use, we can probably make more secure ways to identify without needing these outdated and risky methods.\n\nThere is no right answer here, but I would like to share an example. Singapore has a similar identification protocol to the PASS app, but it comes with an added measure which compares your registered face (for privacy nerds out there, the Korean government already has your face so don’t worry) to a live scan which has a host of algorithmic passes to make sure it is an actual face and not a photo, done directly on your phone app or browser. Having this additional step basically makes it harder to get through the layers of Swiss cheese if you will, even when used on top of the same SMS OTP infrastructure.\n\nIf you used separate authentication software (crypto bros rejoice), that also is a cheap and powerful way to prevent abuses like this (minus the location tracking bit).\n\nSo while it sucks that we will need to go change our SIM cards, at least this will help us convince our aging leadership to adapt modern ID protocols in the future.",
+  "author": "Mr-S-44",
+  "comments": [
+    {
+      "author": "DateMasamusubi",
+      "timestamp": "",
+      "body": "Security experts have been warning for years about the risks associated with SMS auth. And Google has finally started to move to other forms of auth verification.North Korea is viewed as a possible suspect in the SKT hack and their capabilities are progressing quickly. This will get the ball rolling on cyberdefense."
+    },
+    {
+      "author": "typeryu",
+      "timestamp": "",
+      "body": "100%, only took half the country getting hacked to finally get the conversation rolling."
+    },
+    {
+      "author": "grammaryahtzeee",
+      "timestamp": "",
+      "body": "Id just want to point out biometrics shouldn't be part of a security protocol because data breaches involving biometric information result in permanent loss—unlike passwords, biometrics can't be changed once compromised. It's no just a matter of privacy and doesn't matter the government has facial data.There's a reason many systems use hardware-level biometric keys."
+    },
+    {
+      "author": "typeryu",
+      "timestamp": "",
+      "body": "You bring up a very good question in how biometric authentication works. The way biometrics are implemented are quite fluid and not at all tied 1:1 with your actual biological state. The data points collected from the client side is converted into hashes with matching keys to validate that the user is actually there at the time of access rather than doing something sci-fi and comparing 3D models and such (this would be unsafe to store and also very expensive to do). You see this also with Apple’s face ID and pretty much all finger print, face or otherwise authentication methods. These are some of the reasons we adopt these instead of pure password or certificate based authentication systems which let’s be honest, everyones parents or grandparents are storing on some hand written notes somewhere. So in short, you don’t need to change your face, you just change the hardware key and it’s good as new."
+    },
+    {
+      "author": "OwlOfJune",
+      "timestamp": "",
+      "body": "at least this will help us convince our aging leadership to adapt modern ID protocols in the future.Lol.Lmao.They will rather die."
+    },
+    {
+      "author": "Fantastic-Goat-2593",
+      "timestamp": "",
+      "body": "at least this will help us convince our aging leadership to adapt modern ID protocols in the future.The  \"in the future\" part is funny.   How long and how much BS did it take for the powers that be to finally move away from Internet Explore, Active X etc. etc.  I still have nightmares and flashbacks."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "You know what would move this? A massive fking fine and some criminal charges for negligence. I'm sure if we stop slapping wrists, they will fix this in 6 months. We had similar cases with ship freight limits and building codes."
+    },
+    {
+      "author": "typeryu",
+      "timestamp": "",
+      "body": "You know what would move this? A massive fking fine and some criminal charges for negligence. I'm sure if we stop slapping wrists, they will fix this in 6 months. We had similar cases with ship freight limits and building codes."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "Mr-S-44",
+      "timestamp": "",
+      "body": "Kinda reminds me of the Nonghyup Bank hack 14 years ago which crashed the SQL servers and shut down services for a week. OP, were you in-country for that? I remember trying to buy a hot chocolate after class and they denied my card. It wasn't until I turned on the TV when I learned about what happened."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "subreddit": "BlockchainStartups",
+  "post_id": "zhwcx8",
+  "title": "Using blockchain to verify age, is it possible?",
+  "body": "A news article caught my attention recently -- some government reps want to ban social media for children under 18. A lot of the comments were all about, \"It's not possible, look at the UK trying to ban porn, all they did was make a mess of things.\" And people chiming in to say people would circumvent it by using VPNs.\n\nWhether or not you agree with banning certain subjects for minors, I had an idea: Could using blockchain technology achieve what these governments couldn't? I'm thinking that the tech could verify someone's age. It could be verified similar to how, when you go to a bar, sometimes they scan your ID to ensure it's legitimate. So that part of the tech exists.\n\nPeople might be wary of giving their IDs to porn sites, but what if there was a universal, trusted \"ledger\" that held this sensitive info? Websites needing age verification could simply ping this ledger to ask, is this user 18+, yes or no. They wouldn't need to get other info like name or ID number -- that would all be kept hidden. They only need to get back verification of age.\n\nOpinions, thoughts? Think this would or wouldn't work? Looking forward to discussions.",
+  "author": "magenta_mojo",
+  "comments": [
+    {
+      "author": "AutoModerator",
+      "timestamp": "",
+      "body": "Moderator AnnouncementRead More »Thanks for posting onr/BlockchainStartups!Check the TOP posts of the WEEK.CLICK HEREModeratorsofr/BlockchainStartupsI am a bot, and this action was performed automatically. Pleasecontact the moderators of this subredditif you have any questions or concerns."
+    },
+    {
+      "author": "omniumoptimus",
+      "timestamp": "",
+      "body": "Maybe.Maybe you can do a token that is issued upon ID verification by a DAO. Then have the verified person stake a bond. Then, you can whitelist the public key associated with that person. In the event of provable misuse, through a DAO-based review, the bond is forfeited.The key is having other services and agencies accept the ID verification."
+    },
+    {
+      "author": "featheredsnake",
+      "timestamp": "",
+      "body": "Not to be mean but you didn't really have an idea - you are asking for one. The meat is in the implementation, in solving the \"how\". This boils down to asking if blockchain can be used for ID verification. Blockchain in an ID system would help ensure we all agree who \"Joe Moe\" is in terms of his details (including age). It will not, however, be able to corroborate that Joe Moe is actually the person \"logging in\". That is a whole other issue. The solution for the problem you are presenting would not be on the storage side of things (blockchain, or centralized DB). The solution will have to be in the loggin in system. Something like biometrics. Anything you choose however will inevitably entered into an evolutionary competition with other technologies trying to circumvent it (but that is true of everything)"
+    },
+    {
+      "author": "magenta_mojo",
+      "timestamp": "",
+      "body": "Although verifying that it’s actually Joe Moe logging in would be great, I don’t think it’d need to be a hard and fast requirement. For example we can login to bank accounts and other sensitive data without doing that. But it would still be enough of a roadblock to discourage circumvention."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "After reading a bit about it, if AllianceBlock can actually do what they promise, it sounds exactly like what I’m talking about.I think the problem after this step is that our very elderly congress wont even fathom something like this as a solution. Perhaps it should be brought up to some of our younger congressmen. Now I’m getting ideas…"
+    },
+    {
+      "author": "magenta_mojo",
+      "timestamp": "",
+      "body": "After reading a bit about it, if AllianceBlock can actually do what they promise, it sounds exactly like what I’m talking about.I think the problem after this step is that our very elderly congress wont even fathom something like this as a solution. Perhaps it should be brought up to some of our younger congressmen. Now I’m getting ideas…"
+    },
+    {
+      "author": "shardblaster",
+      "timestamp": "",
+      "body": "Wouldn't Soulbound Token do such a thing?"
+    },
+    {
+      "author": "magenta_mojo",
+      "timestamp": "",
+      "body": "I have no idea, I’ll look it up though. Thanks"
+    }
+  ]
+}

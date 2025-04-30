@@ -1,0 +1,29 @@
+{
+  "subreddit": "PiNetwork",
+  "post_id": "l16q2i",
+  "title": "What info does Yoti send to Pi network for KYC?",
+  "body": "As the title says. Is there a way to know what information is sent by Yoti? Does pi network only require to validate you as a real human or does it request other sensitive information saved on Yoti.\n\nIf it's the former then it would be OK, but if it's the latter it exposes personal information and I'm not sold on it.\n\nDid someone pass KYC and could enlighten me on the matter?",
+  "author": "119748000",
+  "comments": [
+    {
+      "author": "glebary",
+      "timestamp": "",
+      "body": "I had the same question a while ago when trying to pass KYC. After doing a bit of digging, it turns out that Yoti only sends a confirmation to Pi that you are indeed a real and unique individual. Nothing else. Your sensitive information is safe."
+    },
+    {
+      "author": "ZinnieGaming",
+      "timestamp": "",
+      "body": "I would not personally trust any company, that being Yoti or the PI team with pictures of my ID.No other Cryptocurrency requires KYC, they could have easily waited with it until PI got added to Exchanges and let the Exchanges handle KYC like they do with other forms of crypto."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "119748000",
+      "timestamp": "",
+      "body": "What info does YOTI to Pi network for KYC? Thank you for your time."
+    }
+  ]
+}

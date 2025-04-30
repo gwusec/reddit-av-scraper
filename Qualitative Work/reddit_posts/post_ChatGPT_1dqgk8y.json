@@ -1,0 +1,54 @@
+{
+  "subreddit": "ChatGPT",
+  "post_id": "1dqgk8y",
+  "title": "Age Verification Doesn't Work For My Account, Any Help?",
+  "body": "I couldn't find a question flair, so sorry if i used the wrong flair.\n\nI live in Italy and chatGPT here requires age verification. I tried MULTIPLE TIMES across the last SIX MONTHS to verify my account but i just can't make it work in any way. Every time the whole procedure goes smoothly but once it redirects me to openAI site, it says \"sit tight, we're working...\" and then \"oops...sorry, it didn't work, try again later\".\n\nJust to add, I'm 20 years old, I can legally use chatGPT in my country\n\nI tried the following:\n\nCredit Card verification: they take and give back the 30 cents, but it always fails at the end like i said before.\n\nDocument Verification (Using \"average\" quality webcam): I'm able to scan both sides of my document and my face, but it always fails at the end after returning to openAI.\n\nDocument Verification (High quality image from files, face scan with webcam): same exact thing as before.\n\nI tried these on my usual browser with a lot of extensions, without extensions, from a completally different device with and without extensions both from Chrome and Firefox.\n\nI've basically given up on verifying my account, i just straight up can't make it work in any way. I already tried last year but gave up quickly and just resorted on doing another account when it didn't work, sadly i don't have a whole free week to spend fixing this problem by contacting support (they don't answer lol), so i would like the procedure to work like it's supposed to, if it's not to much to ask :).\n\nAny help is appreciated!",
+  "author": "Puzzled-Addition-399",
+  "comments": [
+    {
+      "author": "AutoModerator",
+      "timestamp": "",
+      "body": "Moderator AnnouncementRead More »Heyu/maxpantera!If your post is a screenshot of a ChatGPT conversation, please reply to this message with theconversation linkor prompt.If your post is a DALL-E 3 image post, please reply with the prompt used to make this image.Consider joining ourpublic discord server! We have free bots with GPT-4 (with vision), image generators, and more!🤖Note: For any ChatGPT-related concerns, emailsupport@openai.comI am a bot, and this action was performed automatically. Pleasecontact the moderators of this subredditif you have any questions or concerns."
+    },
+    {
+      "author": "erwood2022",
+      "timestamp": "",
+      "body": "Stesso identico problema! Ho provato sia con il riconoscimento facciale, sia con il caricamento del documento, ma mi rimanda sempre alla pagina di Yoti in cui devo scegliere il metodo! E ogni volta che entro su ChatGPT, mi chiede di nuovo di verificare l’età! Ovviamente, nel frattempo, proprio oggi, il mio account è stato bloccato!Avevo provato a contattare sia l’assistenza di Yoti che di OpenAI, e per adesso nessuno è stato capace di aiutarmi, mi hanno dato solo risposte inutili. Prima di tutto, Yoti dice che non è un suo problema e che mi devo rivolgere a OpenAI. Ho provato a insistere dicendo però che è comunque un bug che riscontrano molti utenti italiani, e che comunque è il loro sistema (quello di Yoti) ad essere integrato in questa verifica dell’età, quindi dovrebbero cercare di risolvere il problema insieme ad OpenAI. Mi hanno comunque consigliato di ripulire cronologia, cookie e cache, provare da una scheda in incognito, provare da un diverso browser, ma non ho risolto nulla.Ho contattato (di nuovo) l'assistenza OpenAI e, ora che il mio account è stato bloccato (a cose fatte, quindi!) mi chiedono di andare su Stripe (mi hanno mandato un link) e di scansionare un mio documento per la verifica, che sarà fatta entro 3 giorni... Non mi va molto di caricare i miei documenti su una piattaforma esterna, vorrei evitare! Anche perché prima mi danno la possibilità di verificare la mia età tramite un semplice riconoscimento facciale (Yoti), metodo che preferisco perché non voglio caricare i miei documenti, la procedura non funziona, e devo essere costretta a inviare dei documenti? No, grazie!Il problema è che ho provato a creare un nuovo account da un'altra email, come fanno molti, ma è come se mi riconoscesse come stesso utente, nonostante sia una diversa email! Ho provato anche da un account gmail, tramite la navigazione in incognito, ma riconoscono l'indirizzo IP! Come avete fatto voi, a creare altri account?? Grazie!"
+    },
+    {
+      "author": "Particular-Map6275",
+      "timestamp": "",
+      "body": "nemmeno la loro verifica tramite stripe pare funzionare.. ci ho provato ma nulla. già un account è stato fatto fuori, ora ne uso un altro. dopo ciò non penso userò ancora chatgpt fin quando non metteranno a posto questo problema. tanta intelligenza artificiale e poi si rivelano una “deficienza” artificiale per due documenti"
+    },
+    {
+      "author": "Particular-Map6275",
+      "timestamp": "",
+      "body": "hanno sistemato tutto, ho effettuato la verifica in questo momento con il riconoscimento facciale (no documenti) e al posto di andare in loop come faceva precedentemente, adesso mi riporta alla pagina di “thanks for your verification, close this window”"
+    },
+    {
+      "author": "Loud-Cloud3725",
+      "timestamp": "",
+      "body": "Me too, also from Italy. I tried to contact openAi assistance and they said this:''Hi there, Thanks for reaching out! We sometimes need extra information to make sure our users are eligible to use our services due to legal requirements. If you've been asked to confirm that you are old enough to use our services:Due to legal requirements, users who sign up from Italy have 60 days to prove that they are old enough to use our services. Your account will be disabled if you do not complete age verification. To confirm your age, please sign intoChatGPTthrough a web browser (not our mobile app). You should see a banner asking you to verify your age. To understand why we need to verify your age, please seethis help article. If your account was already deactivated:We will need to confirm that you are old enough to use ChatGPT. If you are 18 years or older, please complete document verification by following this link:https://verify.stripe.com/v/dR62c5bPSfj56u4bII. Please use the same email address associated with your account. If you signed up using Apple Private Relay, please use the private relay address. If you are between the ages of 13 and 17, please have your parent or guardian complete document verification by following this link:https://verify.stripe.com/v/dR62c5bPSfj56u4bII. Your parent should still submit with your email address so that we can tell they are submitting their documents for you. We aim to reactivate accounts within 3 business days of verification being completed. Please note, you will not receive a separate notification once your account is reactivated. We recommend checking your account status by attempting to log in after a few days. If you've been asked to provide more information to sign-up for an OpenAI account:Applicable law prevents us from providing services to certain individuals and organizations. Based on the information you provided during sign-up, we needed to verify that you are eligible to use our services. You can verify your eligibility by signing into your OpenAI account, clicking \"Begin verifying,\" and providing a copy of your government ID. If you encounter any issues, please let us know. We're here to help. We unfortunately are unable to provide any exceptions to these processes. Best,OpenAI Team''I tried all of those things but nothing, stripe worked but still chat gpt's still popping the message asking for age verification.Anyone solved this issue?"
+    },
+    {
+      "author": "creepsweep",
+      "timestamp": "",
+      "body": "VPN to a different country? Also why is it age restricted??"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "divinestrength",
+      "timestamp": "",
+      "body": "same problem here, in Italy"
+    },
+    {
+      "author": "Puzzled-Addition-399",
+      "timestamp": "",
+      "body": "I still have the same problem and I've been trying for 35 days. I'm also from Italy."
+    }
+  ]
+}

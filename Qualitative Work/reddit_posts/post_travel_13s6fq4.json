@@ -1,0 +1,59 @@
+{
+  "subreddit": "travel",
+  "post_id": "13s6fq4",
+  "title": "Ryanair boarding pass blocked due to \"customer-verification\", which is not working",
+  "body": "Edit: I called support, they navigated me to alternative verification page that worked\n\nI have booked a flight from Vienna to Palma-Majorka via Kiwi. Few days later, an email comes from Kiwi that I need to\n\n\"Complete your ID verification and check in online with Ryanair\"\n\nand that\n\n\"Ryanair has introduced a new ID verification requirement that travelers must complete themselves before the check-in process. \"\n\nbut when I go to the Ryanair verification page, which points me to this linkhttps://onlineform.ryanair.com/en/en/customer-verification\n\nI enter basic details, then it prompts me to log in or sign up (there is no other option). When I click any of those, it throws me back to Ryanair page and throws 404 error\n\nI have tried to do this for 2 days now, same issue\n\nI have tried several browsers, same issue\n\nPlease, can anybody help? Have somebody encountered the same issue?\n\n\n\nhttps://preview.redd.it/it3lls9l662b1.png?width=661&format=png&auto=webp&v=enabled&s=1382c47f44efcb114856a44808e238b9614792d1\n\nhttps://preview.redd.it/m6lqrmuq662b1.png?width=1146&format=png&auto=webp&v=enabled&s=f5c7120f26cfcc1ebe16117fa2a4c44571d3172e\n\nhttps://preview.redd.it/9yy2wu2y662b1.png?width=2893&format=png&auto=webp&v=enabled&s=ac82f62d794c0d82200f5ef5f7bb019a0a4a8f57",
+  "author": "Tosques",
+  "comments": [
+    {
+      "author": "Clank75",
+      "timestamp": "",
+      "body": "Kiwi 🤦"
+    },
+    {
+      "author": "pdebarra",
+      "timestamp": "",
+      "body": "It's not Kiwi. It's Ryanair. A travel agent was telling me about it the other day. They just hate people booking through third parties for some reason."
+    },
+    {
+      "author": "Pink_CzLady",
+      "timestamp": "",
+      "body": "It’s not kiwi. Not that I recommend booking through third parties. I just got the same email last night and I booked on Ryanair app.  It’s a known problem. You can’t escape it"
+    },
+    {
+      "author": "Paintingsosmooth",
+      "timestamp": "",
+      "body": "If you make an account, not through those links, but directly with Ryanair then you can find yourself on that flight after by typing in your surname and probably a number that kiwi will have given you on your booking receipt."
+    },
+    {
+      "author": "Wrymn",
+      "timestamp": "",
+      "body": "This does not work as well, I already had an account with the same email, and if I go to Ryanair site and try to find the booking with my mail and booking number, it just says:We’re sorry, we cannot find your booking. Please ensure your email and reservation number are correct.but they are correct..."
+    },
+    {
+      "author": "tofiktravels",
+      "timestamp": "",
+      "body": "Kiwi has fucked me over many times… their ryanair flights do not show up on ryanair app and kiwi’s customer support is a joke"
+    },
+    {
+      "author": "pdebarra",
+      "timestamp": "",
+      "body": "I have the same issue. Even when I log in and then click on the link to the \"verification\" page, I encounter exactly the same problem. I'm trying to avoid calling the help centre..."
+    },
+    {
+      "author": "httpells",
+      "timestamp": "",
+      "body": "I had this issue the morning before my flight, as that was when the check-ins opened. I had booked with Last Minute for Ryanair flights, and during the referral check-in, I was hit with the Ryanair verification page. It turned out to be because of the way they formatted the names. Here's how to find out what is correct:On your last minute \"Remember to check in for your xxx\" email, find their generated email looks something likejohn7@leo.doe(dot)bookingease(dot)xxxCopy it from that email. exampleFirst name and surname: John LoeLast: doeMine had spaces instead of hyphens, etc.I hope this helped."
+    },
+    {
+      "author": "pdebarra",
+      "timestamp": "",
+      "body": "Try in another language. It just worked for me in German."
+    },
+    {
+      "author": "Tosques",
+      "timestamp": "",
+      "body": "Hi, for me it just says at the very end \"Could not send your request\", anyone is having the same problem?Ryanair support just tells me to try again, I already tried all the browsers in normal and incognito mode, using my phone, using mobile data, wifi, even VPN.Tried also the live verification and the standard one but stills the same...And they say its my fault and that they can't do anything.Any help? :'("
+    }
+  ]
+}

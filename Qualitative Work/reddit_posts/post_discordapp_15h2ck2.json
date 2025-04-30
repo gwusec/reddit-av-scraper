@@ -1,0 +1,59 @@
+{
+  "subreddit": "discordapp",
+  "post_id": "15h2ck2",
+  "title": "Is restorecord trustable?",
+  "body": "My post keeps getting deleted without any infirmation/warn given, so i will post a screenshot",
+  "author": "RedditUserPotato",
+  "comments": [
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "By and large, any bot with the ability to join servers for you shouldn't really be trusted. Browse the support forums and you'll find a huge population of users that had their accounts disabled for violating ToS and it goes back to this issue. It's probably the second most common cause for account bans aside from age verification."
+    },
+    {
+      "author": "Splatoonkindaguy",
+      "timestamp": "",
+      "body": "They honestly should just remove this permission unless they get explicit approval for each server or something"
+    },
+    {
+      "author": "RedditUserPotato",
+      "timestamp": "",
+      "body": "ty for telling me that"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "Hotair10",
+      "timestamp": "",
+      "body": "What kind of servers are you joining if you expect the server itself to get banned?...."
+    },
+    {
+      "author": "A-Dilophosaurus",
+      "timestamp": "",
+      "body": "ExactlyRestorecord isn't inherently bad but it's rarely used for good"
+    },
+    {
+      "author": "ryry013",
+      "timestamp": "",
+      "body": "I have never heard of this bot and I don't know anything about it so I'll defer to others on that, but one note on the point about your IP getting revealed, just from a bot standpoint or Discord server standpoint, there is no way to get the IP of a user.However, by going to their website, which you mentioned you did, that gives them your IP. Otherwise, everything from Discord is routed through Discord; no personal data is sent."
+    },
+    {
+      "author": "Skripp0",
+      "timestamp": "",
+      "body": "When you went to the restorecord site and performed the verification, they were in the backend able to link your IP to your discord username. This would need to be done outside the discord api."
+    },
+    {
+      "author": "i_need_good_name",
+      "timestamp": "",
+      "body": "RestoreCord gives the server owner your IP when you verify."
+    },
+    {
+      "author": "RedditUserPotato",
+      "timestamp": "",
+      "body": "Yo, are you sure about that?"
+    }
+  ]
+}

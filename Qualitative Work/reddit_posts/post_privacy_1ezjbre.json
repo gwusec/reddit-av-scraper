@@ -1,0 +1,59 @@
+{
+  "subreddit": "privacy",
+  "post_id": "1ezjbre",
+  "title": "Bypassing youtube's age verification",
+  "body": "I'm sure ya'll have experienced youtubes threats for money.. Can't have an ad-blocker anymore without it disabling my videos. Anyways that's another topic. Right now, does anyone know how to bypass youtubes age verification (with extensions, plugins or other ways) on certain videos. Seriously, I don't want this E-Corp to have my credit card information, or the picture of my ID card.(Even though it problally has alot more about me than I know. But that's problally.. ). If theres any way. Let me know. Much appreciation.",
+  "author": "OnlySmeIIz",
+  "comments": [
+    {
+      "author": "forlaine",
+      "timestamp": "",
+      "body": "There's a script called \"Simple YouTube Age Restriction Bypass\" and it works very well (on my desktop). I don't know which browser you use but I use Brave and have no ads and can watch YT just fine."
+    },
+    {
+      "author": "One_Panic_374",
+      "timestamp": "",
+      "body": "Works on any browser where you can install a userscript manager"
+    },
+    {
+      "author": "auxbh",
+      "timestamp": "",
+      "body": "On a web browser you can use an Indivious instance to bypass the age restriction. If you're on Android you can also use the NewPipe app."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "privatekidgamer",
+      "timestamp": "",
+      "body": "Both got patched due to a youtube api change"
+    },
+    {
+      "author": "thereal0ri_",
+      "timestamp": "",
+      "body": "I'd recommend GrayJay over NewPipe."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "When the fuck has YouTube ever asked you for credit card information to watch a video?"
+    },
+    {
+      "author": "NeoScriptV5",
+      "timestamp": "",
+      "body": "You can verify ur age with many methods in youtube: one of them is credit card."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "You can put nsfw before the actual youtube link like thishttps://www.youtube.com/watch?v=SFOjVyLqVjghttps://www.nsfwyoutube.com/watch?v=SFOjVyLqVjg"
+    },
+    {
+      "author": "OnlySmeIIz",
+      "timestamp": "",
+      "body": "You can put nsfw before the actual youtube link like thishttps://www.youtube.com/watch?v=SFOjVyLqVjghttps://www.nsfwyoutube.com/watch?v=SFOjVyLqVjg"
+    }
+  ]
+}

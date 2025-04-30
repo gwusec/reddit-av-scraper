@@ -1,0 +1,14 @@
+{
+  "subreddit": "SideProject",
+  "post_id": "18r2t2q",
+  "title": "Captcha for Age Verification, verifying someone age range without ID-ing online",
+  "body": "The title is the product,\n\nThe same way sites use captcha for bot detection following that same philosophy to \"determine\" ones age. The idea spawned from the lack of actual protection \"are you over 18, click here\" has. The way I envision is it, is taking a lot of the metadata of a user, ie location, device, etc, and then asking them 2-3 questions to \"generate a quiz\". also works in reverse of blocking kids from adult sites and blocking adults from kid spaces. The end user will be gambling, adult sites, but ideally based on user usage other use cases will be generated.\n\n\n\nThe product:\n\nCaptcha like age verification\n\n- Asks user 2-3 questions -> generates a quiz/test -> returns a confidence rating if a user in an explicit age range(<5 years) -> the can use that rating to block access or parts of the site. With an error margin of 10-20%",
+  "author": "JouniFlemming",
+  "comments": [
+    {
+      "author": "JouniFlemming",
+      "timestamp": "",
+      "body": "As far as I can tell, there are two potential use cases:Platform and gaming type websites that do not want children under 13 years to use the service,Adult content websites that do not want anyone under 18 years old to use the service.While on the surface this value proposition seems valid, you need to take into account the difference between what companies say they want, and what they actually want.For example, Facebook says it does not allow children under the age of 13 to use their platform, yet internal documents have revealed that they actively tried to get children under 13 years old to use the service.I think I don't even need to go explain how adult content websites do not really care whether you are 16 year old or 18 when you view their content.Which brings us finally to my point: I don't think there is demand for this. Companies will say they want one thing, but in reality they often act in different way. And this is, I believe, one very clear case of that.I doubt any major companies would want to use this. Especially if there is an error margin of 10-20%. Imagine being startup company and you pitch them to pay you money in order for them to potentially lose up to 20% of their new user growth. Who is going to pay for that? No one.While this sounds like an interesting idea and also an interesting tech demo, I don't think this is a viable product."
+    }
+  ]
+}

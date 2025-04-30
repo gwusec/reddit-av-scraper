@@ -1,0 +1,49 @@
+{
+  "subreddit": "CloudResearchConnect",
+  "post_id": "11hzrfd",
+  "title": "The ID Verification in \"about you\"",
+  "body": "The ID verification is ridiculous if your fine being paid with paypal- which I am. When you open a paypal account they already do strict verification to be a verified user of paypal-linked bank account and linked credit card as well as social security number. To have to send all this info to yet another company over the internet for \"priority\" notifications for surveys from Cloud I find totally invasive if your fine being paid out to paypal. Paypal already verifies ALL your info-including SS number! If you go into Stripes faq-they collect your SS number,ect  when they scan your govt ID.",
+  "author": "remoteworker9",
+  "comments": [
+    {
+      "author": "jherara",
+      "timestamp": "",
+      "body": "What I find more interesting is how this goes directly against what I was told after I read in the privacy details that CR would be sharing things like names, addresses, etc. with their partners. The response I received from support on 11/9/22 is below:\"2. When creating the account we only receive your email. We do not collect personal information like your name, address, etc. When you take a survey posted by a researcher they will make it clear if this personal information is required from you to take the survey. This personal information would then be collected on behalf of the researcher as we do not receive their survey data in any way. You can decide not to take a survey if it asks you to provide them with something like your name, address, zip code, etc.\"So, it would seem that they've changed the terms of service. It would have been nice to have received an email alerting everyone of that change. But, of course, that now begs the questions: Who will be allowed access to the details shared when verifying identity? Personally, I don't agree with pain-point incentivization. Either they need everyone to verify or they don't. If they don't, then why are they prioritizing those who do above those who don't feel comfortable with yet another online company or site having personal details to share with just about anyone, per the terms of service?"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "They're not directly receiving the details of your ID. They're partnering with Stripe. Stripe does the ID verification, and just tells Cloud Research whether it was successful or not. Stripe doesn't transmit any of the data from the ID verification to Cloud Research."
+    },
+    {
+      "author": "WyldBlu",
+      "timestamp": "",
+      "body": "Totally agree with you here. I am FINE with getting paid via Paypal. I am NOT comfortable at all, with sending my ID verification to a company for priority notifications. Does this mean that if we DON'T verify ID, we will start missing out on HITS? I mean, isn't that why we keep up all our \"About You\" questions updated?"
+    },
+    {
+      "author": "AccomplishedFee7253",
+      "timestamp": "",
+      "body": "It is totally ridiculous! In order to have a verified paypal account they have ALL this info already"
+    },
+    {
+      "author": "WyldBlu",
+      "timestamp": "",
+      "body": "Just received this, in regards to me email to their CS regarding this new \"requirement\".\"Hi,Thanks for reaching out!While we value and look for ways to strengthen and maintain the quality of data on Connect, confirming your identity at this time is a completely optional step. Participants who do not complete this verification can still cash out to their linked PayPal account and take our surveys. By verifying your ID, participants can experience additional features on Connect, such as the ability to cash out your funds via Amazon Gift cards. It will potentially also allow you to be prioritized for future projects. We use Stripe technology to perform this identity check, which is one of the leading and highly secured platforms in the industry. Please also note that Connect/CloudResearch DOES NOT collect any personal information from this identification process.To learn more about Stripe Identity, click here:https://support.stripe.com/questions/managing-your-id-verification-information\""
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "Kitchen-Loquat6604",
+      "timestamp": "",
+      "body": "Okay, I'm confused. I've been reading about this new ID requirement but I haven't been asked for it. I did get a bunch of new About You questions the last couple of days but nothing about ID verification"
+    },
+    {
+      "author": "remoteworker9",
+      "timestamp": "",
+      "body": "I don’t mind getting verified, I did that with Testable Minds (joined Prolific early enough that I didn’t have to). I just won’t ever be opting for Amazon gift cards. I’m completely happy with PayPal."
+    }
+  ]
+}

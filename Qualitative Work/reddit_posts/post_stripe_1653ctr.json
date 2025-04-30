@@ -1,0 +1,19 @@
+{
+  "subreddit": "stripe",
+  "post_id": "1653ctr",
+  "title": "So I don't have any form of accepted ID verification",
+  "body": "I am 16 and I want to open a stripe account, but it says I need either a driver's license, passport, or identity card, which none of these I have. Any help?",
+  "author": "rootdet",
+  "comments": [
+    {
+      "author": "AsliReddington",
+      "timestamp": "",
+      "body": "So get a passport what's the problem?"
+    },
+    {
+      "author": "rootdet",
+      "timestamp": "",
+      "body": "\"If you are a sole proprietor, and you are not old enough to enter into a contract on your own behalf (which is commonly but not always 18 years old), but you are 13 years old or older, your Representative must be your parent or legal guardian. If you are a legal entity that is owned, directly or indirectly, by an individual who is not old enough to enter into a contract on their own behalf, but the individual is 13 years old or older, your Representative must obtain the consent of either your board or an authorized officer. The approving board, authorized officer, parent or legal guardian is responsible to Stripe and is legally bound to this Agreement as if it had agreed to this Agreement itself. You must not use the Services if you are under 13 years of age.\"Your likely not old enough, stripe will close the account. So you likely need to go talk to your parents."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "subreddit": "shopify",
+  "post_id": "1fzzspg",
+  "title": "Looking for ID verification apps",
+  "body": "Hi everyone! I'm working on creating a website for a liquor store. The store wants to move away from using DoorDash and has a small customer base that already uses online delivery. To better target these customers, they’re considering using Shopify, which allows for local delivery and online pickup.\n\nI’m looking for an app that can help verify customers’ age by allowing them to upload their driver's license. I found one app called Real ID ‑ ID Verification, but it costs $99.99 per month, which seems a bit steep. I haven’t had much luck finding other options.\n\nDoes anyone have any recommendations?",
+  "author": "ecom_ryan",
+  "comments": [
+    {
+      "author": "AutoModerator",
+      "timestamp": "",
+      "body": "Moderator AnnouncementRead More »To keep this community relevant to the Shopify community, store reviews and external blog links will be removed. Users soliciting sales or services in any form will result in a permanent ban.I am a bot, and this action was performed automatically. Pleasecontact the moderators of this subredditif you have any questions or concerns."
+    },
+    {
+      "author": "ecom_ryan",
+      "timestamp": "",
+      "body": "Real ID is no joke and worth every penny. We use it for a client store that processes thousands of age restricted orders each month and it’s completely automated and highly customizable. Our industry is vape and tobacco.Once you get it set up—we trigger it after a new customer checks out—it’s painfully simple. And you can do a lot with the data, such as control what customers see/do not see based on their verification status. Best of all none of the data is stored by you, or Shopify. It’s all securely stored on the Real ID servers using bank-level encryption technology.If you have any questions about your specific use case.c don’t hesitate to reach out to Dylan via their support form on their website. He’s probably the best example of a hands-on developer that actually cares about his product and his customers.Feel free to ask me any questions, I know this app inside and out."
+    }
+  ]
+}

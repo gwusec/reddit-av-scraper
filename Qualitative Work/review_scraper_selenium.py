@@ -19,7 +19,7 @@ options.add_argument("--window-size=1920,1080")
 driver = uc.Chrome(options=options)
 
 # --- Output folder ---
-output_dir = os.path.join(os.path.dirname(__file__), "reddit_posts")
+output_dir = os.path.join(os.path.dirname(__file__), "reddit_posts_new")
 os.makedirs(output_dir, exist_ok=True)
 
 def extract_post_id(url):

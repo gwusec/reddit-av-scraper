@@ -1,0 +1,59 @@
+{
+  "subreddit": "privacy",
+  "post_id": "z4r77a",
+  "title": "Google Family Link 13yr old age policy to detach from parental supervision without permission but then asking the child account to prove their age using government ID or the 13yr olds credit cards. r/Google auto deleted my post and upon review, refused to reverse the decision and answer my question.",
+  "body": "So I tried to post this in much simpler terms onr/googlebut their automoderator said this is a support issue and deleted my post. I asked for review twice to get them to tell me how they expect this process to work but my \"appeal\" was denied. This is my last post to their subreddit...\n\nI had a 12 year old kid with a \"supervised\" account. My kid turned 13 and Google told him that he can be free of supervision without consent from me. Ok... o.0 Now Google is asking my 13 year old adult for his credit card or government issued ID to keep his Google account from getting deleted????\n\nThis is actually giving me brain worms but as I break this out keep in mind that my biggest concern is the email from Google  essentially trying to confirm his age or have his account deleted and the email was sent to my 13 year oldkidadult (per Google) and to me as the recovery account email which should not be confused with me being included because I was the supervising \"parent\" account.\n\nHere is the ridiculous email. Take note of that first section pointing out I am only getting this email because I was listed as a recovery address.https://i.imgur.com/GJMVF5I.jpg\n\nhttps://preview.redd.it/zwa3gnp3v6z91.png?width=1440&format=png&auto=webp&s=07d2bd3fccae7183c9e5a15e94cfc9d2e6898bca\n\n\n\nSo let me understand this logic tree\n\nI have a child and will be responsible for them until the age of 18 when he becomes an adult by the US definition.\n\nI create a \"child\" Gmail account which is supervised by my account using Google Family Link.\n\nI give some basic limits to my kids device like no dirty browsing, can't play games at 11pm on a school night, etc.\n\nKids don't like rules so he lays fuming mad in his bed every night wanting to play games at midnight but freaking Dad is a warden!\n\nKids age and this one turns 13 years old. #TeenagersRock\n\nGoogle has decided that at the mature age of 13 that the child account is presented with an option, not the parent account, the child account. The question they present is do you want to stay supervised and ruled by the parent account under Family Link as you have been or do you want to detach from Family Link and be unsupervised without restriction.\n\nHonestly this is Google's policies and I'm using their product so I agree to the terms although I wouldn't like it, if this is as far as it went then fine. I would either deal with it or not use their services, ok. Do I think they are completely stupid and irresponsible? Yes. Do I like to ask rhetorical questions? Also yes.\n\nMy 13 year old who is legally defined in the US as a minor and Google defined in the US as a big-boy gets an email from Google saying that he needs to confirm his age by providing his credit card or government issued ID. 9..........\n\nOkay, so I don't think Google realizes that a 13 year old can't have a credit card. That is illegal and they could not obtain one. Remember, it's not asking me for my credit card, I didn't get the email, it is his email, I just got a copy as the recovery account. So he can't have a credit card to submit so onto the other option, a government issued ID. Interestingly enough, my 13 year old sons parent, me, recognizes the importance of the only 3 government IDs that a 13 year old can have so naturally I don't let him keep his birth certificate, social security card, or passport under the Gatorade bottle and chip bag on his nightstand. I keep these immensely important documents in a safe because the only time he will need them is at major milestones or required things like school registration (government), getting a driver's license at the DMV (government), a loan for a car later on (financial), travelling out of the country (government), etc.\n\nWhy is a private advertising and services company asking a legally defined minor to give the most sensitive documents to them to prove his age? He could create an account right now and just lie about his age saying he is 30 and Google would let that account be created. They don't ask everyone to submit proof of age. In fact the only reason they know he is a \"child' is because I created a child account for him years ago. If they are going to believe that I would only create a child account for my child then why wouldn't they believe the age I entered was correct? After all, I could easily create an account right now for my 10 year old saying he was born 2 days ago and get 12 more years of control over my kids account until he is22 years old13 years old.\n\nYou are out of line Google. Your policy allowing kids with a defined \"supervised\" account to have freedom from their legal guardian at 13 years old is inappropriate and sets kids up for so many risks from a trivial level to the most serious things like being groomed or bullied in communication channels they would not have had so easily accessible and definitely not off the radar. Even worse, you are threatening account deletion to a minor unless they get access to things they shouldn't need to or swipe a card number from their parents or sneak a birth certificate. You don't need those sensitive documents. You don't need to confirm their age especially when you guys are the ones that made age an arbitrary fork in the road anyways. You realize that adult content websites have to legally ask for you to confirm you are 18 in some states or they risk legal action against them in the event a minor accessed it without confirming they are 18. They face real legal consequences regarding minors and they still don't pry as much as you guys. They just ask for a button click, you guys are asking for things that no private data company should ask for. You aren't facing jail time or financial turmoil because a 12 year old kid turns 13 or a 13 year old kid created a Gmail account. So why do they do a button click but you want their most sensitive data?\n\nI'm not sure I understand. By that I mean that I understand that it's not understandable because it's not logical.\n\nI would love to have an explanation on how Google believes these policies are appropriate and the ends justify the means.\n\nHow does Google not see the flaws in these policies from a privacy standpoint?",
+  "author": "centaursg",
+  "comments": [
+    {
+      "author": "APVoid",
+      "timestamp": "",
+      "body": "I fully understand what you are getting at and have been frustrated with Google's family link deciding when my child gets to have phone privileges without my consent at the age of 13.I understand that some children could be in unhealthy controlling situations with helicopter parents but also their are parents like my wife and I who have a child that has mental health issues and could be a danger to themselves and is easily triggered by the Internet.We are not control freaks, having a phone is a safety precaution.  The problem is that parenting decisions should be my wife and I's concern and not something we should be forced to co-parent with Google."
+    },
+    {
+      "author": "sole_sista",
+      "timestamp": "",
+      "body": "Ok I’m going to speak about this from a data protection perspective without getting into anything else here.Under US law there is something called “COPPA.”COPPA imposes certain requirements on operators of websites or online services directed to children under 13 years of age, and on operators of other websites or online services that have actual knowledge that they are collecting personal information online from a child under 13 years of age.While your child is a minor in the broad sense - there is a material change in the protections that businesses like Google are obliged to apply when a child “ages out” to 13. That is why Google is contacting you. This is also why if you read the terms of service for many online companies they will prohibit anyone under 13 using them - it’s much more expensive and complex to comply with COPPA than to simply exclude that age group. And as you can see here users get confused by the sudden email and requirements posed to them.In relation to the ID - one of the difficulties with COPPA is that, as you can see above, an organisation must be reasonably sure (such that they can evidence to a regulator) that an individual is over that age for COPPA NOT to apply. Standard practice for age verification (as well as often, individual controlling their data and account) under data protection guidance is collection of some form of IDs.Many companies will basically take the compliance risk but refuse to collect ID - generally, this is to do with the size of the business (again resource, money), and the fact that the risk significantly increases based on the kind of data being processed (The more sensitive the data involved, the more regulatory scrutiny, the more risky).Unfortunately children pose a particular problem in terms of compliance because often they don’t have valid  IDs at 13 - but the law says what it says and it seems like Google would rather risk the user experience than non-compliance with regulations.In this case I would say that objectively Google is doing the right thing if you look at the letter of the law. Strange as it may seem.Also a note (to anyone with children) who are online - the laws are really evolving in this space. California just passed into law and age-appropriate design act which divides age groups across 13 to 18-year-olds, so I would expect more businesses will ask for this type of information in the future (next 3-5 years). For obvious reasons there is bipartisan support for data protection laws regulating data related to children."
+    },
+    {
+      "author": "OtterProper",
+      "timestamp": "",
+      "body": "As a parent of a 13yr old, I'll be looking into this directly. Ignore the asshats here. Your outrage is completely justified. As my partner just said, \"Sounds like some bulllllshit, Google.\", and I concur."
+    },
+    {
+      "author": "Adventurous-Ad7694",
+      "timestamp": "",
+      "body": "Excellent idea."
+    },
+    {
+      "author": "ApocalypseNow1984",
+      "timestamp": "",
+      "body": "It's baffling to me that anyone could find Google's position here even remotely reasonable.  'Ignoring asshats' is good advice; I second that advice and also concur that OP's outrage is justified (and then some)."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "Monarc73",
+      "timestamp": "",
+      "body": "Separating a vulnerable semi-adult from responsible supervision is a feature of this policy, not a bug. Particularly if it involves linking a valid credit card to the account."
+    },
+    {
+      "author": "KavensWorld",
+      "timestamp": "",
+      "body": "Dam I set all my kids accounts as adult but I control the passwords."
+    },
+    {
+      "author": "SaysOffensiveThings0",
+      "timestamp": "",
+      "body": "Since no one here has said it yet: just don't use Google."
+    },
+    {
+      "author": "centaursg",
+      "timestamp": "",
+      "body": "Like someone mentioned here, this is the law. As stupid as it may seem. I get that Google offers convenience, you could just create family accounts and supervise etc but with that comes the control, they own your data. They can spy, scan and lock you out legally for any reason- as stupid as the one you are facing.I would say take a weekly backup of all your data on Google - emails, photos, files contacts etc and be ready for your account to be taken from you at anytime.Better yet, de-google yourself."
+    }
+  ]
+}

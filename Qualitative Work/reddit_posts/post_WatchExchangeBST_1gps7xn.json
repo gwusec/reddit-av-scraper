@@ -1,0 +1,29 @@
+{
+  "subreddit": "WatchExchangeBST",
+  "post_id": "1gps7xn",
+  "title": "How Verification Works ✅",
+  "body": "Unfortunately, scammers target subs like this where people buy and sell. It's hard to deter or identify potential scammer accounts until its too late. Some subs rely on sharing sensitive personal data with mods (like this one used to), or relying just on karma and account age.\n\nWe use goConfirm for verification. This will be required to be considered a 'verified seller' but you can still sell without it. Given that increases risk for buyers, there will be a 'not verified seller' flair so its clear.\n\ngoConfirm is designed specifically to work on platforms like Reddit, Facebook, or WhatsApp to help establish trust between buyers and sellers, and turn away scammers using bank-grade verification without compromising on privacy or security.\n\nEveryone on goConfirm is verified using government-issued ID and a matching face scan. Once you're verified, you can create 'goCodes' for each item you want to sell or buy in the sub. Just create a goCode in the app and then paste in your post. It will look similar to this:\n\n\"[WTS] [U.S] Speedmaster custom mod, $800 ✅ goConfirm Verified: 5H09\"\n\nThen any interested buyer or seller can get verified and connect to your goCode. When two people connect a small amount of verified identity data is shared between them (first name, photo and verified status), just enough to establish trust. Hope this helps, and gives you an option to help feel confident when buying or selling in the sub.\n\nThere is also a 'goConfirm Checker' reddit app that is running is the sub that will automatically check goCodes posted and make sure they are being correctly used.\n\nDisclaimer - i'm on the team that built this product, so if you have any feedback or ideas, let me know! Genuinely believe this can be helpful to reduce scams, as it has in other BST subs without a manual and risky workaround.",
+  "author": "sam_goConfirm",
+  "comments": [
+    {
+      "author": "Thedarkknight1959",
+      "timestamp": "",
+      "body": "Nice!"
+    },
+    {
+      "author": "coreyz1103",
+      "timestamp": "",
+      "body": "Curious if this poses any risk to users selling used/new replica product if authorities decided to investigate?"
+    },
+    {
+      "author": "Altruistic-Jello-438",
+      "timestamp": "",
+      "body": "I went through the verification process and listed this sub as a community. However when I go to post I don’t see the goConfirm flair option…. How do I resolve this?"
+    },
+    {
+      "author": "sam_goConfirm",
+      "timestamp": "",
+      "body": "Once you create a goConfirm invite code for the item you’re selling, copy and paste it into your post in the sub. The automod will then add the flair!"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "subreddit": "discordapp",
+  "post_id": "12cms68",
+  "title": "Discord's Age Verification - A wildly flawed system",
+  "body": "Discord's age limit is 13+ in most countries. That's fine and the rule is in place for obvious reasons. I personally think it's a reasonable age limit and I don't see any issue with Discord terminating accounts that do not follow this rule. But here's a question: how does Discord know that you're over 13? Well, to put it simply: they don't! Most Discord users will never have to prove they are over the age of 13. They just hit a checkbox \"confirming\" they're over the legal age and they're in.\n\nDon't worry though, Discord have a system in place where you can report people that you believe are not of the legal age to use the platform. Perfect! Now Discord can be a much safer place for all! But what if I told you this is one of the most exploitable parts of the platform to date?\n\nTurns out that Discord will terminate your account pretty much as soon as they recieve a report from someone that you are not of the legal age to use the platform. They won't give you any warning, just an email saying that you're account is disabled due to \"indicating that you are under 13\" and that you can't use the platform. To make matters worse, not only will they not share what caused them to think this, but the only way to get back your account is a full Photo ID with your DOB, a piece of paper shwoing your Discord username and a selfie of yourself.\n\nThis is ridiculous. To Discord, there is no \"innocent until proven guilty\", you are just immediatly punished until you prove your innocence. I myself am currently a vicitim of this absoloutely pathetic system and have had to work with Discord's VERY slow support team for a good few hours now.\n\nDiscord need to fix their age verification system. It's been broken for years now.",
+  "author": "[deleted]",
+  "comments": [
+    {
+      "author": "AtomArneDK",
+      "timestamp": "",
+      "body": "FLAWED? FUBAR is the correct word for it.They recently asked me to update my age for my discord account, i, by mistake typed in the wrong year.After 4 tickts, countless mails with documentation, my account is STILL! scheduled for deletion due to \"under age usage\". I have a server with +200 people on, and i am UNABLE to manage it while the WORST! support team in history does, somthing!"
+    },
+    {
+      "author": "ImmediateNorth6695",
+      "timestamp": "",
+      "body": "Perhaps this is so.  However, look from the side of the discord.  So they do everything right, if a person under 13 years old receives a notification / warning that his account can be blocked, he will immediately take the necessary measures and will be able to fraudulently dodge it.  And so the user is immediately blocked and does not give him time to forge documents or another item.And usually, to find out that a 12-year-old user is not extremely difficult.  They give themselves away with their less educated behavior and manner of speaking."
+    },
+    {
+      "author": "MasterChickChick",
+      "timestamp": "",
+      "body": "It's far too easy to exploit the system. All Discord need is some random guys word and an entire account is termed. Seems a little extreme. To me, it makes far more sense to warn the user via email before escalating to fully terming the account with no evidence."
+    },
+    {
+      "author": "Fun-Farmer7188",
+      "timestamp": "",
+      "body": "So, you are ok with some random dude at a large company handling your sensitive personal identifying information without valid reason? Most people think that's pretty stupid especially considering you aren't supposed to put that shit online to begin with due to the risk of data breach, bad actors etc."
+    },
+    {
+      "author": "BigPappa__",
+      "timestamp": "",
+      "body": "As It should be"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "This is the second time this happens to me…"
+    }
+  ]
+}

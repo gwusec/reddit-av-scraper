@@ -1,0 +1,59 @@
+{
+  "subreddit": "linkedin",
+  "post_id": "1amjpb7",
+  "title": "Persona ID verification",
+  "body": "I noticed that people have lots of practical issues with Persona ID verification, but there are not many comments (and no media articles as far as I can tell) about the data privacy and security of this service run by a San Francisco based company, Persona Identities Inc., on behalf of LinkedIn. I personally aborted the registration when the service wanted access to the NFC of my passport and became even more concerned when I noticed the amount of data they collect on their privacy policy page (which I apparently can't link, so you will have to search for it).\n\nIn fact, given the amount of data being collected I very much doubt this system is GDPR compliant.\n\nPS In Europe, we have a well functioning and privacy respecting eID system. Why not use that?",
+  "author": "Entire-Mixture-6519",
+  "comments": [
+    {
+      "author": "CodeBillGo",
+      "timestamp": "",
+      "body": "I have been on LinkedIn for many many years and everything is fine until I verified myself by work email which also went through well this afternoon within one minute.Then this evening when I tried to logon to LinkedIn, I was told the account was restricted. Tried following their unblocking procedure and was redirected to Persona which made me feel unsafe.I googled a bit and came across this post. Looks like it's not only me who got restricted by LinkedIn.So I went ahead and uploaded my driver's license to Persona and agreed to share it with LinkedIn. Got an email to my personal email account with a case number.I'll report back how it goes."
+    },
+    {
+      "author": "Creeptoe_Mike",
+      "timestamp": "",
+      "body": "Persona is sketchy as hell as a business.  It's run out of a coworking space in a sketchy SF neighborhood (Mission and 6th St., if you know), and there's literally zero information about the team or it's board on their website.  Ironic that a company dedicated to collecting highly sensitive personal information ostensibly for \"know your customer\" purposes doesn't have any interest in itself disclosing the people behind the company.  Maybe it's there, but not easy to find.   \"About Us\" section has zero info, just some nice puffy language about the company's goals and such.  Read the myriad \"privacy\" policies and disclosures and you will know exactly NOTHING about limitations and how data is kept.  There again, just lots of puffery, circular language and plentiful \"might\" and \"can include\" and \"primarily\" language that ultimately says nothing capable of reliance.  Oh, and the \"what we disclose\" section might as well say \"we will do with your data what we choose\" because the description covers such a wide range of \"instances\".HARD NO for me."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "Realistic_Post_7511",
+      "timestamp": "",
+      "body": "This might be a really interesting question for @r/cybersecurity. I have the check mark and uploaded my drivers license. Now that you post this I wish I had not since I have since learned they had a data breach at some point . Frankly , what I am learning about Russian and Chinese hacking efforts ,from the sub I mentioned,  over the last 20 years , is making more paranoid than ever of identity theft and scams. I am definitely going to take a look at their policy terms . I’ve been on there for 20 years and have been looking for work for a number of months . So many job scams and ghost postings ..I’m not sure it’s worth it.There is a need for identify access management to add integrity to your profiles…not sure what the alternatives will be in the future …In Va , we can’t watch porn without an ID! ( lol) I don’t really watch porn …ok not a lot .Edit : @r/scamsis fun too"
+    },
+    {
+      "author": "moodislife",
+      "timestamp": "",
+      "body": "That's definitely where society is headed as a whole, trying to get absolute control over the internet in the name of \"freedom\" and \"security\". Totalitarian behavior if you ask me, or at least behavior that would greatly facilitate totalitarian behaviors in the future. Not getting my account verified, be it LinkedIn or anywhere else using the same kind of mechanism."
+    },
+    {
+      "author": "ZephyrFloofyDerg",
+      "timestamp": "",
+      "body": "This is bad for individuals and privacy in general. I wish companies would stop trying to do things like this."
+    },
+    {
+      "author": "Cognouveau",
+      "timestamp": "",
+      "body": "Time for a mass boycott. This is the most egregious private info grab I've seen."
+    },
+    {
+      "author": "EmploymentNo3590",
+      "timestamp": "",
+      "body": "I've had LinkedIn for about 15 years and, have been using it without issue. I go to the app today to find, I've been locked out, for no specific reason, until I go through the Persona verification process... I'll pass for now, thanks."
+    },
+    {
+      "author": "eltaho",
+      "timestamp": "",
+      "body": "I've been active on linkedin for 19 years but there's no value for me to get verified. Of course, there's value for LinkedIn to collect our private information, yes. But why should I share it with them? Just to get a checkmark next to my profile? Why? So recruiters believe that I'm a real person? Bullshit."
+    },
+    {
+      "author": "Entire-Mixture-6519",
+      "timestamp": "",
+      "body": ""
+    }
+  ]
+}

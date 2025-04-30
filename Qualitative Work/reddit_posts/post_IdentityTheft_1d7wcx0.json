@@ -1,0 +1,29 @@
+{
+  "subreddit": "IdentityTheft",
+  "post_id": "1d7wcx0",
+  "title": "Identity verification services that include photo identification?",
+  "body": "Greetings!\n\nThe company I work for hires a number of remote employees. We have now had 2 occasions where someone has applied for a job, provided a valid drivers license, but after the fact we've found that the driver's ID was actually a stolen identity. The first one we only discovered after we sent a W-4 to the address listed, and the guy responded that he had never worked for us, and even though the name/address was the same, it wasn't him. The second occurrence, we caught early, as we were about to ship a work laptop to a new employee, and they asked us to ship it to a different address than what was on their ID. We did some snooping, and found a person with the exact same name, but has a different address. However one of their previous addresses the \"real\" person lived at is what the fraudster has on his driver's license. The actual person doesn't look anything like the fraudster. We do a normal background check, and it passed. I'm guessing it passed because the prior address was listed as a valid address. We think the fraudster got a valid \"replacement\" drivers license, but with his picture on it by going to the DMV and saying he lost is license (or something like that). They also have the SS# of the real person (I'm guessing this isn't hard to get).\n\nSo my question is: Does anyone know of an identity service that would pick up on this? We found it by comparing a linkedin photo with the drivers licenses (combined with finding prior addresses via whitepages).\n\nWe are gong to contact the DMV where we believe the fraud occurred, and see if they can pull up prior photos to confirm this is actual fraud and not some unbelievable coincidence.\n\nIs there some organization we should be contacting that might have the resources to directly check this? (Like the FBI or something)?\n\nThanks in advance for you advice.",
+  "author": "nametag_identity",
+  "comments": [
+    {
+      "author": "GIRLwithGREATADVICE",
+      "timestamp": "",
+      "body": "I find your post interesting. I believe we will see far more of these cases as you describe with AI - now readily available to EVERYONE.  With AI ID theft is going to get worse - if we dont figure out a way to verify humans with info and data that isnt so easy to manipulate. If you click the link below you can see how many AI APPS, PROGRAMS, WEBSITES, etc are at peoples disposal that can create ID that is very passable these days. \"ONLY FAKES\" has been said to create digital ID that is passing thru digital authentication, passes when used online to apply for loans... fake ID. - We Are poised to have a mess on our hands if we dont figure out some way to detect fake ID from real IDhttps://theresanaiforthat.com/s/onlyfake.app/"
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "To add, we need to create a system that does not rely on social security numbers to identify people.A SS number is very vulnerable."
+    },
+    {
+      "author": "carlottopipo",
+      "timestamp": "",
+      "body": "To solve the identity fraud issues your company is facing, you should use a KYC (Know Your Customer) solution. KYC helps verify people's identities by checking their documents and personal information against various databases.Togggle.io is a great option. It can check if a driver's license is real and matches the person’s true identity by using advanced technology like facial recognition and document verification. It's secure and easy to use, making it simple for your company to quickly spot fake identities."
+    },
+    {
+      "author": "nametag_identity",
+      "timestamp": "",
+      "body": "u/Dr-Xandid you ever find a solution? We recently launched a product that addresses this exact problem. Figured I'd drop it here in case of interest :https://getnametag.com/newsroom/nametag-verifiedhire-secure-employee-onboardingIf you're curious, your story bears a lot of resemblance to an organized campaign run by North Korea. We published a write-up here:https://getnametag.com/newsroom/north-korea-it-workers-infiltration-ransomware-extortion"
+    }
+  ]
+}

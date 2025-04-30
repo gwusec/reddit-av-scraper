@@ -1,0 +1,24 @@
+{
+  "subreddit": "woocommerce",
+  "post_id": "18u02uf",
+  "title": "Age verification on checkout ? what app is recommended",
+  "body": "Did some research and watched some clips but can't seem to find the answer.\n\nSo I'm considering selling custom box cutter knives that will be shipped without the blade,\n\nso when it comes to the buyer I require them to be 18+ so need some age verification.\n\nbut even if I install a plug in for a tick box and state in the disclamier they need to be of age,\n\nam I still liable if they miss use the item and is there a plugin anyone can recommend.\n\n\n\nIm in the UK but plan to ship worldwide,\n\nthanks\n\n\n\n",
+  "author": "BullfrogLong3070",
+  "comments": [
+    {
+      "author": "wskv",
+      "timestamp": "",
+      "body": "Unless you plan on performing some sort of ID verification (which would likely ruin conversions), you’re going to have to rely on customers self-reporting that they are of age.If you are really concerned, I’d suggest connecting with a lawyer about your legal liabilities and how best to protect yourself."
+    },
+    {
+      "author": "ukBrett",
+      "timestamp": "",
+      "body": "I thought the same in regards to people not wanting to go down the route of providing ID like a passport etc.Looks like its just going to have to be a tick box option I think, looked on other seller websites and that seems to be the theme.thanks for the response"
+    },
+    {
+      "author": "BullfrogLong3070",
+      "timestamp": "",
+      "body": "u/ukBrettyou can try with Yoti , there is a WooCommerce plug-inhttps://developers.yoti.com/age-verification/woocommerce-integrationIt has support for a bunch of different ways of doing AV after the purchase (pre delivery)Options for age checkingDigital ID Connect apps (Yoti's + Post Office + Lloyds);can be freewhen offered with either of the two below methodsAge estimation (no doc or identity required)DocumentAnonymous age token, so if your customer has been checked before that can be reusedAdditional options for checking ages usingaddress detailsphone numberThe whole process is focused on speed, accuracy and privacy. So you should get good coverage and acceptance. The solutions got a lot of use and acceptance in the UK, EU, US.FD: worked on this but commenting in a personal capacity, so it's a throwaway account"
+    }
+  ]
+}

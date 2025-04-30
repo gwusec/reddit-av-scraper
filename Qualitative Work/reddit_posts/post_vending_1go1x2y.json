@@ -1,0 +1,24 @@
+{
+  "subreddit": "vending",
+  "post_id": "1go1x2y",
+  "title": "Issue with Age Verification and Card Payments on G-Snack Vending Machine with Nayax System",
+  "body": "Hello everyone,\n\nI’m encountering a specific issue with my G-Snack vending machine equipped with the Nayax payment system, and I’m hoping someone might have experienced something similar or could provide some advice.\n\nHere’s the problem: •\tFor products requiring age verification, the machine does not accept card payments. However, these same products can be purchased without any issues when using cash. •\tFor non-age-restricted products, card payments work perfectly fine.\n\nDoes anyone know if there are additional settings or configurations required in Nayax for card payments on age-restricted products? Could this be a limitation from the payment provider side, or is there a known workaround?\n\nAny guidance or shared experiences would be greatly appreciated!\n\nThank you!",
+  "author": "Additional_Pain_812",
+  "comments": [
+    {
+      "author": "Donny_GER",
+      "timestamp": "",
+      "body": "How do you check the age on age verification products then, if you can purchase it cash ?!Nayax itself does not have age verfication !on the other hand, in the product settings is a button, where you activate age verification check, but this worked only in austria for a very specific payment method, as far as I am aware."
+    },
+    {
+      "author": "EndevorVending",
+      "timestamp": "",
+      "body": "Have you tried reaching out to the manufacturer on this? Nayax typically does not allow purchase of age restricted products with a credit card. This is due to restrictions with the card brands."
+    },
+    {
+      "author": "Additional_Pain_812",
+      "timestamp": "",
+      "body": "What products are you selling ?"
+    }
+  ]
+}

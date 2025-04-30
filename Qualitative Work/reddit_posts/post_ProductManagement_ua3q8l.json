@@ -1,0 +1,59 @@
+{
+  "subreddit": "ProductManagement",
+  "post_id": "ua3q8l",
+  "title": "how does apps detect users age? Ignore Date of birth, is there any other possible way to detect age like through quiz, Deep learning or any other solution? Currently Facebook is facing similar problem of where min age is 13 but all 10 year old dudes create with fake date of birth. Is there any way ?",
+  "body": "",
+  "author": "froggle_w",
+  "comments": [
+    {
+      "author": "exile_10",
+      "timestamp": "",
+      "body": "UK gov did a big investigation into this calledVerification of Children Online(VoCO). I'm not sure what the outcome was though."
+    },
+    {
+      "author": "voldemortishere",
+      "timestamp": "",
+      "body": "One time Id verification?"
+    },
+    {
+      "author": "kkkkkor",
+      "timestamp": "",
+      "body": "Someone mentioned recently they implemented credit card input for age verification in the US as apparently you can't get a credit card there (or anywhere?) as a minor.I assume there's a way to differentiate between debit and credit cards, maybe even based on the number alone? Or using a payment processor which returns this info to you (and you avoid PCI DSS as well if I'm not mistaken a you're not storing the payment data yourself).Not ideal for a small / early product really. And I haven't worked with payment systems in a while, someone should confirm or correct me.Edit: I also worked on a face recognition solution and this was one use case. Quite unreliable and a nightmare for privacy and reputation :)Also, there are commercial KYC solutions available (like jumio.com) that offer you an API for this."
+    },
+    {
+      "author": "OfficeMonkeyKing",
+      "timestamp": "",
+      "body": "Well, let's go through the options, starting with improbable to whackers.Ignoring date of birth.if phone pings near elementary school,  high school, or college can narrow age.if you can detect other apps on phone, like educational, social dating, or retirement.if you can detect previous or next website as being porn related, lolololol.create a clothing app that allows you to put together outfits, and then determine age and gender based on clothing selectioncreate a survey asking about demographic interests,  but that's too easy.create a network of reddit, Instagram and other such groups and filter for common emails to create demographic groupings for closed loop analysis.type of phone? Or age of phone? Maybe cheaper limited phones belong to kids. Old phones belong to adults, younger phones belong to young adults?absence of using a laptop device?create influencers that are okay with selling out data.detect other devices.look for time limits on devices. If there's a limit, then it's a kid's device.lol, I'm sure I have more ideas, but it's bed time."
+    },
+    {
+      "author": "skywalker356",
+      "timestamp": "",
+      "body": "eKYC if you really need it"
+    },
+    {
+      "author": "SorbetMindless1421",
+      "timestamp": "",
+      "body": "easy, hack the camera and then use CV to gauge age haha jk"
+    },
+    {
+      "author": "blueadept_11",
+      "timestamp": "",
+      "body": "You may be able to use behaviour as a proxy. Different segments, especially age and gender, will behave differently on some apps. NLP is also possible if you already have a trained model and have some sort of user generated content."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "N/A"
+    },
+    {
+      "author": "DrAbeSacrabin",
+      "timestamp": "",
+      "body": "You could do birth certificate verification?16 is likely the youngest you’d get across the US that could possibly have an ID, short of a passport but not everyone has one of those.it verifies DOB and name without any other PIit doesn’t have a picture, but if you were trying to validate DOB for people too young to get an ID, then it’s likely you’re only offering.Could be enough to push legal liability to a degree, still would be hard to implement since there isn’t a uniform BC document across all the states."
+    },
+    {
+      "author": "froggle_w",
+      "timestamp": "",
+      "body": "What problem are you trying to solve? Is this content gating?I am under the impression that you are trying to do privacy-focused design and my question is whether you need the age data in the first place or not."
+    }
+  ]
+}

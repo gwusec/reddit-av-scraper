@@ -1,0 +1,49 @@
+{
+  "subreddit": "ios",
+  "post_id": "1c17jsb",
+  "title": "Got this Apple ID Verification popup but this is my friend’s email. Should I be concerned?",
+  "body": "I checked my Apple ID and the only devices I’m signed into are all mine. Anyone know why this happened?",
+  "author": "Mother-Round-5479",
+  "comments": [
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "The timing of this is quite notable. Apple notified a small segment of its users yesterday who it believes were targeted by a“mercenary spyware attack”. It seems after these notices going out started being reported on by news media, thousands of accounts received the popup OP is describing (including my own).I am really hoping it isn’t related at all but it would be a pretty odd coincidence… To me it looks like there may have been a priority list of targets and once the media picked up this story, whoever is controlling and using the software hit whatever accounts remained that were lower priorities immediately after they became aware Apple was able to detect their attacks."
+    },
+    {
+      "author": "-PizzaSteve",
+      "timestamp": "",
+      "body": "What do they want from me? Even if I was considered as low priority."
+    },
+    {
+      "author": "ryanp_me",
+      "timestamp": "",
+      "body": "I got the same alert a few hours ago, and it had the email address of a co-worker that I haven't worked with for probably 5 years now. That co-worker hasn't even held this phone, since I upgraded my phone a few years after they quit.I reached out in one of the Slack communities I'm a part of, and someone told me they saw something similar but with a test account they use for development. A few people on Twitter have also posted about this in the past few hours.I'm not sure what's going on, but I assume there's nothing to worry about and that something weird is just going on with Apple IDs."
+    },
+    {
+      "author": "Most_Philosopher_625",
+      "timestamp": "",
+      "body": "I got the same alert this morning, but unfortunately, I didn’t take a screenshot. I just got scared. 😅"
+    },
+    {
+      "author": "zacataur",
+      "timestamp": "",
+      "body": "If you sign out of the device's Apple ID you can sign in to your own and install an app you own. I did this to share apps with my family before family sharing existed. Then, when the app needs to update, it will require that Apple ID to sign in to verify the update since the primary account did not install the app.Not saying thats what happened in this case, but that is a scenario I have seen this kind of popup."
+    },
+    {
+      "author": "Oledman",
+      "timestamp": "",
+      "body": "I just got this as well, was an email from another account I use but not currently used on the device I got this message.I just ignored it."
+    },
+    {
+      "author": "[deleted]",
+      "timestamp": "",
+      "body": "I don’t even have my work Apple ID logged in on my phone but I did get a pop up showing my work Apple ID today.I do know that I had my work Apple ID logged in once in the past for calendar but then eventually removed the account from my phone. So I wonder if it has something to do with verifying a removed Apple ID from the phone?… especially those who have traded in the phone, had replaced from repair, etc. just popping up now even though it’s not logged in the phone anymore. Just old owners."
+    },
+    {
+      "author": "Mother-Round-5479",
+      "timestamp": "",
+      "body": "I have two accounts linked on my personal phone and now and then this pops up for either of accounts"
+    }
+  ]
+}
